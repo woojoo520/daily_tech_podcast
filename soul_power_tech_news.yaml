@@ -1,0 +1,41 @@
+---
+metadata:
+  title: "Soul Power Tech News"
+  description: "A podcast about technology news."
+  link: "https://github.com/woojoo520/daily_tech_podcast" # Fallback link
+  rss_feed_url: "https://example.com/podcast/feed.xml"
+  language: "zh-cn"
+  email: "woojoo10@outlook.com"
+  author: "woojoo"
+  category: "Technology"
+  image: |
+    https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/
+    heads/main/images/podcast-soul-power-tech-news-cover.png
+  explicit: false
+  # Default: Use asset_url. Set to true to use content hash (SHA256/MD5/ETag).
+  use_asset_hash_as_guid: false
+  copyright: "© 2025 woojoo"
+  podcast_locked: "no"
+  podcast_guid: "c610e1d0-969b-4142-9a2c-595e7651e90a"
+episodes:
+  - title: "Soul Power 001 - 2025-07-07"
+    description: "Soul Power 001"
+    publication_date: "2025-07-07T10:00:00Z"
+    asset_url: https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3
+    link: https://github.com/woojoo520/daily_tech_podcast/blob/main/
+      episodes/2025-07-07/audio.mp3
+    # image: "https://example.com/episode2_cover.png" # Episode-specific image
+    episode: 1
+    season: 1
+    # episode_type:
+    # "full" (regular), "trailer" (introduction), "bonus" (extra content)
+    episode_type: "full"
+    # This episode will use the global link and image from metadata
+    # transcripts:
+    #   - url: "https://example.com/podcast/transcripts/episode1.srt"
+    #     type: "application/x-subrip"
+    #   - url: "https://example.com/podcast/transcripts/episode1.vtt"
+    #     type: "text/vtt"
+    #     language: "en" # Optional: Language code (e.g., "en", "en-US", "es")
+    #   - url: "https://example.com/podcast/transcripts/bonus1.json"
+    #     type: "application/json"

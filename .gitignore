@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Test & coverage
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# MyPy
+.mypy_cache/
+
+# Local config
+*.local
+*.sqlite3
+
+# dotenv
+.env.*
+.env
+
+# Others
+*.bak
+*.swp
