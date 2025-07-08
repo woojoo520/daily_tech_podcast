@@ -8,9 +8,7 @@ metadata:
   email: "woojoo10@outlook.com"
   author: "woojoo"
   category: "Technology"
-  image: |
-    https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/
-    heads/main/images/podcast-soul-power-tech-news-cover.png
+  image: https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png
   explicit: false
   # Default: Use asset_url. Set to true to use content hash (SHA256/MD5/ETag).
   use_asset_hash_as_guid: false
