@@ -2,9 +2,10 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from audio_generator import AudioGenerator
 from github_uploader import GitHubUploader
-from typing import List
 from config import *
 from uuid import uuid4
+from minimax import generate_audio_from_text
+
 
 app = FastAPI()
 audio_generator = AudioGenerator(API_ENDPOINT)
@@ -17,6 +18,20 @@ class AudioRequest(BaseModel):
     text: str
 
 
+@app.post("/generate-audio")
+def generate_audio(request: AudioRequest):
+    if not request.text:
+        raise HTTPException(status_code=400, detail="No text provided")
+    filepath = generate_audio_from_text(request.text)
+    # upload to GitHub
+    github_helpers.upload_file(
+        source_filepath=filepath,
+        target_filepath=f"episodes/{request.date}/audio.mp3",
+        commit_message=f"Add audio for {request.date}"
+    )
+
+'''
+# localhost test 
 @app.post("/generate-audio")
 def generate_audio(request: AudioRequest):
     if not request.text:
@@ -56,7 +71,7 @@ def generate_audio(request: AudioRequest):
     except Exception as e:
         print(e)
         raise HTTPException(status_code=500, detail=str(e))
-
+'''
 
 if __name__ == "__main__":
     request = AudioRequest(
