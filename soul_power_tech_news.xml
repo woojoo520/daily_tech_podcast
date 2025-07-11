@@ -8,27 +8,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 11 Jul 2025 09:29:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 09:38:11 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 11 Jul 2025 17:29:22 +0800</pubDate>
+    <pubDate>Fri, 11 Jul 2025 17:37:44 +0800</pubDate>
     <itunes:image href="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png"/>
     <item>
       <title>Soul Power Tech News - 2025-07-07</title>
       <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3" length="4913901" type="audio/mpeg"/>
       <itunes:duration>05:07</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 02:28:57 +0806</pubDate>
+      <pubDate>Thu, 10 Jul 2025 18:22:57 +0806</pubDate>
     </item>
     <item>
       <title>马斯克人工智能Grok下周首次应用于Tesla汽车</title>
-      <description><![CDATA[本期Soul Power Tech News为您带来最新科技动态：马斯克宣布AI聊天机器人Grok将于下周首次应用于Tesla汽车，标志着xAI发展的新阶段。Nvidia成为首个市值突破4万亿美元的公司，彰显其在AI领域的领导地位。社交媒体平台X的CEO Linda Yaccarino辞职，平台面临不确定性。Volkswagen计划明年推出机器人出租车服务，依托Uber提升城市交通。Spotify推动人类策展人，以丰富AI播放列表的多样性。加拿大汽车制造商呼吁政府支持零排放汽车目标，同时纽约与旧金山的科技竞争日趋激烈。AI视频标记问题引发关注，技术公司需提升内容识别能力。感谢您的收听！]]></description>
-      <itunes:author>woojoo</itunes:author>
-      <author>woojoo10@outlook.com (woojoo)</author>
-      <guid isPermaLink="false">c897378b-e173-416c-b99a-a17d69b77f10</guid>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
       <itunes:duration>02:43</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 17:29:22 +0800</pubDate>
+      <pubDate>Fri, 11 Jul 2025 09:29:22 +0806</pubDate>
+    </item>
+    <item>
+      <title>马斯克公布Grok AI机器人即将上线特斯拉</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与科技相关的重要动态，今天是2025年7月11日，你将会听到：
+
+埃隆·马斯克宣布，Grok AI 聊天机器人将于下周在特斯拉汽车上推出，旨在提升智能驾驶体验，但因其在社交媒体上的争议言论而引发关注。
+
+英伟达成为首家市值达到4万亿美元的公司，而SpaceX也在寻求4000亿美元的估值。
+
+关于人工智能的立法进展缓慢，各州正在重启相关规范，旨在保护公众，但引发了针对过度规制可能抑制创新的担忧。
+
+沃尔沃计划在美国推出Robotaxi服务，并借助Uber进行支持，标志着自动驾驶行业的发展。
+
+此外，纽约与旧金山在科技领域的竞争日益激烈，纽约正努力成为技术成熟的中心，尤其是在人工智能方面。
+
+感谢您的收听，请继续关注我们的科技动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>woojoo10@outlook.com (woojoo)</author>
+      <guid isPermaLink="false">632e2d32-c76b-43ed-8b90-42c472bb155d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
+      <itunes:duration>02:43</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 17:37:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
