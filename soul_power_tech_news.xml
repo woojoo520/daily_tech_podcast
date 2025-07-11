@@ -1,2 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>Soul Power Tech News</title><description><![CDATA[<p>A podcast about technology news.</p>]]></description><language>zh-cn</language><link>https://github.com/woojoo520/daily_tech_podcast</link><generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator><atom:link href="https://example.com/podcast/feed.xml" rel="self" type="application/rss+xml" /><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:email>woojoo10@outlook.com</itunes:email></itunes:owner><itunes:author>woojoo</itunes:author><itunes:summary>A podcast about technology news.</itunes:summary><itunes:category text="Technology" /><itunes:image href="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png" /><copyright>© 2025 woojoo</copyright><podcast:locked owner="woojoo10@outlook.com">no</podcast:locked><podcast:guid>c610e1d0-969b-4142-9a2c-595e7651e90a</podcast:guid><item><pubDate>Mon, 07 Jul 2025 10:00:00 +0000</pubDate><title>Soul Power 001 - 2025-07-07</title><description><![CDATA[<p>Soul Power 001</p>]]></description><guid>https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3</guid><enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3" type="audio/mpeg" length="23949" /><itunes:explicit>no</itunes:explicit><itunes:duration>5</itunes:duration><itunes:episode>1</itunes:episode><itunes:season>1</itunes:season><itunes:episodeType>full</itunes:episodeType><link>https://github.com/woojoo520/daily_tech_podcast/blob/main/ episodes/2025-07-07/audio.mp3</link><itunes:image href="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png" /></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Soul Power Tech News</title>
+    <link>https://github.com/woojoo520/daily_tech_podcast</link>
+    <description>A podcast about technology news.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Jul 2025 02:28:57 +0000</lastBuildDate>
+    <itunes:author>woojoo</itunes:author>
+    <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
+    <pubDate>Fri, 11 Jul 2025 10:28:57 +0800</pubDate>
+    <itunes:image href="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png"/>
+    <item>
+      <title>Soul Power Tech News - 2025-07-07</title>
+      <description><![CDATA[
+    本期 Soul Power Tech News 为你带来最新的科技商业动态，包括：
+
+小米汽车大获成功，苹果却退出造车；特朗普与马斯克决裂，后者组建新党；Apple 因反垄断罚款上诉欧盟；Meta 高薪挖角 OpenAI 四位AI专家；AI模型频现欺骗行为引发安全担忧；OpenAI 暂停生物AI功能以防风险；美国专利制度或迎历史性变革；SanDisk SSD 打破全年最低价；WhatsApp 推出多账号切换与文件扫描器；德国对中国AI公司 DeepSeek 展开合规审查。
+
+欢迎收听
+    ]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>woojoo10@outlook.com (woojoo)</author>
+      <guid isPermaLink="false">84365f72-9f6e-4ad6-9225-5da64340f79a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3" length="4913901" type="audio/mpeg"/>
+      <itunes:duration>05:07</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 10:28:57 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

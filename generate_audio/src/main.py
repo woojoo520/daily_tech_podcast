@@ -1,14 +1,17 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from audio_generator import AudioGenerator
+# from local_tts_generator import AudioGenerator
+# from uuid import uuid4
 from github_uploader import GitHubUploader
 from config import *
-from uuid import uuid4
-from minimax import generate_audio_from_text
+from minimax_generator import generate_audio_from_text
+from rss_handler import RSSHandler, PodEpisode
+from mutagen.mp3 import MP3
+from urllib.parse import urljoin
 
 
 app = FastAPI()
-audio_generator = AudioGenerator(API_ENDPOINT)
+# audio_generator = AudioGenerator(API_ENDPOINT)
 github_helpers = GitHubUploader(GITHUB_TOKEN, GITHUB_REPO)
 if not os.path.exists(SAVE_DIRECTORY):
     os.makedirs(SAVE_DIRECTORY)
@@ -23,12 +26,45 @@ def generate_audio(request: AudioRequest):
     if not request.text:
         raise HTTPException(status_code=400, detail="No text provided")
     filepath = generate_audio_from_text(request.text)
+    
     # upload to GitHub
+    audio = MP3(filepath)
+    duration_seconds = audio.info.length
+    audio_path = f"episodes/{request.date}/audio.mp3"
+    script_path = f"episodes/{request.date}/script.txt"
+    
     github_helpers.upload_file(
         source_filepath=filepath,
-        target_filepath=f"episodes/{request.date}/audio.mp3",
+        target_filepath=audio_path,
         commit_message=f"Add audio for {request.date}"
     )
+    
+    github_helpers.upload_contents(
+        content=f"{duration_seconds}\n" + request.text,
+        target_filepath=script_path,
+        commit_message=f"Add script for {request.date}"
+    )
+    
+    audit_source = urljoin(github_helpers.source_base_path, audio_path)
+    script_source = urljoin(github_helpers.source_base_path, script_path)
+    
+    return {
+        "audit_source": audit_source, 
+        "script_source": script_source
+    }
+    
+@app.post("add_new_espisode")
+def add_new_episode(episode: PodEpisode):
+    rss_handler = RSSHandler(feed_source=RSS_FEEDSOURCE)
+    rss_handler.add_new_episodes(episode)
+    rss_content = rss_handler.get_rss_str()
+    github_helpers.upload_contents(
+        content=rss_content,
+        target_filepath="soul_power_tech_news.xml",
+        commit_message="Update RSS feed with new episode"
+    )
+    return {"message": "Episode added successfully"}
+    
 
 '''
 # localhost test 
@@ -73,10 +109,10 @@ def generate_audio(request: AudioRequest):
         raise HTTPException(status_code=500, detail=str(e))
 '''
 
-if __name__ == "__main__":
-    request = AudioRequest(
-        date="2025-07-07",
-        text=["今天是2025年7月7日。\n\n明天是2025年7月8日。"]
-    )
-    generate_audio(request)
-    print("Audio generation completed.")
+# if __name__ == "__main__":
+#     request = AudioRequest(
+#         date="2025-07-07",
+#         text="今天是2025年7月7日。\n\n明天是2025年7月8日。"
+#     )
+#     generate_audio(request)
+#     print("Audio generation completed.")
