@@ -7,12 +7,17 @@ from pytz import timezone
 from uuid import uuid4
 from urllib.parse import urlparse
 import os
- 
-main_author = Person("woojoo", "woojoo10@outlook.com")
 
+
+class PodAuthor(BaseModel): 
+    name: str 
+    email: str
+    
+
+default_author = PodAuthor(name="woojoo", email="woojoo10@outlook.com")
 class PodEpisode(BaseModel): 
     title: str
-    authors: list[dict] = [main_author]
+    authors: list[PodAuthor] = [default_author]
     description: str = ""
     publication_ts: int 
     asset_url: str
@@ -20,6 +25,9 @@ class PodEpisode(BaseModel):
     size: int
     # script_url: str
     # link: str = ""
+    
+    def get_authors(self) -> list[Person]:
+        return [Person(author.name, author.email) for author in self.authors]
     
 
 class RSSHandler:
@@ -58,10 +66,9 @@ class RSSHandler:
         """ Fetch and parse RSS feed from a URL."""
         import requests
         try:
-            response = requests.get(url, timeout=30)
-            response.raise_for_status()  
-            
-            return feedparser.parse(response.content)
+            response = requests.get(url, timeout=10)
+            response.raise_for_status() 
+            return feedparser.parse(response.text)
             
         except requests.RequestException as e:
             raise ConnectionError(f"Failed to fetch RSS from URL {url}: {e}")
@@ -115,7 +122,7 @@ class RSSHandler:
         self.podcast.episodes.append(
             Episode(
                 title=episode.title,
-                authors=episode.authors,
+                authors=episode.get_authors(),
                 summary=episode.description, 
                 id=str(uuid4()),  
                 media=Media(

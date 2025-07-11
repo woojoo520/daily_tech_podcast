@@ -21,9 +21,11 @@ class GitHubUploader:
     
     def upload_contents(self, content, target_filepath, commit_message):
         try:
+            print(f"target_filepath: {target_filepath}")
             ori_contents = self.repo.get_contents(target_filepath)
-            self.repo.update_file(ori_contents.path, commit_message, content, ori_contents.sha)
+            self.repo.update_file(ori_contents.path, commit_message, content, sha=ori_contents.sha)
         except Exception:
-            # 不存在则创建
             self.repo.create_file(target_filepath, commit_message, content)
             
+    def get_content(self, filepath): 
+        return self.repo.get_contents(filepath)

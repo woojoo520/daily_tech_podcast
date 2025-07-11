@@ -8,6 +8,7 @@ from minimax_generator import generate_audio_from_text
 from rss_handler import RSSHandler, PodEpisode
 from mutagen.mp3 import MP3
 from urllib.parse import urljoin
+import time
 
 
 app = FastAPI()
@@ -26,10 +27,12 @@ def generate_audio(request: AudioRequest):
     if not request.text:
         raise HTTPException(status_code=400, detail="No text provided")
     filepath = generate_audio_from_text(request.text)
+    # filepath = "/Users/woojoo/workspace/daily_tech_podcast/generate_audio/output/output_total_1752204229.mp3"
     
     # upload to GitHub
     audio = MP3(filepath)
     duration_seconds = audio.info.length
+    size_bytes = os.path.getsize(filepath)
     audio_path = f"episodes/{request.date}/audio.mp3"
     script_path = f"episodes/{request.date}/script.txt"
     
@@ -40,7 +43,7 @@ def generate_audio(request: AudioRequest):
     )
     
     github_helpers.upload_contents(
-        content=f"{duration_seconds}\n" + request.text,
+        content=f"{int(duration_seconds)},{size_bytes}\n" + request.text,
         target_filepath=script_path,
         commit_message=f"Add script for {request.date}"
     )
@@ -49,11 +52,15 @@ def generate_audio(request: AudioRequest):
     script_source = urljoin(github_helpers.source_base_path, script_path)
     
     return {
+        "publication_ts": int(time.time()), 
         "audit_source": audit_source, 
-        "script_source": script_source
+        "script_source": script_source, 
+        "duration": int(duration_seconds), 
+        "filesize": size_bytes
     }
-    
-@app.post("add_new_espisode")
+
+
+@app.post("/add_new_espisode")
 def add_new_episode(episode: PodEpisode):
     rss_handler = RSSHandler(feed_source=RSS_FEEDSOURCE)
     rss_handler.add_new_episodes(episode)
