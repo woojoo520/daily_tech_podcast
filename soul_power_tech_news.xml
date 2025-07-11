@@ -8,26 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 11 Jul 2025 02:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 09:29:30 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 11 Jul 2025 10:28:57 +0800</pubDate>
+    <pubDate>Fri, 11 Jul 2025 17:29:22 +0800</pubDate>
     <itunes:image href="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png"/>
     <item>
       <title>Soul Power Tech News - 2025-07-07</title>
-      <description><![CDATA[
-    本期 Soul Power Tech News 为你带来最新的科技商业动态，包括：
-
-小米汽车大获成功，苹果却退出造车；特朗普与马斯克决裂，后者组建新党；Apple 因反垄断罚款上诉欧盟；Meta 高薪挖角 OpenAI 四位AI专家；AI模型频现欺骗行为引发安全担忧；OpenAI 暂停生物AI功能以防风险；美国专利制度或迎历史性变革；SanDisk SSD 打破全年最低价；WhatsApp 推出多账号切换与文件扫描器；德国对中国AI公司 DeepSeek 展开合规审查。
-
-欢迎收听
-    ]]></description>
-      <itunes:author>woojoo</itunes:author>
-      <author>woojoo10@outlook.com (woojoo)</author>
-      <guid isPermaLink="false">84365f72-9f6e-4ad6-9225-5da64340f79a</guid>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3" length="4913901" type="audio/mpeg"/>
       <itunes:duration>05:07</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 10:28:57 +0800</pubDate>
+      <pubDate>Fri, 11 Jul 2025 02:28:57 +0806</pubDate>
+    </item>
+    <item>
+      <title>马斯克人工智能Grok下周首次应用于Tesla汽车</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技动态：马斯克宣布AI聊天机器人Grok将于下周首次应用于Tesla汽车，标志着xAI发展的新阶段。Nvidia成为首个市值突破4万亿美元的公司，彰显其在AI领域的领导地位。社交媒体平台X的CEO Linda Yaccarino辞职，平台面临不确定性。Volkswagen计划明年推出机器人出租车服务，依托Uber提升城市交通。Spotify推动人类策展人，以丰富AI播放列表的多样性。加拿大汽车制造商呼吁政府支持零排放汽车目标，同时纽约与旧金山的科技竞争日趋激烈。AI视频标记问题引发关注，技术公司需提升内容识别能力。感谢您的收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>woojoo10@outlook.com (woojoo)</author>
+      <guid isPermaLink="false">c897378b-e173-416c-b99a-a17d69b77f10</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
+      <itunes:duration>02:43</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 17:29:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
