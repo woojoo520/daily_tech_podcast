@@ -14,14 +14,10 @@
     <pubDate>Sat, 12 Jul 2025 12:05:35 +0800</pubDate>
     <itunes:image href="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png"/>
     <item>
-      <title>马斯克人工智能Grok下周首次应用于Tesla汽车</title>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3</guid>
-      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
-      <itunes:duration>02:43</itunes:duration>
-      <pubDate>Thu, 10 Jul 2025 17:17:22 +0806</pubDate>
-    </item>
-    <item>
       <title>特斯拉新AI聊天机器人Grok即将上线引发热议</title>
+      <description><![CDATA[欢迎关注Soul Power tech News!! 这是第一期试水节目哈哈哈哈]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>woojoo10@outlook.com (woojoo)</author>
       <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
       <itunes:duration>02:43</itunes:duration>
