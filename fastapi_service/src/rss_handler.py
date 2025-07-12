@@ -1,4 +1,4 @@
-from podgen import Podcast, Episode, Media, Person
+from podgen import Podcast, Episode, Media, Person, Category
 from datetime import datetime, timedelta
 from pathlib import Path
 from pydantic import BaseModel
@@ -78,15 +78,21 @@ class RSSHandler:
     
     def _create_podcast_from_feed(self, parsed):
         # create a new Podcast object
-        podcast = Podcast(
-            name=parsed.feed.title,
-            description=parsed.feed.description,
-            website=parsed.feed.link,
-            explicit=(parsed.feed.itunes_explicit == 'yes'),
-            authors=[Person("woojoo", "woojoo10@outlook.com")],
-            image="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png",
-            language=parsed.feed.language
-        )
+        try:
+            tags = parsed.feed.tags
+            category = tags[0]['term']
+            podcast = Podcast(
+                name=parsed.feed.title,
+                description=parsed.feed.description,
+                website=parsed.feed.link,
+                explicit=(parsed.feed.itunes_explicit == 'yes'),
+                authors=[Person(name=author['name'], email=author.get("email", "")) for author in parsed.feed.authors],
+                image=parsed.feed.image['href'],
+                category=Category(category, subcategory=None if len(tags) == 1 else tags[1]['term']),
+                language=parsed.feed.language
+            )
+        except:
+            raise ValueError("Missing key variable for initiate a podcast.")
         
         # add existing episodes
         for entry in parsed.entries:
@@ -149,7 +155,9 @@ class RSSHandler:
 if __name__ == "__main__":
     src_filepath = "/Users/woojoo/workspace/daily_tech_podcast/soul_power_tech_news.xml"
     tar_filepath = "/Users/woojoo/workspace/daily_tech_podcast/soul_power_tech_news.xml"
-    rss_handler = RSSHandler(feed_filepath=src_filepath)
+    rss_handler = RSSHandler(feed_source="")
+    content = rss_handler.get_rss_str()
+    print(f"content: {content}")
     summary= """
     本期 Soul Power Tech News 为你带来最新的科技商业动态，包括：
 
