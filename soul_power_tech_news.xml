@@ -3,7 +3,10 @@
   <channel>
     <title>Soul Power Tech News</title>
     <link>https://github.com/woojoo520/daily_tech_podcast</link>
-    <description>A podcast about technology news.</description>
+    <description> 感谢您关注 🎙 Soul Power Tech News频道！！
+这是一个由自动化工具 n8n 搭建的播客，每天从官方权威新闻平台抓取最新科技要闻，并通过智能摘要系统生成清晰简明的总结报告。节目的目标是：让你在通勤、早咖啡时间，就能高效掌握核心科技动态。
+创立这个播客的灵感，来自我个人对《声动早咖啡》的喜爱。但我也一直苦于找不到专注政治/经济方向的每日资讯播客，因此决定亲自打造一个自动化播客系统，用技术服务内容创作。取名的来源当然是来自我们亲爱的David Tao嘿嘿。
+未来，我们也将推出政治类、经济类的每日播客，敬请期待！欢迎关注我们的节目，也非常欢迎你提出宝贵意见和建议，让这个项目不断成长、优化。</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
