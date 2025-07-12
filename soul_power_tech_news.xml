@@ -8,34 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 11 Jul 2025 09:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 04:06:03 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 11 Jul 2025 17:40:46 +0800</pubDate>
+    <pubDate>Sat, 12 Jul 2025 12:05:35 +0800</pubDate>
     <itunes:image href="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/images/podcast-soul-power-tech-news-cover.png"/>
     <item>
       <title>Soul Power Tech News - 2025-07-07</title>
       <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-07-07/audio.mp3" length="4913901" type="audio/mpeg"/>
       <itunes:duration>05:07</itunes:duration>
-      <pubDate>Thu, 10 Jul 2025 18:22:57 +0806</pubDate>
+      <pubDate>Thu, 10 Jul 2025 10:16:57 +0806</pubDate>
     </item>
     <item>
       <title>马斯克人工智能Grok下周首次应用于Tesla汽车</title>
       <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
       <itunes:duration>02:43</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 09:29:22 +0806</pubDate>
+      <pubDate>Fri, 11 Jul 2025 01:23:22 +0806</pubDate>
     </item>
     <item>
       <title>特斯拉新AI聊天机器人Grok即将上线引发热议</title>
-      <description><![CDATA[本期Soul Power Tech News带来以下重要科技动态：特斯拉CEO Elon Musk宣布AI聊天机器人Grok将在下周正式上线，标志着其在AI集成方面的进步，但Musk近期因反犹太主义言论受到争议。Nvidia成为首个市值达4万亿美元的公司，股价自2023年以来上涨超过10倍，显示其在AI领域的强劲增长。X公司CEO Linda Yaccarino辞职，此事件引发人们对Musk公司内部控制的关注。大众汽车宣布计划明年在美国推出Robotaxi服务，提升自动驾驶竞争力。同时，美国地方政府对AI技术的监管引发关注。最后，Meta正在开发新浏览器以增强用户数据控制，力图与Google竞争。欢迎收听！]]></description>
-      <itunes:author>woojoo</itunes:author>
-      <author>woojoo10@outlook.com (woojoo)</author>
-      <guid isPermaLink="false">6880bc01-63a2-4804-b334-803aed8f0e9f</guid>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
       <itunes:duration>02:43</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 17:40:46 +0800</pubDate>
+      <pubDate>Fri, 11 Jul 2025 09:40:46 +0806</pubDate>
+    </item>
+    <item>
+      <title>Google为美政府云服务提供71%折扣引发行业价格战</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来昨日全球最具影响力的科技新闻解读，包括：  
+Google为美国政府提供高达71%的云服务折扣，可能产生20亿美元节约；五角大楼将打破无人机采购限制，优先采购美国产低成本无人机；TechCrunch Disrupt展示AI硬件新趋势，关注可解释AI等伦理问题；比特币突破历史新高，因ETF资金流入和特朗普政府支持；巴基斯坦邀请LEO卫星互联网运营商，预计将提升网络安全；OpenAI收购Windsurf案流产，转由Google DeepMind获得团队；BlockFi与美国司法部达成和解，提升加密资产清算透明度；安全专家利用ChatGPT漏洞获真实Windows密钥，引发隐忧；Don Lemon对Elon Musk及X平台的诉讼进入审理，涉及内容合作争议；xAI发布Grok 4聊天机器人，首度引用Musk观点引发伦理关注。欢迎继续关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>woojoo10@outlook.com (woojoo)</author>
+      <guid isPermaLink="false">9659ecfb-c467-43ad-9566-b637d2f12051</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-12/audio.mp3" length="7929261" type="audio/mpeg"/>
+      <itunes:duration>08:15</itunes:duration>
+      <pubDate>Sat, 12 Jul 2025 12:05:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
