@@ -11,8 +11,8 @@ import os
 
 class PodAuthor(BaseModel): 
     name: str 
-    email: str
-    
+    email: str = ""
+ 
 
 default_author = PodAuthor(name="woojoo", email="woojoo10@outlook.com")
 class PodEpisode(BaseModel): 
@@ -100,9 +100,14 @@ class RSSHandler:
             media_type = entry.enclosures[0].type
             media_size = entry.enclosures[0].length
             duration = self._parse_duration(entry.itunes_duration) 
+            summary = entry.summary_detail
+            authors = [PodAuthor(**item) for item in entry.authors]
 
             episode = Episode(
                 title=entry.title,
+                authors=authors,
+                summary=summary,
+                id=entry.id,
                 media=Media(
                     url=media_url, 
                     size=media_size,
