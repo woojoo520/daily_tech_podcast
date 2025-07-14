@@ -3,7 +3,7 @@
   <channel>
     <title>Soul Power Tech News</title>
     <link>https://github.com/woojoo520/daily_tech_podcast</link>
-    <description> 感谢您关注 🎙 Soul Power Tech News频道！！
+    <description>感谢您关注 🎙 Soul Power Tech News频道！！
 这是一个由自动化工具 n8n 搭建的播客，每天从官方权威新闻平台抓取最新科技要闻，并通过智能摘要系统生成清晰简明的总结报告。节目的目标是：让你在通勤、早咖啡时间，就能高效掌握核心科技动态。
 创立这个播客的灵感，来自我个人对《声动早咖啡》的喜爱。但我也一直苦于找不到专注政治/经济方向的每日资讯播客，因此决定亲自打造一个自动化播客系统，用技术服务内容创作。取名的来源当然是来自我们亲爱的David Tao嘿嘿。
 未来，我们也将推出政治类、经济类的每日播客，敬请期待！欢迎关注我们的节目，也非常欢迎你提出宝贵意见和建议，让这个项目不断成长、优化。</description>
@@ -11,10 +11,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 Jul 2025 04:11:13 +0000</lastBuildDate>
-    <itunes:author>woojoo</itunes:author>
-    <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 12 Jul 2025 12:05:35 +0800</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 11:50:08 +0000</lastBuildDate>
+    <itunes:author>woojoo and woojoo</itunes:author>
+    <dc:creator>woojoo</dc:creator>
+    <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+    <pubDate>Mon, 14 Jul 2025 19:43:27 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -22,23 +23,25 @@
     <item>
       <title>特斯拉新AI聊天机器人Grok即将上线引发热议</title>
       <description><![CDATA[欢迎关注Soul Power tech News!! 这是第一期试水节目哈哈哈哈]]></description>
-      <itunes:author>woojoo</itunes:author>
-      <author>woojoo10@outlook.com (woojoo)</author>
+      <itunes:author>woojoo and woojoo</itunes:author>
+      <dc:creator>woojoo</dc:creator>
+      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
       <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
       <itunes:duration>02:43</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 01:34:46 +0806</pubDate>
+      <pubDate>Thu, 10 Jul 2025 17:28:46 +0806</pubDate>
     </item>
     <item>
       <title>Google为美政府云服务提供71%折扣引发行业价格战</title>
       <description><![CDATA[本期Soul Power Tech News将为你带来昨日全球最具影响力的科技新闻解读，包括：  
 Google为美国政府提供高达71%的云服务折扣，可能产生20亿美元节约；五角大楼将打破无人机采购限制，优先采购美国产低成本无人机；TechCrunch Disrupt展示AI硬件新趋势，关注可解释AI等伦理问题；比特币突破历史新高，因ETF资金流入和特朗普政府支持；巴基斯坦邀请LEO卫星互联网运营商，预计将提升网络安全；OpenAI收购Windsurf案流产，转由Google DeepMind获得团队；BlockFi与美国司法部达成和解，提升加密资产清算透明度；安全专家利用ChatGPT漏洞获真实Windows密钥，引发隐忧；Don Lemon对Elon Musk及X平台的诉讼进入审理，涉及内容合作争议；xAI发布Grok 4聊天机器人，首度引用Musk观点引发伦理关注。欢迎继续关注！]]></description>
-      <itunes:author>woojoo</itunes:author>
-      <author>woojoo10@outlook.com (woojoo)</author>
+      <itunes:author>woojoo and woojoo</itunes:author>
+      <dc:creator>woojoo</dc:creator>
+      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
       <guid isPermaLink="false">6162c7ae-1d53-403e-ae23-cc86b011d0da</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-12/audio.mp3" length="7929261" type="audio/mpeg"/>
       <itunes:duration>08:15</itunes:duration>
-      <pubDate>Sat, 12 Jul 2025 12:05:35 +0800</pubDate>
+      <pubDate>Sat, 12 Jul 2025 04:05:35 +0806</pubDate>
     </item>
     <item>
       <title>Bay Miner云挖矿平台闪耀发布，引领数字货币新革命</title>
@@ -55,12 +58,24 @@ Intel Mini PC售价创新低，展现小型化趋势与市场潜力。
 YouTube关闭“全球热榜”，标志网络爆款时代结束，内容定制化将成新常态。
 
 欢迎收听！]]></description>
-      <itunes:author>woojoo</itunes:author>
-      <author>woojoo10@outlook.com (woojoo)</author>
+      <itunes:author>woojoo and woojoo</itunes:author>
+      <dc:creator>woojoo</dc:creator>
+      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
       <guid isPermaLink="false">22218c38-4a4d-4f32-8271-12b8922935b9</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-13/audio.mp3" length="8548461" type="audio/mpeg"/>
       <itunes:duration>08:54</itunes:duration>
-      <pubDate>Sun, 13 Jul 2025 22:00:21 +0800</pubDate>
+      <pubDate>Sun, 13 Jul 2025 14:00:21 +0806</pubDate>
+    </item>
+    <item>
+      <title>美欧科技主权之争再起 波及监管与关税新战场</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技动态，主要内容包括：
+美国与欧盟在科技主导权上冲突加剧，Trump对欧盟商品加征关税，AI监管引发双方争议；Nvidia CEO警告AI将影响全球就业，呼吁社会做好应对；Apple Watch Ultra 3即将发布，预计将增添卫星通信与健康功能；东南亚探索适合当地的AI发展路径，避免单纯模仿硅谷；Elon Musk旗下的Grok因反犹言论引发争议，舆论呼吁加强AI内容监管；Apple高管变动显示公司策略调整，瞄准AI与可穿戴设备；投资者看好台积电能在AI芯片需求中保持领先；弗吉尼亚州律师协会认可AI辅助法律服务的价值计价，促进行业定价变革；Centene公司面临集体诉讼，反映医疗科技行业面临的监管挑战。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>woojoo10@outlook.com (woojoo)</author>
+      <guid isPermaLink="false">b8d29f57-d20e-4285-add8-16f47a7e9f39</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-14/audio.mp3" length="8030061" type="audio/mpeg"/>
+      <itunes:duration>08:21</itunes:duration>
+      <pubDate>Mon, 14 Jul 2025 19:43:27 +0800</pubDate>
     </item>
   </channel>
 </rss>
