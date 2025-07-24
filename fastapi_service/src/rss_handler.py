@@ -7,6 +7,7 @@ from pytz import timezone
 from uuid import uuid4
 from urllib.parse import urlparse
 import os
+import calendar
 
 
 class PodAuthor(BaseModel): 
@@ -86,7 +87,7 @@ class RSSHandler:
                 description=parsed.feed.description,
                 website=parsed.feed.link,
                 explicit=(parsed.feed.itunes_explicit == 'yes'),
-                authors=[Person(name=author['name'], email=author.get("email", "")) for author in parsed.feed.authors],
+                authors=[Person(name=default_author.name, email=default_author.email) ],
                 image=parsed.feed.image['href'],
                 category=Category(category, subcategory=None if len(tags) == 1 else tags[1]['term']),
                 language=parsed.feed.language
@@ -100,12 +101,19 @@ class RSSHandler:
             media_type = entry.enclosures[0].type
             media_size = entry.enclosures[0].length
             duration = self._parse_duration(entry.itunes_duration) 
-            summary = entry.summary_detail
-            authors = [PodAuthor(**item) for item in entry.authors]
+            summary = entry.summary
+            # print(f"authors: {authors}")
+            # print(f"id: {entry.id}")
+            # print(f"summary: {summary}")
+            # print(f"title: {entry.title}")
+            
+            ts = calendar.timegm(entry.published_parsed)  # 转为 UTC timestamp
+            utc_dt = datetime.fromtimestamp(ts, tz=timezone('UTC'))  # 安全方式，不用 utcfromtimestamp
+            pub_dt = utc_dt.astimezone(self.tz)  # 转为东八区时间
 
             episode = Episode(
                 title=entry.title,
-                authors=authors,
+                authors=[default_author],
                 summary=summary,
                 id=entry.id,
                 media=Media(
@@ -113,7 +121,7 @@ class RSSHandler:
                     size=media_size,
                     type=media_type, 
                     duration=timedelta(seconds=duration)),
-                publication_date=datetime(*entry.published_parsed[:6], tzinfo=self.tz),
+                publication_date=pub_dt,
             )
             podcast.episodes.append(episode)
 
@@ -133,7 +141,7 @@ class RSSHandler:
         self.podcast.episodes.append(
             Episode(
                 title=episode.title,
-                authors=episode.get_authors(),
+                authors=[default_author],
                 summary=episode.description, 
                 id=str(uuid4()),  
                 media=Media(

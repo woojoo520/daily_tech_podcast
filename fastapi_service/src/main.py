@@ -27,7 +27,7 @@ def generate_audio(request: AudioRequest):
     if not request.text:
         raise HTTPException(status_code=400, detail="No text provided")
     filepath = generate_audio_from_text(request.text)
-    # filepath = "/Users/woojoo/workspace/daily_tech_podcast/generate_audio/output/output_total_1752226155.mp3"
+    # filepath = "/Users/woojoo/workspace/daily_tech_podcast/fastapi_service/output/output_total_1753285098.mp3"
     
     # upload to GitHub
     audio = MP3(filepath)
