@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 24 Jul 2025 12:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 12:07:11 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 24 Jul 2025 20:02:01 +0800</pubDate>
+    <pubDate>Fri, 25 Jul 2025 20:06:44 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -147,6 +147,16 @@ Verizon CEO谈AI对公司运营的深远影响。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-24/audio.mp3" length="8171181" type="audio/mpeg"/>
       <itunes:duration>08:30</itunes:duration>
       <pubDate>Thu, 24 Jul 2025 20:02:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>Google投资850亿美元强化AI基础设施竞争</title>
+      <description><![CDATA[本期Soul Power Tech News带来全球科技动态，包括：Google加速AI基础设施投资，2025年预算增至850亿美元，自建数据中心和Tensor芯片支撑大模型增长。Pixel 10系列手机提前曝光，Google可能在未来大会上重视AI能力整合。Apple发布iOS 26，特色是液态玻璃新界面和“Apple Intelligence”功能。德国Teufel推出超可修复蓝牙音箱，引领可持续产品设计。台湾TSMC二季度业绩强劲，股价上升，未来AI芯片潜力被看好。美国针对TikTok的技术转让透露中美科技博弈加剧。Nexamp成功部署清洁能源项目，创新机制提升效率。比特币短暂回调后反弹，仍被看好。Intel CEO强调面临亏损，急需技术突破。欢迎继续关注我们的科技动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">e26fe500-6eab-4ece-9d8f-ba692e92e17c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-25/audio.mp3" length="7716141" type="audio/mpeg"/>
+      <itunes:duration>08:02</itunes:duration>
+      <pubDate>Fri, 25 Jul 2025 20:06:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
