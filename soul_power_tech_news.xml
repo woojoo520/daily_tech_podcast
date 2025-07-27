@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 25 Jul 2025 12:07:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 03:06:39 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 25 Jul 2025 20:06:44 +0800</pubDate>
+    <pubDate>Sun, 27 Jul 2025 11:06:14 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -157,6 +157,18 @@ Verizon CEO谈AI对公司运营的深远影响。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-25/audio.mp3" length="7716141" type="audio/mpeg"/>
       <itunes:duration>08:02</itunes:duration>
       <pubDate>Fri, 25 Jul 2025 20:06:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国能源部遭中国黑客攻击影响400多机构</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来最新商业科技动态，内容包括：
+
+美国国家核安全局遭中国黑客大规模网络攻击，Microsoft发布紧急安全补丁以应对SharePoint漏洞。美股市场盛行meme股，年轻散户频繁操作寻求高收益，金融专业人士对此表示担忧。Halper Sadeh LLC对多家公司发起投资者权益调查，以应对疑似证券法违规行为。Meta、Amazon和Google合作启动超级能源大电网项目，强调可再生能源的未来。Team Group发布支持自毁机制的SSD，强化数据安全。Razer推出新款外接显卡，提升移动办公能力。美国将实施新儿童安全座椅法规以提升安全标准。秘鲁Buenaventura公司报告优异业绩，展现行业复苏。迪拜新地标Tiger Sky Tower引发关于奢侈消费与社会公平的辩论。欢迎收听我们明天的节目！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">defa1d19-a11d-4c46-a375-18080a189042</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-26/audio.mp3" length="11084589" type="audio/mpeg"/>
+      <itunes:duration>11:32</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 11:06:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
