@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 27 Jul 2025 03:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 12:04:02 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 27 Jul 2025 11:06:14 +0800</pubDate>
+    <pubDate>Sun, 27 Jul 2025 20:03:35 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -169,6 +169,18 @@ Verizon CEO谈AI对公司运营的深远影响。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-26/audio.mp3" length="11084589" type="audio/mpeg"/>
       <itunes:duration>11:32</itunes:duration>
       <pubDate>Sun, 27 Jul 2025 11:06:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>散户狂潮再现 meme股一日暴涨超73%</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来2025年7月27日的全球科技财经要闻，内容包括：
+
+“meme stock”热潮再度兴起，散户投资者推动Krispy Kreme等股票一日内暴涨。Anker加速清库存明星产品Solix C1000，降价幅度达41%。SpaceX成功发射“Starlink 17-2”任务，继续强化在卫星互联网的市场地位。Palantir市值突破3700亿美元，成为AI与大数据市场的新领袖。美股因Meta、AMD等AI技术巨头财报上涨，AI成为资本市场的最大热点。Razer发布新款外接显卡扩展坞，面临高成本与小众市场挑战。美国律师事务所针对多家企业展开集体诉讼调查，以提高公司治理透明度。Ur-Energy与Kinross Gold的股份被看好，分别获得“买入”评级。感谢您的收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">4ce9c588-457d-4986-8d4d-4efef23a529a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-27/audio.mp3" length="7286445" type="audio/mpeg"/>
+      <itunes:duration>07:35</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 20:03:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
