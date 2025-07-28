@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 27 Jul 2025 12:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 08:56:45 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 27 Jul 2025 20:03:35 +0800</pubDate>
+    <pubDate>Mon, 28 Jul 2025 16:56:14 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -181,6 +181,18 @@ Verizon CEO谈AI对公司运营的深远影响。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-27/audio.mp3" length="7286445" type="audio/mpeg"/>
       <itunes:duration>07:35</itunes:duration>
       <pubDate>Sun, 27 Jul 2025 20:03:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>《南方公园》版权争夺战升级 涉及特朗普与流媒体巨头</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来2025年7月28日的重要商业科技新闻，包括：
+
+《South Park》版权大战升级，涉及Netflix和特朗普，反映流媒体平台与资本、创意和政治力的博弈。保险巨头Allianz Life遭遇大规模数据泄露，强化了对第三方云存储安全的警醒。中国政府在世界人工智能大会提议建立“世界人工智能合作组织”，旨在推动全球AI治理。美国白宫公布新的《人工智能行动计划》，计划放松AI与数据中心能耗管控，激发市场活力。科技领域并购潮涌现，AI与加密板块吸金高达1040亿美元。此外，半导体行业正经历供应链再平衡，三星和Intel的战略调整受到关注。智能家居产品层出不穷，强化智能化和低碳化趋势。最后，社交媒体数据泄露事件引发数字隐私与安全的广泛讨论。欢迎继续关注我们的报道！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">fd993578-a48b-4a13-b862-ea9f21b35dff</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-28/audio.mp3" length="7504749" type="audio/mpeg"/>
+      <itunes:duration>07:49</itunes:duration>
+      <pubDate>Mon, 28 Jul 2025 16:56:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
