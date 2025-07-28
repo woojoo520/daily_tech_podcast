@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 28 Jul 2025 08:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 12:02:37 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 28 Jul 2025 16:56:14 +0800</pubDate>
+    <pubDate>Mon, 28 Jul 2025 20:02:12 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -193,6 +193,25 @@ Verizon CEO谈AI对公司运营的深远影响。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-28/audio.mp3" length="7504749" type="audio/mpeg"/>
       <itunes:duration>07:49</itunes:duration>
       <pubDate>Mon, 28 Jul 2025 16:56:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>印度清洁能源超美国引发全球关注</title>
+      <description><![CDATA[本期Soul Power Tech News为你带来2025年7月28日全球科技动态，主要内容包括：
+美国在清洁能源方面逐渐被印度超越，2025年上半年印度电网新接入22吉瓦风电和太阳能。 
+美欧签署历史性贸易协议，调整关税以避免贸易战，德国企业面临压力。
+Synopsys成功收购Ansys，反映全球科技并购受地缘政治影响。
+AT&T利用AI进行数字化重塑，推动企業提升效率。
+阿里巴巴创始人王坚预言AI行业将进行大洗牌，核心技术企业才能长久生存。
+Morelle推出15分钟快充电动自行车，颠覆传统出行方式。
+丰田因内部惯性在电动车及数字化进展缓慢，能否改革成关键。
+CISA面临领导层危机，需专注网络安全。
+JPMorgan将AI纳入高管决策，推动科技与金融深度融合。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8e7bca1f-04ca-4024-9eb9-bf00547a6e36</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-28/audio.mp3" length="6668397" type="audio/mpeg"/>
+      <itunes:duration>06:56</itunes:duration>
+      <pubDate>Mon, 28 Jul 2025 20:02:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
