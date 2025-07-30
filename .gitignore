@@ -47,7 +47,6 @@ dist/
 *.sqlite3
 
 # dotenv
-.env.*
 .env
 
 # Others
