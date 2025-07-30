@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 24 Jul 2025 01:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 01:14:47 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
-    <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
-    <pubDate>Thu, 24 Jul 2025 09:31:13 +0800</pubDate>
+    <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
+    <pubDate>Wed, 30 Jul 2025 09:14:21 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -23,22 +23,22 @@
       <title>特斯拉新AI聊天机器人Grok即将上线引发热议</title>
       <description><![CDATA[欢迎关注Soul Power tech News!! 这是第一期试水节目哈哈哈哈]]></description>
       <itunes:author>woojoo</itunes:author>
-      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-11/audio.mp3" length="2622573" type="audio/mpeg"/>
       <itunes:duration>02:43</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 00:58:46 +0806</pubDate>
+      <pubDate>Wed, 09 Jul 2025 00:52:46 +0800</pubDate>
     </item>
     <item>
       <title>Google为美政府云服务提供71%折扣引发行业价格战</title>
       <description><![CDATA[本期Soul Power Tech News将为你带来昨日全球最具影响力的科技新闻解读，包括：  
 Google为美国政府提供高达71%的云服务折扣，可能产生20亿美元节约；五角大楼将打破无人机采购限制，优先采购美国产低成本无人机；TechCrunch Disrupt展示AI硬件新趋势，关注可解释AI等伦理问题；比特币突破历史新高，因ETF资金流入和特朗普政府支持；巴基斯坦邀请LEO卫星互联网运营商，预计将提升网络安全；OpenAI收购Windsurf案流产，转由Google DeepMind获得团队；BlockFi与美国司法部达成和解，提升加密资产清算透明度；安全专家利用ChatGPT漏洞获真实Windows密钥，引发隐忧；Don Lemon对Elon Musk及X平台的诉讼进入审理，涉及内容合作争议；xAI发布Grok 4聊天机器人，首度引用Musk观点引发伦理关注。欢迎继续关注！]]></description>
       <itunes:author>woojoo</itunes:author>
-      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">6162c7ae-1d53-403e-ae23-cc86b011d0da</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-12/audio.mp3" length="7929261" type="audio/mpeg"/>
       <itunes:duration>08:15</itunes:duration>
-      <pubDate>Thu, 10 Jul 2025 11:35:35 +0806</pubDate>
+      <pubDate>Thu, 10 Jul 2025 11:29:35 +0800</pubDate>
     </item>
     <item>
       <title>Bay Miner云挖矿平台闪耀发布，引领数字货币新革命</title>
@@ -56,22 +56,22 @@ YouTube关闭“全球热榜”，标志网络爆款时代结束，内容定制�
 
 欢迎收听！]]></description>
       <itunes:author>woojoo</itunes:author>
-      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">22218c38-4a4d-4f32-8271-12b8922935b9</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-13/audio.mp3" length="8548461" type="audio/mpeg"/>
       <itunes:duration>08:54</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 21:30:21 +0806</pubDate>
+      <pubDate>Fri, 11 Jul 2025 21:24:21 +0800</pubDate>
     </item>
     <item>
       <title>美欧科技主权之争再起 波及监管与关税新战场</title>
       <description><![CDATA[本期Soul Power Tech News为您带来最新科技动态，主要内容包括：
 美国与欧盟在科技主导权上冲突加剧，Trump对欧盟商品加征关税，AI监管引发双方争议；Nvidia CEO警告AI将影响全球就业，呼吁社会做好应对；Apple Watch Ultra 3即将发布，预计将增添卫星通信与健康功能；东南亚探索适合当地的AI发展路径，避免单纯模仿硅谷；Elon Musk旗下的Grok因反犹言论引发争议，舆论呼吁加强AI内容监管；Apple高管变动显示公司策略调整，瞄准AI与可穿戴设备；投资者看好台积电能在AI芯片需求中保持领先；弗吉尼亚州律师协会认可AI辅助法律服务的价值计价，促进行业定价变革；Centene公司面临集体诉讼，反映医疗科技行业面临的监管挑战。欢迎收听！]]></description>
       <itunes:author>woojoo</itunes:author>
-      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">b8d29f57-d20e-4285-add8-16f47a7e9f39</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-14/audio.mp3" length="8030061" type="audio/mpeg"/>
       <itunes:duration>08:21</itunes:duration>
-      <pubDate>Sun, 13 Jul 2025 03:19:27 +0806</pubDate>
+      <pubDate>Sun, 13 Jul 2025 03:13:27 +0800</pubDate>
     </item>
     <item>
       <title>Amazon合作推进高性能电池助力2050净零碳目标</title>
@@ -90,21 +90,21 @@ YouTube关闭“全球热榜”，标志网络爆款时代结束，内容定制�
 
 我们将持续关注科技行业的动态与进展。]]></description>
       <itunes:author>woojoo</itunes:author>
-      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">b8f4c169-890d-400f-92c6-05e78a2678e2</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-15/audio.mp3" length="6906285" type="audio/mpeg"/>
       <itunes:duration>07:11</itunes:duration>
-      <pubDate>Mon, 14 Jul 2025 03:25:16 +0806</pubDate>
+      <pubDate>Mon, 14 Jul 2025 03:19:16 +0800</pubDate>
     </item>
     <item>
       <title>北极AI数据中心热潮引发产业转型机遇</title>
       <description><![CDATA[本期Soul Power Tech News为您带来7月17日全球科技圈的重磅新闻：北极圈AI数据中心建设热潮，看好欧洲产业转型契机；Samsung Galaxy Z Fold 7发布，用户反馈褒贬不一；OpenAI应用下载量大幅领先Microsoft Copilot，生态格局或迎变革；大裁员潮笼罩Scale AI，行业动态引发关注；Meta高管因隐私丑闻面临80亿美元集体诉讼；Apple或将把Siri升级外包给OpenAI或Anthropic；Netflix即将发布财报，业内看好但面临挑战；Nvidia重新进入中国市场，AI芯片出口监管有所放宽；Google投资250亿美元建设AI基础设施，推动美东算力带发展；CoreWeave与Nvidia合作推出60亿美元数据中心项目，激发就业与创新。欢迎继续关注！]]></description>
       <itunes:author>woojoo</itunes:author>
-      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">7248ca03-104d-48e2-a1de-28e601ef6c8c</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-17/audio.mp3" length="9440109" type="audio/mpeg"/>
       <itunes:duration>09:50</itunes:duration>
-      <pubDate>Wed, 16 Jul 2025 10:37:55 +0806</pubDate>
+      <pubDate>Wed, 16 Jul 2025 10:31:55 +0800</pubDate>
     </item>
     <item>
       <title>OpenAI与SoftBank数据中心项目遭遇重大波折</title>
@@ -120,21 +120,108 @@ Verizon CEO谈AI对公司运营的深远影响。
 三所大学与iFOLIO签署数字营销合约，推动互动数字化转型。
 特斯拉的EV积分市场在新政策影响下，面临盈利压力。欢迎收听！]]></description>
       <itunes:author>woojoo</itunes:author>
-      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">a792ab8e-2683-4fd3-ada9-e3c17b60a9a5</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-23/audio.mp3" length="9249453" type="audio/mpeg"/>
       <itunes:duration>09:38</itunes:duration>
-      <pubDate>Tue, 23 Jul 2025 16:52:12 +0806</pubDate>
+      <pubDate>Wed, 23 Jul 2025 16:46:12 +0800</pubDate>
     </item>
     <item>
       <title>Meta携手Carnegie Mellon推出手势控制腕带助力行动障碍者</title>
       <description><![CDATA[本期Soul Power Tech News为您带来2025年7月23日的科技动态，包括：Meta与Carnegie Mellon合作开发手势控制腕带，助力行动障碍人士；特朗普政府提新AI出口政策，加强美国在AI领域的领导地位；Google Photos推出AI新功能，支持将照片转化为动态视频；Qi2无线充电新标准将为安卓手机带来25W快充；Maingear发布复古外观高性能PC Retro95；《Battlefield 6》确定10月10日全球发售；Kelun-Biotech与Windward Bio合作开展新药的国际临床试验；Tesla面临销量下滑，转而依赖AI叙事策略；以及电影《Artificial》的筹拍，可能聚焦于Elon Musk。敬请关注更多行业动态！]]></description>
       <itunes:author>woojoo</itunes:author>
-      <dc:creator>woojoo &lt;woojoo10@outlook.com&gt;</dc:creator>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">f3d6c187-0d32-4f43-becc-957f0fdf40e5</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-23/audio.mp3" length="8623917" type="audio/mpeg"/>
       <itunes:duration>08:58</itunes:duration>
-      <pubDate>Thu, 24 Jul 2025 01:21:39 +0806</pubDate>
+      <pubDate>Thu, 24 Jul 2025 01:15:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国发布新AI战略 引发美中科技战升级</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来全球科技动态，精彩内容包括：
+
+美国总统特朗普公布新的人工智能战略，旨在放宽监管以提升美国在AI领域的竞争力，并引发美中科技战升级的担忧。Meta与卡内基梅隆大学合作研发无创腕带设备，帮助脊髓损伤患者通过肌电信号控制电脑。Kelun-Biotech和Windward Bio启动抗哮喘药物II期临床试验，展现中国生物医药企业的国际化进展。科学家警告地球转速加快将导致最短一天的到来，引发全球时间系统协调的讨论。此外，CBS宣布结束《The Late Show》，标志着美国政治讽刺节目新时代的影响。欢迎继续关注后续发展！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">c224b787-0cc4-4429-9f4d-9b964d71688d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-24/audio.mp3" length="8171181" type="audio/mpeg"/>
+      <itunes:duration>08:30</itunes:duration>
+      <pubDate>Thu, 24 Jul 2025 20:02:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>Google投资850亿美元强化AI基础设施竞争</title>
+      <description><![CDATA[本期Soul Power Tech News带来全球科技动态，包括：Google加速AI基础设施投资，2025年预算增至850亿美元，自建数据中心和Tensor芯片支撑大模型增长。Pixel 10系列手机提前曝光，Google可能在未来大会上重视AI能力整合。Apple发布iOS 26，特色是液态玻璃新界面和“Apple Intelligence”功能。德国Teufel推出超可修复蓝牙音箱，引领可持续产品设计。台湾TSMC二季度业绩强劲，股价上升，未来AI芯片潜力被看好。美国针对TikTok的技术转让透露中美科技博弈加剧。Nexamp成功部署清洁能源项目，创新机制提升效率。比特币短暂回调后反弹，仍被看好。Intel CEO强调面临亏损，急需技术突破。欢迎继续关注我们的科技动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">e26fe500-6eab-4ece-9d8f-ba692e92e17c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-25/audio.mp3" length="7716141" type="audio/mpeg"/>
+      <itunes:duration>08:02</itunes:duration>
+      <pubDate>Fri, 25 Jul 2025 20:06:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国能源部遭中国黑客攻击影响400多机构</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来最新商业科技动态，内容包括：
+
+美国国家核安全局遭中国黑客大规模网络攻击，Microsoft发布紧急安全补丁以应对SharePoint漏洞。美股市场盛行meme股，年轻散户频繁操作寻求高收益，金融专业人士对此表示担忧。Halper Sadeh LLC对多家公司发起投资者权益调查，以应对疑似证券法违规行为。Meta、Amazon和Google合作启动超级能源大电网项目，强调可再生能源的未来。Team Group发布支持自毁机制的SSD，强化数据安全。Razer推出新款外接显卡，提升移动办公能力。美国将实施新儿童安全座椅法规以提升安全标准。秘鲁Buenaventura公司报告优异业绩，展现行业复苏。迪拜新地标Tiger Sky Tower引发关于奢侈消费与社会公平的辩论。欢迎收听我们明天的节目！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">defa1d19-a11d-4c46-a375-18080a189042</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-26/audio.mp3" length="11084589" type="audio/mpeg"/>
+      <itunes:duration>11:32</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 11:06:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>散户狂潮再现 meme股一日暴涨超73%</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来2025年7月27日的全球科技财经要闻，内容包括：
+
+“meme stock”热潮再度兴起，散户投资者推动Krispy Kreme等股票一日内暴涨。Anker加速清库存明星产品Solix C1000，降价幅度达41%。SpaceX成功发射“Starlink 17-2”任务，继续强化在卫星互联网的市场地位。Palantir市值突破3700亿美元，成为AI与大数据市场的新领袖。美股因Meta、AMD等AI技术巨头财报上涨，AI成为资本市场的最大热点。Razer发布新款外接显卡扩展坞，面临高成本与小众市场挑战。美国律师事务所针对多家企业展开集体诉讼调查，以提高公司治理透明度。Ur-Energy与Kinross Gold的股份被看好，分别获得“买入”评级。感谢您的收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">4ce9c588-457d-4986-8d4d-4efef23a529a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-27/audio.mp3" length="7286445" type="audio/mpeg"/>
+      <itunes:duration>07:35</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 20:03:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>《南方公园》版权争夺战升级 涉及特朗普与流媒体巨头</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来2025年7月28日的重要商业科技新闻，包括：
+
+《South Park》版权大战升级，涉及Netflix和特朗普，反映流媒体平台与资本、创意和政治力的博弈。保险巨头Allianz Life遭遇大规模数据泄露，强化了对第三方云存储安全的警醒。中国政府在世界人工智能大会提议建立“世界人工智能合作组织”，旨在推动全球AI治理。美国白宫公布新的《人工智能行动计划》，计划放松AI与数据中心能耗管控，激发市场活力。科技领域并购潮涌现，AI与加密板块吸金高达1040亿美元。此外，半导体行业正经历供应链再平衡，三星和Intel的战略调整受到关注。智能家居产品层出不穷，强化智能化和低碳化趋势。最后，社交媒体数据泄露事件引发数字隐私与安全的广泛讨论。欢迎继续关注我们的报道！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">fd993578-a48b-4a13-b862-ea9f21b35dff</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-28/audio.mp3" length="7504749" type="audio/mpeg"/>
+      <itunes:duration>07:49</itunes:duration>
+      <pubDate>Mon, 28 Jul 2025 16:56:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>印度清洁能源超美国引发全球关注</title>
+      <description><![CDATA[本期Soul Power Tech News为你带来2025年7月28日全球科技动态，主要内容包括：
+美国在清洁能源方面逐渐被印度超越，2025年上半年印度电网新接入22吉瓦风电和太阳能。 
+美欧签署历史性贸易协议，调整关税以避免贸易战，德国企业面临压力。
+Synopsys成功收购Ansys，反映全球科技并购受地缘政治影响。
+AT&amp;T利用AI进行数字化重塑，推动企業提升效率。
+阿里巴巴创始人王坚预言AI行业将进行大洗牌，核心技术企业才能长久生存。
+Morelle推出15分钟快充电动自行车，颠覆传统出行方式。
+丰田因内部惯性在电动车及数字化进展缓慢，能否改革成关键。
+CISA面临领导层危机，需专注网络安全。
+JPMorgan将AI纳入高管决策，推动科技与金融深度融合。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8e7bca1f-04ca-4024-9eb9-bf00547a6e36</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-28/audio.mp3" length="6668397" type="audio/mpeg"/>
+      <itunes:duration>06:56</itunes:duration>
+      <pubDate>Mon, 28 Jul 2025 20:02:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>印度智能手机首次超越中国成美国市场第一</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来最新的科技动态，今天是2025年7月29日。你将听到：印度智能手机首次超越中国成为美国市场主要外来供应；欧洲将投资数十亿欧元打造AI工厂；美中贸易谈判聚焦AI和芯片出口限制；Apple关闭大连零售店，市场布局面临挑战；Spotify股价暴跌11%，因财报前景疲弱；Groq完成6亿美元融资，预计挑战传统芯片巨头；Microsoft与OpenAI深化合作，谋求技术独占权；美国核能投资加速以支持AI算力需求；AI引发失业潮，尤其影响年轻程序员；科技股市场进入关键时刻，财报将影响未来走势。此外，美国加快稀土产业重建，以应对贸易风险。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">7aff9d0f-330f-487a-ba32-3306eeb5c4ad</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-29/audio.mp3" length="7066989" type="audio/mpeg"/>
+      <itunes:duration>07:21</itunes:duration>
+      <pubDate>Wed, 30 Jul 2025 09:14:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
