@@ -9,6 +9,7 @@ from rss_handler import RSSHandler, PodEpisode
 from mutagen.mp3 import MP3
 from urllib.parse import urljoin
 import time
+import base64 
 
 
 app = FastAPI()
@@ -42,8 +43,10 @@ def generate_audio(request: AudioRequest):
         commit_message=f"Add audio for {request.date}"
     )
     
+    script_content = f"{int(duration_seconds)},{size_bytes}\n" + request.text
+    b_content = base64.b64encode(script_content.encode('utf-8')).decode('utf-8')
     github_helpers.upload_contents(
-        content=f"{int(duration_seconds)},{size_bytes}\n" + request.text,
+        content=b_content,
         target_filepath=script_path,
         commit_message=f"Add script for {request.date}"
     )

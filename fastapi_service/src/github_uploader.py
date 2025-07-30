@@ -20,11 +20,7 @@ class GitHubUploader:
 
     def upload_file(self, source_filepath, target_filepath, commit_message):
         with open(source_filepath, 'rb') as file:
-            content = file.read()
-        try:
-            content = base64.b64encode(content).decode('utf-8')
-        except:
-            pass
+            content = base64.b64encode(file.read()).decode('utf-8')
         self.upload_in_background(content, target_filepath, commit_message)
             
     def upload_in_background(self, content, target_filepath, commit_message):
@@ -37,14 +33,42 @@ class GitHubUploader:
     
     def upload_contents(self, content, target_filepath, commit_message):
         try:
-            print(f"target_filepath: {target_filepath}")
-            st = time.time()
-            ori_contents = self.repo.get_contents(target_filepath)
-            self.repo.update_file(ori_contents.path, commit_message, content, sha=ori_contents.sha)
-            en = time.time() 
-            print(f"Upload time cost: {en - st}s.")
-        except Exception:
-            self.repo.create_file(target_filepath, commit_message, content)
-            
+            try:
+                print(f"target_filepath: {target_filepath}")
+                st = time.time()
+                ori_contents = self.repo.get_contents(target_filepath)
+                self.repo.update_file(ori_contents.path, commit_message, content, sha=ori_contents.sha)
+                en = time.time() 
+                print(f"Upload time cost: {en - st}s.")
+            except Exception:
+                print("File not exists, try to create new file")
+                # self.repo.create_file(target_filepath, commit_message, content)
+                self.upload_contents_by_url(content, target_filepath, commit_message)
+        except Exception as e:
+            print(f"github api failed, reason: {e}.\nUpload file by sending request...")
+            # self.upload_contents_by_url(content, target_filepath, commit_message)
+
+
+    def upload_contents_by_url(self, content, target_filepath, commit_message):
+        import requests
+
+        url = f"https://api.github.com/repos/{self.repo_name}/contents/{target_filepath}"
+        data = {
+            "message": commit_message,
+            "content": content,
+            "branch": 'main'
+        }
+        headers = {
+            "Authorization": f"Bearer {self.token}",
+            "Accept": "application/vnd.github+json"
+        }
+        print(f"url: {url} \n headers: {headers}")
+        try:
+            response = requests.put(url, json=data, headers=headers)
+            response.raise_for_status()
+            print(f"response: {response}")
+        except Exception as e: 
+            print(f"upload_contents_by_url failed: {e}.")
+
     def get_content(self, filepath): 
         return self.repo.get_contents(filepath)

@@ -2,11 +2,12 @@ import os
 import json
 import time
 from typing import Iterator
+from config import MINIMAX_API_KEY, MINIMAX_GROUP_ID
 import requests
 
 
-group_id = os.environ.get("MINIMAX_GROUP_ID", "")
-api_key = os.environ.get("MINIMAX_API_KEY", "")
+group_id = MINIMAX_GROUP_ID
+api_key = MINIMAX_API_KEY
 current_dir = os.path.dirname(os.path.abspath(__file__))
 output_folder = os.path.join(os.path.dirname(current_dir), "output")
 

@@ -1,7 +1,8 @@
 import os 
 import requests
+from config import MINIMAX_API_KEY
 
-api_key = os.environ.get("MINIMAX_API_KEY") # Type your api key
+api_key = MINIMAX_API_KEY # Type your api key
 
 url = f'https://api.minimax.io/v1/get_voice'
 headers = {

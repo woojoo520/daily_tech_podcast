@@ -1,4 +1,7 @@
 import os 
+from dotenv import load_dotenv
+
+load_dotenv()
 
 API_ENDPOINT = "http://localhost:8880/v1/audio/speech" 
 GITHUB_REPO = "woojoo520/daily_tech_podcast"  
