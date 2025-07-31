@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Jul 2025 01:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 12:36:51 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 30 Jul 2025 09:14:21 +0800</pubDate>
+    <pubDate>Thu, 31 Jul 2025 20:36:25 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -222,6 +222,17 @@ JPMorgan将AI纳入高管决策，推动科技与金融深度融合。欢迎收�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-29/audio.mp3" length="7066989" type="audio/mpeg"/>
       <itunes:duration>07:21</itunes:duration>
       <pubDate>Wed, 30 Jul 2025 09:14:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球数据安全警报再次拉响金融文件泄露激增</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+全球数据安全警报再响，1.41亿数据泄露事件影响深远；Gmail遭遇二步验证绕过攻击激增84%，建议用户转向通行密钥；Qualcomm财报超预期，IoT部门增长强劲；Skechers推出可隐蔽放置Apple AirTag的童鞋，引发儿童隐私讨论；澳大利亚首枚自主轨道火箭发射失败，仍被视为创新突破；Charter Communications遭遇法律调查后股价暴跌，其核心业务流失令人担忧；Meta即将发布财报，AI投入与广告增速平衡成焦点；北京首都国际机场拟发行80亿元债券以增强竞争力；CoStar Group对Zillow提起大规模版权诉讼；印度TCS计划裁员1.2万，引发IT领域就业焦虑。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">29d4402d-92b8-41b2-9ef6-55d59ba34c7a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-31/audio.mp3" length="7776045" type="audio/mpeg"/>
+      <itunes:duration>08:06</itunes:duration>
+      <pubDate>Thu, 31 Jul 2025 20:36:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
