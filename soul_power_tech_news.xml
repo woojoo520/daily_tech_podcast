@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 31 Jul 2025 12:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 14:10:58 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 31 Jul 2025 20:36:25 +0800</pubDate>
+    <pubDate>Fri, 01 Aug 2025 22:10:17 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -233,6 +233,18 @@ JPMorgan将AI纳入高管决策，推动科技与金融深度融合。欢迎收�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-07-31/audio.mp3" length="7776045" type="audio/mpeg"/>
       <itunes:duration>08:06</itunes:duration>
       <pubDate>Thu, 31 Jul 2025 20:36:25 +0800</pubDate>
+    </item>
+    <item>
+      <title>Meta财报大涨11%新AI部门引关注</title>
+      <description><![CDATA[本期Soul Power Tech News带来了关键的商业科技动态，内容包括：
+
+苹果公司发布的2025财年第三季度财报超出预期，iPhone销售创新高，但特朗普政府的关税政策导致额外成本增加。亚马逊发布了第二季度业绩，AWS云业务增长放缓，资本开支显著增加，面临短期盈利压力。Meta的财报显示其营收大增，从AI策略中获益，股价创纪录新高。谷歌在与Epic Games的反垄断案中败诉，可能影响全球应用生态。三星确认将在年内推出XR头显Project Moohan，挑战Apple Vision Pro。此外，微软、Meta在AI基础设施投资上表现亮眼，Netflix的动画电影《KPop Demon Hunters》创下流媒体记录，硅谷企业正从"快速创新"转向"稳步建设"，重视AI基础设施。欢迎收听更多动向！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">662a8737-33e5-4552-b601-b35b799b6255</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-01/audio.mp3" length="10328301" type="audio/mpeg"/>
+      <itunes:duration>10:45</itunes:duration>
+      <pubDate>Fri, 01 Aug 2025 22:10:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
