@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 02 Aug 2025 02:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 12:55:25 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 02 Aug 2025 10:27:19 +0800</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:54:59 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -266,6 +266,16 @@ Cook回应美国制造与AI战略，引发多方热议。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-01/audio.mp3" length="9652077" type="audio/mpeg"/>
       <itunes:duration>10:03</itunes:duration>
       <pubDate>Sat, 02 Aug 2025 10:27:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>PayPal推新加密支付选项助力小企业转型</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2025年8月3日的科技动态，亮点包括：PayPal为中小企业推出加密货币支付选项，支持数百种币种并减免手续费；HubSpot发布全球首个支持Claude AI的CRM连接器，推动AI在中小企业中的应用；Amazon撤出Google Shopping广告，电商广告格局将发生变化；特朗普政府发布《AI行动计划》，推动AI创新与基础设施；Apple大幅提升AI研发投入，聚焦数据中心发展；四大科技公司在AI上的资本支出预计超4000亿美元；AWS本季度收入增长显著低于竞争对手；Figma成功上市后股价暴涨；Volvo召回1.15万辆车型，因刹车系统问题；Anthropic的AI助理Claude被赋予运营权力，展现出高创造力和潜在风险。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">09b23041-f393-4ee0-8fd7-f36823a3f59d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-03/audio.mp3" length="8918829" type="audio/mpeg"/>
+      <itunes:duration>09:17</itunes:duration>
+      <pubDate>Sun, 03 Aug 2025 20:54:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
