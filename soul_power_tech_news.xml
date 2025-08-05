@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 Aug 2025 12:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 10:37:37 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 03 Aug 2025 20:54:59 +0800</pubDate>
+    <pubDate>Tue, 05 Aug 2025 18:37:10 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -276,6 +276,24 @@ Cook回应美国制造与AI战略，引发多方热议。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-03/audio.mp3" length="8918829" type="audio/mpeg"/>
       <itunes:duration>09:17</itunes:duration>
       <pubDate>Sun, 03 Aug 2025 20:54:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果CEO承认AI落后全力追赶新战略</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来最新科技商业动态，内容包括：
+
+Apple CEO Tim Cook承认公司在AI领域落后于竞争对手，承诺加大研发投资，并重构Siri。Google则借新广告嘲讽Apple的AI进展缓慢，展现激烈竞争。
+
+Disney在尝试将生成式AI应用于电影制作时遭遇法律与公众反对，项目被叫停。GitHub CEO呼吁开发者拥抱AI，标志着软件开发行业的重大转变。
+
+Blade Air Mobility将载人空中出租车业务出售给Joby Aviation，专注医疗运输。同步推进下，美国Synchron公司实现脑机接口控制iPad的临床演示，拉近AI与个体交互的 distance。
+
+此外，Apple新推出iOS 26公测版，计划中的iPhone 17系列将面临设计变化，AI公司Perplexity违反网页抓取规范引发争议，网络安全领域的并购迹象明显。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">59fe782d-0a0e-4970-9598-e03ff9f8e944</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-05/audio.mp3" length="8164845" type="audio/mpeg"/>
+      <itunes:duration>08:30</itunes:duration>
+      <pubDate>Tue, 05 Aug 2025 18:37:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
