@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 Aug 2025 10:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 12:06:58 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 05 Aug 2025 18:37:10 +0800</pubDate>
+    <pubDate>Tue, 05 Aug 2025 20:06:31 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -294,6 +294,18 @@ Blade Air Mobility将载人空中出租车业务出售给Joby Aviation，专注�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-05/audio.mp3" length="8164845" type="audio/mpeg"/>
       <itunes:duration>08:30</itunes:duration>
       <pubDate>Tue, 05 Aug 2025 18:37:10 +0800</pubDate>
+    </item>
+    <item>
+      <title>Hollywood电影工业面临AI转型危机</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与商业科技相关的最新动态，包括：
+
+亚洲股市集体反弹，受益于美国科技股回升，尤其是特斯拉表现突出。迪士尼暂停AI项目，Hollywood面临转型压力，工会对AI参与制作提出质疑。Rhode Island的持枪许可制度裁决确认公开持枪证合法性，引发持枪团体反对。美国新法案削减低收入者福利，引起专家批评，导致家庭面临困境。德州选区重划引发政治争议，民主党议员抗议逃离现场。墨西哥Guanajuato州失踪者案件加剧关注，科技辅助法医学鉴定面临挑战。Syracuse机场言论自由争议引发舆论热议。阿肯色州农业面临劳动力短缺问题，农场主呼吁技术与外劳管理结合。维吉尼亚理工橄榄球队利用新科技提升战力。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">de17708d-c256-4bbb-b9f6-ec34fb3a35bd</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-05/audio.mp3" length="10618605" type="audio/mpeg"/>
+      <itunes:duration>11:03</itunes:duration>
+      <pubDate>Tue, 05 Aug 2025 20:06:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
