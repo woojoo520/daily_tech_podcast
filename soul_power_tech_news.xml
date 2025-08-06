@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 Aug 2025 12:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 12:07:28 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 05 Aug 2025 20:06:31 +0800</pubDate>
+    <pubDate>Wed, 06 Aug 2025 20:07:02 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -306,6 +306,20 @@ Blade Air Mobility将载人空中出租车业务出售给Joby Aviation，专注�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-05/audio.mp3" length="10618605" type="audio/mpeg"/>
       <itunes:duration>11:03</itunes:duration>
       <pubDate>Tue, 05 Aug 2025 20:06:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国放宽AI政策三巨头入审合格供应商名单</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2025年8月6日的科技动态，主要内容包括：
+
+美国联邦政府将OpenAI、Google和Anthropic纳入AI合格供应商，标志AI政策的重大调整；伊利诺伊州成为首个禁止AI独立提供心理咨询服务的州，进一步强化对AI的监管；Palantir第二季度营收首次突破10亿美元，成为AI安全和国防领域的领军者；特斯拉因佛罗里达Autopilot致死事故被判赔偿2.43亿美元，可能改变自动驾驶行业责任划分；Apple将于9月9日发布iPhone 17系列，关注度颇高；IBM报告显示AI驱动的数据泄露风险上升，企业亟需完善治理；AMD和Snap财报表现分化，反映科技市场的机遇与挑战；AppLovin的广告收入大涨，表现出强劲增长潜力；Adweek Tech Stack Awards开启提名，重视营销科技创新；日本职场在灵活性和领导力方面落后亚太其他国家，面临改革压力。
+
+感谢您的收听，欢迎明天继续关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">fd246c2d-add9-4995-81b8-fa1fec25a2d0</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-06/audio.mp3" length="8049645" type="audio/mpeg"/>
+      <itunes:duration>08:23</itunes:duration>
+      <pubDate>Wed, 06 Aug 2025 20:07:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
