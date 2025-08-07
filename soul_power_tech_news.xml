@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 Aug 2025 12:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 12:46:42 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 06 Aug 2025 20:07:02 +0800</pubDate>
+    <pubDate>Thu, 07 Aug 2025 20:46:15 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -320,6 +320,18 @@ Blade Air Mobility将载人空中出租车业务出售给Joby Aviation，专注�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-06/audio.mp3" length="8049645" type="audio/mpeg"/>
       <itunes:duration>08:23</itunes:duration>
       <pubDate>Wed, 06 Aug 2025 20:07:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apple四年内再投1000亿美元重振美国制造业</title>
+      <description><![CDATA[本期Soul Power Tech News为你带来今日科技动态，重点内容有：
+
+Apple宣布将在未来四年内在美国投资1000亿美元，扩展本土制造及合作资源，以应对科技制造回流压力。Google旗下AI代码助手Jules正式商用，具备异步操作及自动化代码处理能力。OpenAI即将发布的GPT-5备受期待，预计在多项任务上优于前代模型，同时推出开源模型以应对竞争。Uber发布财报，营收超预期，自动驾驶合作引关注，但仍面临盈利不确定性。Trump政府对与俄罗斯石油交易的国家施压，并可能对中国实施制裁。加密货币博彩平台扩张明显，新一代产品吸引更多用户。SpyCloud推出新网络安全模块以提升企业防护能力。Lucid Motors在量产上遇挑战，但将坚持高端市场定位。最后，风险投资领域对初创企业融资技巧进行了热议，创始人需注重实用市场故事及透明数据。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">48249997-d887-4dc2-8d0a-d68a68383a73</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-07/audio.mp3" length="10010349" type="audio/mpeg"/>
+      <itunes:duration>10:25</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 20:46:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
