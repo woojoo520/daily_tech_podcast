@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 08 Aug 2025 12:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 02:54:04 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 08 Aug 2025 20:08:15 +0800</pubDate>
+    <pubDate>Sun, 10 Aug 2025 10:53:58 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -352,6 +352,26 @@ ulrich medical推出新脊柱固定系统，提升手术效率。欢迎收听！
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-08/audio.mp3" length="10048365" type="audio/mpeg"/>
       <itunes:duration>10:28</itunes:duration>
       <pubDate>Fri, 08 Aug 2025 20:08:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI发布GPT-5开启AI新时代</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与商业科技相关的热点新闻，包括：
+OpenAI发布全新旗舰模型GPT-5，改进了推理机制并提高了多领域性能。
+全球股市中AI相关公司的股票受到损失，而部分芯片企业则获益，科技板块估值出现两极分化。
+Apple面临iPhone 16 Pro Max促销与iPhone 17涨价的矛盾策略。
+一份安全报告警告用户注意高风险VPN应用对隐私的威胁。
+Ford将发布平价电动车“Ranchero”，冲击电动车市场。
+SEC放弃对Ripple的监管诉讼，行业普遍视为监管胜利。
+特朗普签署行政令允许加密货币纳入401(k)投资，尽管此举引发风险担忧。
+Tesla Cybertruck二手车价格大幅下跌，面临市场挑战。
+沙特与阿联酋加大高科技无人机采购，传统军火供应格局变革。
+注意避免使用高风险App，专家建议选择知名品牌以降低隐私泄露风险。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">765846de-b65e-4941-9f08-375ca771627d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-09/audio.mp3" length="10646829" type="audio/mpeg"/>
+      <itunes:duration>11:05</itunes:duration>
+      <pubDate>Sun, 10 Aug 2025 10:53:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
