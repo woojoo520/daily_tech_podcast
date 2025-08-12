@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 11 Aug 2025 12:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 12:06:26 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 11 Aug 2025 20:07:57 +0800</pubDate>
+    <pubDate>Tue, 12 Aug 2025 20:06:20 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -382,6 +382,17 @@ Tesla Cybertruck二手车价格大幅下跌，面临市场挑战。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-11/audio.mp3" length="8224173" type="audio/mpeg"/>
       <itunes:duration>08:34</itunes:duration>
       <pubDate>Mon, 11 Aug 2025 20:07:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>Intel危机加剧：特朗普要求CEO辞职引发争议</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与科技商业密切相关的动态，内容如下：
+Intel CEO Lip-Bu Tan因与中国半导体企业联系受到特朗普施压，可能影响芯片战略。美国营养学会研究称减少甜食摄入不会降低对甜味的偏好，颠覆减糖饮食观念。全球军队加速研发反无人机技术，以应对战场威胁，同时铝业界探讨回收解决短缺问题。HR科技产品奖评选中，Expert by WTW和IWant获奖，凸显AI在合规与员工管理中的应用。Oncolytics Biotech报告核心药物进展，医疗破产案引发政策与法律讨论。劳工统计局局势不稳，特朗普的警力动员引发争议。以上是昨日科技与产业界的重要动态，欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1ee1f471-9276-4bb6-a8e3-7b9520a301a5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-12/audio.mp3" length="7273197" type="audio/mpeg"/>
+      <itunes:duration>07:34</itunes:duration>
+      <pubDate>Tue, 12 Aug 2025 20:06:20 +0800</pubDate>
     </item>
   </channel>
 </rss>
