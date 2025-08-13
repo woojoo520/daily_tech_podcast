@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 12 Aug 2025 12:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 12:03:22 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 12 Aug 2025 20:06:20 +0800</pubDate>
+    <pubDate>Wed, 13 Aug 2025 20:03:15 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -393,6 +393,17 @@ Intel CEO Lip-Bu Tan因与中国半导体企业联系受到特朗普施压，可
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-12/audio.mp3" length="7273197" type="audio/mpeg"/>
       <itunes:duration>07:34</itunes:duration>
       <pubDate>Tue, 12 Aug 2025 20:06:20 +0800</pubDate>
+    </item>
+    <item>
+      <title>科技盛会TechCrunch Disrupt 2025即将来临引发投资热潮</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来最新科技与商业动态：
+TechCrunch Disrupt 2025将于10月27日至29日举行，聚焦创业资金与AI创新，引领资金流向。硅谷掀起“高智商下一代”热潮，部分高管投资数万美元寻找伴侣，市场与伦理引发分歧。美国铝资源回收效率低下引发讨论，建议聚焦回收产业提升竞争力。白宫要求对史密森尼博物馆展览进行审查，可能引发文化与历史表述争议。19岁影响者Ethan Guo因未获许可飞行被困南极，面临法律和安全规范问题。2026年社保生活成本调整预计为2.7%，但对老年人生活压力反映不足。公共媒体资金削减引发关注，NPR坚持新闻独立性。Target提前上线万圣节商品，激活零售市场。农场科技与AI项目引起农业关注。美股强劲反弹，科技板块领涨，市场期待科技创新带来机遇。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">529b5e8f-cfbe-4b2d-b2a8-28fc9d21329e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-13/audio.mp3" length="9043821" type="audio/mpeg"/>
+      <itunes:duration>09:25</itunes:duration>
+      <pubDate>Wed, 13 Aug 2025 20:03:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
