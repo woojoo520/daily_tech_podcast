@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 13 Aug 2025 12:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 12:07:07 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 13 Aug 2025 20:03:15 +0800</pubDate>
+    <pubDate>Thu, 14 Aug 2025 20:07:01 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -404,6 +404,27 @@ TechCrunch Disrupt 2025将于10月27日至29日举行，聚焦创业资金与AI�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-13/audio.mp3" length="9043821" type="audio/mpeg"/>
       <itunes:duration>09:25</itunes:duration>
       <pubDate>Wed, 13 Aug 2025 20:03:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>Altman与Blania携手挑战Neuralink进入脑机接口新纪元</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与科技相关的最新动态，内容包括：  
+OpenAI首席执行官Sam Altman与Worldcoin创始人Alex Blania创立脑机接口公司Merge Labs，估值达8.5亿美元，挑战Neuralink。  
+英国电子零售商Ebuyer因财务危机被Frasers Group收购，意在重塑市场地位。  
+Oracle开始裁减云部门员工以应对AI基础设施投资带来的成本压力。  
+研究显示，iPhone用户在网络安全方面较Android用户更容易受骗。  
+天文学家在最遥远星系首次探测到氧元素，推翻了现有理论。  
+Frasers Group对电商大亨Mahmud Kamani发起合规调查。  
+美国交通部推出新在线航空投诉系统，提升处理效率。  
+矿业公司Solaris Resources公布财报，净亏损1990万美元但现金储备增长。  
+美国劳动节促销活动启动，多个品牌推出折扣吸引消费者。  
+农业企业Alico Inc.进行大规模裁员，进行战略转型。  
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">67fa62a0-6dba-4a01-b76e-f737ee0ea868</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-14/audio.mp3" length="8149869" type="audio/mpeg"/>
+      <itunes:duration>08:29</itunes:duration>
+      <pubDate>Thu, 14 Aug 2025 20:07:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
