@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 14 Aug 2025 12:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 12:05:49 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 14 Aug 2025 20:07:01 +0800</pubDate>
+    <pubDate>Fri, 15 Aug 2025 20:05:44 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -425,6 +425,17 @@ Frasers Group对电商大亨Mahmud Kamani发起合规调查。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-14/audio.mp3" length="8149869" type="audio/mpeg"/>
       <itunes:duration>08:29</itunes:duration>
       <pubDate>Thu, 14 Aug 2025 20:07:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>黑洞触发全新超新星爆发挑战宇宙理论</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与商业科技相关的重要动态，包括：
+Ford和Lincoln召回超过21,000辆汽车，因前大灯系统存在安全隐患。新发现称黑洞与大质量恒星交互触发了新型超新星爆发，提升了对宇宙的理解。Law Punx推出新播客，聚焦法律AI合规创新，LegalOn发布GPT-5合约AI评测工具，提升合规建议准确率。A+E Global Media与AdGood合作，向公益组织提供数字广告渠道。Alpha Cognition发布财报，整体收入持平，药物研发顺利。Advance Auto Parts下调业绩预期，以防应对销售下滑。LegalSifter推出ReviewPro工具，提升合同审查效率，同时引发AI自动化风险讨论。最后，BPI评论国际绿色金融模型存在评估缺陷，呼吁改进。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">4fa5667e-d2ac-440a-b511-c31322a782d3</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-15/audio.mp3" length="6866541" type="audio/mpeg"/>
+      <itunes:duration>07:09</itunes:duration>
+      <pubDate>Fri, 15 Aug 2025 20:05:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
