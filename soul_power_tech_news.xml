@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 15 Aug 2025 12:05:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 12:13:17 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 15 Aug 2025 20:05:44 +0800</pubDate>
+    <pubDate>Sat, 16 Aug 2025 20:13:11 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -436,6 +436,18 @@ Ford和Lincoln召回超过21,000辆汽车，因前大灯系统存在安全隐患
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-15/audio.mp3" length="6866541" type="audio/mpeg"/>
       <itunes:duration>07:09</itunes:duration>
       <pubDate>Fri, 15 Aug 2025 20:05:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>DARPA推进AI战斗机项目 加速无人机作战技术发展</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态，包括以下内容：
+
+CleanTech Vanadium Mining Corp.获批875,000份股票期权，彰显对美国重要矿藏项目的信心。DARPA推进AI战斗机项目，合同金额1,130万美元，旨在实现无人协同作战。AI初创公司Perplexity向Google提出340亿美元收购Chrome的要约，挑战传统巨头。OpenAI的ChatGPT移动端应用自上架以来收入达20亿美元，其中2025年前七个月达13.5亿美元。OpenAI新发布的GPT-5模型引发用户对回答质量的质疑。SpaceX计划下周进行“星舰”第十次试飞，并获得新一轮发射许可。知名出行公司Via Transportation递交IPO申请，预计吸引资本市场关注。此外，GoDigital Media Group提出新版权框架，以适应AI时代内容生成的变革。欢迎关注更多动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ee5e730f-7775-46fc-80a0-7ff12e3f882e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-16/audio.mp3" length="7916589" type="audio/mpeg"/>
+      <itunes:duration>08:14</itunes:duration>
+      <pubDate>Sat, 16 Aug 2025 20:13:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
