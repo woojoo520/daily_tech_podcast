@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 18 Aug 2025 12:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 12:10:01 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 18 Aug 2025 20:02:34 +0800</pubDate>
+    <pubDate>Tue, 19 Aug 2025 20:09:54 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -458,6 +458,28 @@ CleanTech Vanadium Mining Corp.获批875,000份股票期权，彰显对美国重
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-18/audio.mp3" length="6791661" type="audio/mpeg"/>
       <itunes:duration>07:04</itunes:duration>
       <pubDate>Mon, 18 Aug 2025 20:02:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>基因治疗公司Kriya成功融资3.13亿美元引关注</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与科技与商业密切相关的最新动态，内容包括：
+
+Co-Diagnostics在华盛顿举行第17届Next Generation Dx Summit，展示其分子诊断技术。  
+Northwest Biotherapeutics高级副总裁因病去世，公司表示管理层运作平稳。  
+美股整体表现平稳，中小盘公司因AI驱动增长受到关注。  
+MSNBC将更名为“MS NOW”，以塑造更独立的品牌形象。  
+Zillow高管减持股票引发关注，分析师认为更偏向流动性管理。  
+Wingstop推出“买一送一”活动，旨在提高品牌曝光。  
+GoodRx与Novo Nordisk合作，提供降糖药物的现金优惠。  
+Kriya Therapeutics完成3.13亿美元融资，推动慢病基因疗法临床进程。  
+FDA草案关注疫苗改革，但引发公众对安全性下降的担忧。  
+高端旅行顾问行业积极数字转型，AI与人工顾问的结合成主流。  
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">9b3b390c-3934-4356-8a84-b243c65a768e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-19/audio.mp3" length="9312237" type="audio/mpeg"/>
+      <itunes:duration>09:42</itunes:duration>
+      <pubDate>Tue, 19 Aug 2025 20:09:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
