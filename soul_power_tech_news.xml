@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 19 Aug 2025 12:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 12:06:50 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 19 Aug 2025 20:09:54 +0800</pubDate>
+    <pubDate>Wed, 20 Aug 2025 20:06:44 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -480,6 +480,17 @@ FDA草案关注疫苗改革，但引发公众对安全性下降的担忧。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-19/audio.mp3" length="9312237" type="audio/mpeg"/>
       <itunes:duration>09:42</itunes:duration>
       <pubDate>Tue, 19 Aug 2025 20:09:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>Intel获SoftBank投资20亿美元重塑芯片业务</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与商业科技相关的重要动态，包括：
+
+软银对Intel投资20亿美元，成为其前十大股东之一，强调AI芯片的未来潜力。Nvidia即将推出新AI芯片以适应中国市场，旨在“合规与市场罚则”之间平衡。澳大利亚TPG Telecom的iiNet发生大规模用户数据泄露，专家呼吁用户提高警惕。AGCO展出多款新型农业技术，助力农机电动化和数字化转型。YL Ventures连续三年上榜美国最佳风投公司，专注以色列网络安全项目。美股高科技板块大幅回调，但Intel受投资利好逆势上涨。NASA发布火星探测到的神秘岩石照片，引发讨论。明州对TikTok提起诉讼，控其利用算法影响青少年。欧盟发布新技术监管标准，提高金融市场透明度。Passkey技术的推广应用成为关注热点，或重塑个人信息安全标准。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">bc4c33de-5fc2-46d7-b2b6-7968086fcac4</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-20/audio.mp3" length="8463789" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Aug 2025 20:06:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
