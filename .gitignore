@@ -54,3 +54,4 @@ dist/
 *.swp
 
 episodes/
+fastapi_service/output/

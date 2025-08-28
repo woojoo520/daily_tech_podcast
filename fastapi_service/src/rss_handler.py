@@ -128,13 +128,17 @@ class RSSHandler:
         return podcast
     
     def _parse_duration(self, duration_str: str) -> int:
-        parts = [int(p) for p in duration_str.strip().split(":")]
-        return int(timedelta(
-            hours=parts[-3] if len(parts) == 3 else 0,
-            minutes=parts[-2] if len(parts) >= 2 else 0,
-            seconds=parts[-1]
-        ).total_seconds())
-    
+        try:
+            parts = [int(p) for p in duration_str.strip().split(":")]
+            return int(timedelta(
+                hours=parts[-3] if len(parts) == 3 else 0,
+                minutes=parts[-2] if len(parts) >= 2 else 0,
+                seconds=parts[-1]
+            ).total_seconds())
+        except Exception as e:
+            print(f"Error parsing duration '{duration_str}': {e}")
+            return 0
+        
     def add_new_episodes(self, episode: PodEpisode):
         # add new episodes
         publication_date = datetime.fromtimestamp(episode.publication_ts, self.tz)
