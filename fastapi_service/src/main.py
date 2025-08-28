@@ -6,7 +6,8 @@ from github_uploader import GitHubUploader
 from config import *
 from minimax_generator import generate_audio_from_text
 from rss_handler import RSSHandler, PodEpisode
-from mutagen.mp3 import MP3
+# from mutagen.mp3 import MP3
+from pydub import AudioSegment
 from urllib.parse import urljoin
 import time
 import base64 
@@ -31,8 +32,8 @@ def generate_audio(request: AudioRequest):
     # filepath = "/Users/woojoo/workspace/daily_tech_podcast/fastapi_service/output/output_total_1753285098.mp3"
     
     # upload to GitHub
-    audio = MP3(filepath)
-    duration_seconds = audio.info.length
+    audio = AudioSegment.from_mp3(filepath)
+    duration_seconds = len(audio) // 1000
     size_bytes = os.path.getsize(filepath)
     audio_path = f"episodes/{request.date}/audio.mp3"
     script_path = f"episodes/{request.date}/script.txt"
