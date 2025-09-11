@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 Aug 2025 03:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 07:29:13 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 28 Aug 2025 11:37:13 +0800</pubDate>
+    <pubDate>Thu, 11 Sep 2025 15:22:19 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -503,6 +503,25 @@ MetaMask推出社交登录功能，使用户可通过Google或Apple账号轻松�
       <guid isPermaLink="false">bd6bbbf4-a397-4fd6-b4e5-507f52435b5a</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-08-27/audio.mp3" length="8792685" type="audio/mpeg"/>
       <pubDate>Thu, 28 Aug 2025 11:37:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI与Oracle签署3000亿美元云计算协议创纪录</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与商业科技密切相关的动态，内容包括：
+
+OpenAI与Oracle签订高达3000亿美元的云计算采购协议，Oracle股价暴涨近40%，引发对AI基础设施时代的新关注。
+Apple推出新设备，包括超薄iPhone Air和具备血压监测的新款Apple Watch，整体市场反响分化，关注创新与性价比。
+HP为旧款学生笔记本降价高达80%，反应PC市场对Apple新品的竞争压力。
+TechCrunch Disrupt2025大会探讨了AI硬件和机器人技术的整合，预示行业的新的投资热潮。
+特斯拉推出史上最大1万亿美元的激励计划，分析师对此次转型持乐观态度。
+最后，NPM生态和Cursor代码编辑器遭遇安全漏洞，提醒业界需增强供应链安全防护。
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">22af4f46-9c08-40d6-a1a5-93bd7e6f46f0</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-09-11/audio.mp3" length="11627181" type="audio/mpeg"/>
+      <itunes:duration>12:06</itunes:duration>
+      <pubDate>Thu, 11 Sep 2025 15:22:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
