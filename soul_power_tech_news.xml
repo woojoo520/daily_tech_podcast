@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Sep 2025 07:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 12:07:32 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 11 Sep 2025 15:22:19 +0800</pubDate>
+    <pubDate>Fri, 12 Sep 2025 20:07:23 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -522,6 +522,29 @@ TechCrunch Disrupt2025大会探讨了AI硬件和机器人技术的整合，预�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-09-11/audio.mp3" length="11627181" type="audio/mpeg"/>
       <itunes:duration>12:06</itunes:duration>
       <pubDate>Thu, 11 Sep 2025 15:22:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>阿里巴巴股票暴涨80%背后暗藏AI创新动力</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来今日科技动态，包括：
+
+Soma Gold Corp.与Red Rock签署回购协议，价值约100万英镑，旨在增强流动性并规避风险。  
+巴西电信TIM S.A.批准可再生能源项目，提升自给率，分析师看好其前景。  
+酒店科技面临转型，现代化基础系统迫在眉睫。  
+Amazon布局智能眼镜市场，竞逐Meta Ray-Ban的市场份额。  
+加州推动禁用PFAS化学品厨具，引发名厨与环保团体的争论。  
+OpenAI对Oracle和Broadcom的大量订单重塑IT产业资本结构，投资者反应分歧。  
+Tesla xAI释义引发争议，疑似公关包装。  
+阿里巴巴股票暴涨，AI创新备受青睐。  
+加州针对儿童AI聊天机器人的安全规范取得进展。  
+AsyncRAT恶意软件新变种引发安全警报，建议加大内存保护。  
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">031c30b8-5121-4dd5-8db1-7fd672408826</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-09-12/audio.mp3" length="8863533" type="audio/mpeg"/>
+      <itunes:duration>09:13</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 20:07:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
