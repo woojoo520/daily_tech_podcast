@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Sep 2025 12:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 15:57:01 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 12 Sep 2025 20:07:23 +0800</pubDate>
+    <pubDate>Sat, 13 Sep 2025 23:56:56 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -545,6 +545,18 @@ AsyncRAT恶意软件新变种引发安全警报，建议加大内存保护。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-09-12/audio.mp3" length="8863533" type="audio/mpeg"/>
       <itunes:duration>09:13</itunes:duration>
       <pubDate>Fri, 12 Sep 2025 20:07:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>特斯拉董事会主席回应Musk政治言论对销量影响</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来全球范围内的商业科技动态，包括：
+
+特斯拉董事会主席Robyn Denholm回应关于Elon Musk政治活动影响销量的质疑，强调公司创新能力更为关键；美国Green Gobbler管道疏通液引发安全事故，消费者关注化学品管理；联想笔记本在美国市场降价促销，成为PC价格战的缩影；PitchBook报告显示信贷市场回暖，但高风险贷款仍谨慎；美国房贷利率近期走低，刺激购房热情；Nintendo宣布新游戏“Fire Emblem: Fortune's Weave”将于2026年推出，引发玩家热议；Southern Copper董事减持公司股份，市场反应平稳；智能家居App体验成为用户购买决策关键；Disrupt 2025峰会将聚焦“后期融资”与资本关系；Taylor Swift演唱会案件成为美国法院对枪械法规的新判例。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">37b7b5e6-fb0e-4598-aaa2-22121855f8d9</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-09-13/audio.mp3" length="9576045" type="audio/mpeg"/>
+      <itunes:duration>09:58</itunes:duration>
+      <pubDate>Sat, 13 Sep 2025 23:56:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
