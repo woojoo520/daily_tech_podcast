@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Sep 2025 12:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 15:45:36 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 18 Sep 2025 20:02:21 +0800</pubDate>
+    <pubDate>Thu, 18 Sep 2025 23:45:29 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -593,6 +593,16 @@ AsyncRAT恶意软件新变种引发安全警报，建议加大内存保护。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-18/audio.mp3" length="208557" type="audio/mpeg"/>
       <itunes:duration>00:12</itunes:duration>
       <pubDate>Thu, 18 Sep 2025 20:02:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>Meta发布新AI智能眼镜引发关注</title>
+      <description><![CDATA[本期Soul Power Tech News为你带来最新的科技动态，包括：Meta发布新一代AI眼镜Ray-Ban“Hypernova”，价格约800美元，主打社交与极限运动场景；IBM推出新型拟物计算芯片，有望提升AI语音识别能效；Volkswagen加快SDV转型，深化与中国科技企业的合作；Elon Musk的xAI公司高管离职，聚焦AI导师领域；美国电动汽车补贴引发财政负担担忧；Disney暂停《Jimmy Kimmel Live!》，引发言论自由讨论；美联储首次降息，基准利率降至4.1%；意大利科技公司Bending Spoons以13.8亿美元收购Vimeo；YouTube成为美国用户日均使用时间最长的平台，并推出新工具；生成式AI引发数字信任新焦虑，用户倾向为可信赖服务付费。欢迎下期收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">9017106a-1e60-4697-ba88-554f9a5e15ed</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-18/audio.mp3" length="7761645" type="audio/mpeg"/>
+      <itunes:duration>08:05</itunes:duration>
+      <pubDate>Thu, 18 Sep 2025 23:45:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
