@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Sep 2025 16:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 12:02:27 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 16 Sep 2025 22:17:36 +0800</pubDate>
+    <pubDate>Thu, 18 Sep 2025 20:02:21 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -583,6 +583,16 @@ AsyncRAT恶意软件新变种引发安全警报，建议加大内存保护。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-09-13/audio.mp3" length="9576045" type="audio/mpeg"/>
       <itunes:duration>09:58</itunes:duration>
       <pubDate>Sat, 13 Sep 2025 23:56:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>无法获取最新消息，请稍候关注更新动态</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来无最新技术新闻更新的动态，主要内容包括：抱歉目前无法获取最新消息，将稍后重试。同时欢迎听众提出特定领域或话题的兴趣，以便于根据现有知识库提供相关资讯。欢迎关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">01fe7ee2-7f56-42d4-9d11-fa08d81a2095</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-18/audio.mp3" length="208557" type="audio/mpeg"/>
+      <itunes:duration>00:12</itunes:duration>
+      <pubDate>Thu, 18 Sep 2025 20:02:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
