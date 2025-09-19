@@ -579,6 +579,7 @@ AsyncRAT恶意软件新变种引发安全警报，建议加大内存保护。
 美国科技巨头将在未来四年向英国AI基础设施投资超过400亿美元，促进相关技术与就业发展。特朗普签署行政令延长TikTok在美业务与字节跳动分离的期限，同时中美双方达成框架协议。特斯拉因Model Y SUV电子门锁问题遭NHTSA调查。小米新旗舰Xiaomi 17 Pro跑分表现不如预期。DJI发布新型Mini 5 Pro无人机，配备一英寸传感器。研究表明GLP-1药物可降低食欲并影响味觉。Costco召回Kirkland品牌Prosecco气泡酒。LG Energy Solution与Hyundai在美电池厂因移民执法遇阻。福特在德国科隆裁员1000人因电动车市场需求不足。香港股市表现强劲，科技板块领涨，受AI乐观预期及TikTok协议影响。欢迎收听！]]></description>
       <itunes:author>woojoo</itunes:author>
       <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">fe867140-21c4-4bfc-b151-088e1534ed5b</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2025-09-17/audio.mp3" length="8202861" type="audio/mpeg"/>
       <itunes:duration>06:57</itunes:duration>
       <pubDate>Wed, 17 Sep 2025 20:08:36 +0800</pubDate>
@@ -592,6 +593,17 @@ AsyncRAT恶意软件新变种引发安全警报，建议加大内存保护。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-18/audio.mp3" length="7761645" type="audio/mpeg"/>
       <itunes:duration>08:05</itunes:duration>
       <pubDate>Thu, 18 Sep 2025 23:45:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>Nvidia向Intel投资50亿美元重塑美国半导体产业链</title>
+      <description><![CDATA[本期Soul Power Tech News聚焦企业科技动态，主要内容包括：
+Nvidia宣布向Intel投资50亿美元，以推动美国半导体产业自立；同时向自动驾驶初创公司Wayve投资5亿美元，强化其在AI和无人驾驶领域布局。Google推出Gemini AI模型，整合进Chrome浏览器，提升用户体验。Consumer Reports呼吁微软延长Windows 10的安全支持，指责其政策风险。Insight Partners遭遇大规模数据泄露，安全问题引发关注。Ricoh入选“全球最佳公司榜单”，因可持续发展表现突出。TechCrunch Disrupt 2025讨论AI融资环境，强调投资标准日趋严格。Persistent Systems与Google Cloud探讨AI与数据分析结合的商业智能变革。Nexcel成功挂牌OTCQB，拓展国际市场知名度。英国国防部测试十亿英镑的AI数字作战系统，提升作战效率的同时引发伦理讨论。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">48f5717e-63c4-4643-9e3f-a0670b45cf39</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-19/audio.mp3" length="7761645" type="audio/mpeg"/>
+      <itunes:duration>07:50</itunes:duration>
+      <pubDate>Thu, 19 Sep 2025 22:00:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
