@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Sep 2025 15:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 08:08:21 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 18 Sep 2025 23:45:29 +0800</pubDate>
+    <pubDate>Sun, 21 Sep 2025 16:08:19 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -603,7 +603,21 @@ Nvidia宣布向Intel投资50亿美元，以推动美国半导体产业自立；�
       <guid isPermaLink="false">48f5717e-63c4-4643-9e3f-a0670b45cf39</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-19/audio.mp3" length="7761645" type="audio/mpeg"/>
       <itunes:duration>07:50</itunes:duration>
-      <pubDate>Thu, 19 Sep 2025 22:00:29 +0800</pubDate>
+      <pubDate>Fri, 19 Sep 2025 22:00:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>Oracle与Meta洽谈200亿美元云计算合作协议</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与商业科技相关的最新动态，内容包括：
+
+Oracle与Meta洽谈200亿美元云计算合作，旨在助力AI模型训练。EY推出“神经符号AI”平台，提升行业AI可信性。TechCrunch Disrupt大会上，专家分享产品市场契合的经验，强调用户反馈的重要性。韩国评估美国H-1B签证政策变动对科技企业的影响。SWL Miner推动绿色云挖矿，探索合规与环保。Tricolor申请破产，美国二手车市场面临挑战。JPMorgan Chase加强消费与零售行业投融资战略。欧洲航天局Themis火箭原型进入测试阶段，提升欧洲空间自主能力。Honeywell航空航天业务持续增长，聚焦数字化产品。Startup Battlefield 200比赛引入新评委，关注AI及机器人自动化创新。
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1463d34f-dafd-4212-92e3-fb4bd133e79f</guid>
+      <enclosure url="https://github.com/woojoo520/daily_tech_podcast/raw/main/episodes/2025-09-20/audio.mp3" length="9246573" type="audio/mpeg"/>
+      <itunes:duration>09:37</itunes:duration>
+      <pubDate>Sun, 21 Sep 2025 16:08:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
