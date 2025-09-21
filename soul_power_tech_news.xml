@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Sep 2025 08:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 08:15:37 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 21 Sep 2025 16:08:19 +0800</pubDate>
+    <pubDate>Sun, 21 Sep 2025 16:15:31 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -618,6 +618,26 @@ Oracle与Meta洽谈200亿美元云计算合作，旨在助力AI模型训练。EY
       <enclosure url="https://github.com/woojoo520/daily_tech_podcast/raw/main/episodes/2025-09-20/audio.mp3" length="9246573" type="audio/mpeg"/>
       <itunes:duration>09:37</itunes:duration>
       <pubDate>Sun, 21 Sep 2025 16:08:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>SimplyNode推出Instagram住宅代理服务保障账户安全</title>
+      <description><![CDATA[本期Soul Power Tech News关注科技领域的最新动态，内容包括：
+
+SimplyNode推出新Instagram住宅代理服务，提升账户安全性并顺应社交网络管理需求。FleetMining则推出“零门槛”比特币和狗狗币云挖矿服务，吸引关注但也存有投资风险。
+
+Apple将2025款MacBook Air价格降至799美元，分析认为将引发市场竞争。特朗普宣布H-1B签证费用大幅提高，预计对科技人才流动产生影响。
+
+Nintendo公布Switch 2独占游戏《Fire Emblem: Fortune's Weave》，引发玩家期待。农业纳米无人机技术在传统农业管理中快速应用。
+
+特朗普与习近平通话后，TikTok美方业务剥离交易有实质进展。Novartis提前建立药品库存应对潜在关税影响。
+
+La Liga下调Barcelona工资帽，影响俱乐部财务运作。ABC暂停《Jimmy Kimmel Live!》，引发关于言论审查的讨论。敬请关注下一期！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">46ae9ac3-4181-4310-9a25-c371078942ba</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-21/audio.mp3" length="8365293" type="audio/mpeg"/>
+      <itunes:duration>08:42</itunes:duration>
+      <pubDate>Sun, 21 Sep 2025 16:15:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
