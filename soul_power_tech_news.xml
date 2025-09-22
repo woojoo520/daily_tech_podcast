@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Sep 2025 08:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 16:07:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 21 Sep 2025 16:15:31 +0800</pubDate>
+    <pubDate>Tue, 23 Sep 2025 00:06:06 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -638,6 +638,16 @@ La Liga下调Barcelona工资帽，影响俱乐部财务运作。ABC暂停《Jimm
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-21/audio.mp3" length="8365293" type="audio/mpeg"/>
       <itunes:duration>08:42</itunes:duration>
       <pubDate>Sun, 21 Sep 2025 16:15:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI代理产业变革引发投资热潮</title>
+      <description><![CDATA[本期Soul Power Tech News带来2025年9月22日的科技动态：TechCrunch Disrupt大会聚焦AI代理产业变革并引发广泛关注，强化学习环境成为创新热点；SonicJobs在HR Tech Pitchfest中获胜，展示智能招聘技术的市场潜力；The Cotswold Company上半年销售创纪录，品牌升级和新零售模式成增长推动力；Boohoo因高管薪酬政策遭遇股东反对，反映行业结构性矛盾；Google云服务因AI需求激增而快速增长，科技巨头加大投资基础设施；AI技术在医疗和金融领域成果丰硕，产业数字化升级深入；科技公司针对气候变化投入新策略，强调数字化与合规管理；全球市场因美国利率波动面临风险，科技股表现引人关注；Kansas City Royals利用数据分析增强决策能力，体育与科技的结合引发讨论。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">780c6396-723e-4834-bd94-d762ddf87394</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-22/audio.mp3" length="8720685" type="audio/mpeg"/>
+      <itunes:duration>09:04</itunes:duration>
+      <pubDate>Tue, 23 Sep 2025 00:06:06 +0800</pubDate>
     </item>
   </channel>
 </rss>
