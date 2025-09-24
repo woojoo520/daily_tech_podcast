@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Sep 2025 02:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 06:02:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 24 Sep 2025 10:50:11 +0800</pubDate>
+    <pubDate>Wed, 24 Sep 2025 14:02:13 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -658,6 +658,16 @@ La Liga下调Barcelona工资帽，影响俱乐部财务运作。ABC暂停《Jimm
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-23/audio.mp3" length="8132013" type="audio/mpeg"/>
       <itunes:duration>08:28</itunes:duration>
       <pubDate>Tue, 23 Sep 2025 20:50:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>Google面临史无前例广告垄断压力和拆分要求</title>
+      <description><![CDATA[本期Soul Power Tech News重点关注多个行业动态：Google在广告技术方面面临反垄断压力，法院要求其拆分广告管理业务以恢复竞争。Forbes峰会探讨AI经济中的环境责任，强调企业需进行基础设施改造以应对碳排放挑战。Amazon被控在Prime服务中误导消费者，面临法律审查。科学界的自组装材料正在实验室阶段取得突破，未来可能影响智能制造。美国股市因美联储降息讲话出现回调，投资者对高估值表现敏感。微软因Windows 10升级问题遭消费者批评，需要保障用户权益。TechCrunch Disrupt聚焦太空经济基础设施，强调AI与数据的重要性。同时，Ur-Energy任命新财务副总裁以支持铀矿扩产。最后，科学家揭晓乌尤尼盐沼的天然镜面现象，具有重要的科研意义。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">dc0d82f7-c5c5-4424-a9df-0f2c3c2cf02f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-24/audio.mp3" length="8428077" type="audio/mpeg"/>
+      <itunes:duration>08:46</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 14:02:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
