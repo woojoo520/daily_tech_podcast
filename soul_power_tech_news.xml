@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Sep 2025 16:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 02:51:15 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 23 Sep 2025 00:06:06 +0800</pubDate>
+    <pubDate>Wed, 24 Sep 2025 10:50:11 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -648,6 +648,16 @@ La Liga下调Barcelona工资帽，影响俱乐部财务运作。ABC暂停《Jimm
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-22/audio.mp3" length="8720685" type="audio/mpeg"/>
       <itunes:duration>09:04</itunes:duration>
       <pubDate>Mon, 22 Sep 2025 20:06:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>NASA发布第24届宇航员候选人班次女性占六席</title>
+      <description><![CDATA[本期Soul Power Tech News汇聚了科技与商业的最新动态，内容包括：NASA公布第24届宇航员候选人班，女性超过男性，聚焦Artemis登月与火星探索。因无人机事件，丹麦哥本哈根机场与挪威奥斯陆机场关闭4小时，航班大规模延误，引发欧洲航空安全新危机。英国卫生部长表示，NHS将在未来18个月内并入社会关怀部，数字医疗服务将持续投入。Ad Age分析数字广告技术趋势，强调AI驱动下的品牌生态重构。美股连续上涨，由于Nvidia与OpenAI的合作引发股价飙升。TechCrunch Disrupt 2025即将举行，硅谷投资人分享早期创业投资经验。Apple股价回升，受到iPhone强劲销售推动。MindMed发布股权激励，志在脑健康药物研发。最后，TechCrunch Disrupt 2025招募志愿者，提供深度参与机会。欢迎继续关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1420f04d-7d05-498d-8201-7dd60e76352c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-23/audio.mp3" length="8132013" type="audio/mpeg"/>
+      <itunes:duration>08:28</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 10:50:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
