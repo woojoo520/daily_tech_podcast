@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Sep 2025 06:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 06:03:42 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 24 Sep 2025 14:02:13 +0800</pubDate>
+    <pubDate>Thu, 25 Sep 2025 14:03:36 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -668,6 +668,24 @@ La Liga下调Barcelona工资帽，影响俱乐部财务运作。ABC暂停《Jimm
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-24/audio.mp3" length="8428077" type="audio/mpeg"/>
       <itunes:duration>08:46</itunes:duration>
       <pubDate>Wed, 24 Sep 2025 14:02:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>时空或不复存在引发科学界震动</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来今日科技动态，内容如下：
+
+一项新研究提出时空可能只是一种数学模型，引发了物理学界的广泛讨论。南极A23A冰山再次崩裂，专家提醒气候变化的影响。美国Quanex Building Products面临集体诉讼，因并购后管理风险被质疑。
+
+Sony举办了“State of Play”发布会，宣布多款新游戏及PS Plus会员福利。任天堂发布新手游《Fire Emblem Shadows》，创新玩法引发关注。OpenAI宣布将在美国新建5座数据中心，投资4000亿美元，产生环保与能源消耗担忧。
+
+欧盟议会通过公司税制改革法案，未来可能改变国际税收格局。美国对H-1B签证新规引发企业不满及混乱。最后，南天星座半人马座出现新星，引起天文界的关注与观察。
+
+感谢您的收听，明天同一时间我们将继续为您带来全球最新的科技动态。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">d565cb5c-3299-426c-bbac-81ed3062c808</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-25/audio.mp3" length="10676205" type="audio/mpeg"/>
+      <itunes:duration>11:07</itunes:duration>
+      <pubDate>Thu, 25 Sep 2025 14:03:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
