@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Sep 2025 06:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 06:02:01 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 26 Sep 2025 14:02:25 +0800</pubDate>
+    <pubDate>Sat, 27 Sep 2025 14:01:55 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -704,6 +704,18 @@ Intel正在寻求Apple的投资合作，并与台积电洽谈多样化合作；O
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-26/audio.mp3" length="8060589" type="audio/mpeg"/>
       <itunes:duration>08:23</itunes:duration>
       <pubDate>Fri, 26 Sep 2025 14:02:25 +0800</pubDate>
+    </item>
+    <item>
+      <title>特朗普政府与投资方达成TikTok交易协议价值140亿</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来今日科技动态，主要内容包括：
+
+美国关于TikTok的交易进入关键阶段，东大领导人透露交易或达140亿美元，依然存在不确定性。Baylin Technologies履行法院命令，提升市场信誉。BMO Capital Markets上调S&P 500预测至7000点，分析认为AI板块推动市场信心回升。TechCrunch Disrupt大会即将召开，聚集250多位科技领袖。美国股市在通胀数据利好下反弹，科技股体现基本面恢复。乌克兰无人机打击俄炼油厂影响国内燃油生产，扰动国际能源市场。播客讨论AI扩张与H-1B签证政策影响。Carvana试水新车经销模式，展现行业结构性变化。印俄在农业技术与贸易方面达成合作共识，推动多元化贸易。最后，电影《The Social Reckoning》将聚焦Meta面临的道德和监管挑战。欢迎继续关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">93148c8f-3941-4d39-bb69-cdb88de9845e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-27/audio.mp3" length="7866477" type="audio/mpeg"/>
+      <itunes:duration>08:11</itunes:duration>
+      <pubDate>Sat, 27 Sep 2025 14:01:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
