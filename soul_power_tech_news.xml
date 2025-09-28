@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Sep 2025 06:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 06:02:17 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 27 Sep 2025 14:01:55 +0800</pubDate>
+    <pubDate>Sun, 28 Sep 2025 14:02:13 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -709,13 +709,25 @@ Intel正在寻求Apple的投资合作，并与台积电洽谈多样化合作；O
       <title>特朗普政府与投资方达成TikTok交易协议价值140亿</title>
       <description><![CDATA[本期Soul Power Tech News为您带来今日科技动态，主要内容包括：
 
-美国关于TikTok的交易进入关键阶段，东大领导人透露交易或达140亿美元，依然存在不确定性。Baylin Technologies履行法院命令，提升市场信誉。BMO Capital Markets上调S&P 500预测至7000点，分析认为AI板块推动市场信心回升。TechCrunch Disrupt大会即将召开，聚集250多位科技领袖。美国股市在通胀数据利好下反弹，科技股体现基本面恢复。乌克兰无人机打击俄炼油厂影响国内燃油生产，扰动国际能源市场。播客讨论AI扩张与H-1B签证政策影响。Carvana试水新车经销模式，展现行业结构性变化。印俄在农业技术与贸易方面达成合作共识，推动多元化贸易。最后，电影《The Social Reckoning》将聚焦Meta面临的道德和监管挑战。欢迎继续关注！]]></description>
+美国关于TikTok的交易进入关键阶段，东大领导人透露交易或达140亿美元，依然存在不确定性。Baylin Technologies履行法院命令，提升市场信誉。BMO Capital Markets上调S&amp;P 500预测至7000点，分析认为AI板块推动市场信心回升。TechCrunch Disrupt大会即将召开，聚集250多位科技领袖。美国股市在通胀数据利好下反弹，科技股体现基本面恢复。乌克兰无人机打击俄炼油厂影响国内燃油生产，扰动国际能源市场。播客讨论AI扩张与H-1B签证政策影响。Carvana试水新车经销模式，展现行业结构性变化。印俄在农业技术与贸易方面达成合作共识，推动多元化贸易。最后，电影《The Social Reckoning》将聚焦Meta面临的道德和监管挑战。欢迎继续关注！]]></description>
       <itunes:author>woojoo</itunes:author>
       <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">93148c8f-3941-4d39-bb69-cdb88de9845e</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-27/audio.mp3" length="7866477" type="audio/mpeg"/>
       <itunes:duration>08:11</itunes:duration>
       <pubDate>Sat, 27 Sep 2025 14:01:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>Meta推出智能眼镜引发科技界热议</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来昨日的科技动态：
+
+Meta在Connect 2025大会推出了首款智能眼镜Ray-Ban Meta Display，结合AI和可穿戴技术。Apple即将更新iPad与Mac产品线，传闻新iPad Pro将搭载M3芯片，定位为高端生产力工具。NASA的OSIRIS-REx任务揭示了小行星Bennu的水含矿物，为生命起源提供新证据。LIGO天文台测试新光学系统FROSTI，提升重力波探测灵敏度。Google迎来27岁生日，推出首版logo致敬初心，并强调“AI普惠”布局。TechCrunch Disrupt 2025探讨AI赋能开发工具，认为初创团队能以低成本构建产品。卡塔尔哈马德国际机场与深圳宝安机场建立姐妹机场合作，推动航空联通。Halper Sadeh LLC对多家上市公司股东权益展开调查。机构投资者掌控Hecla Mining 66%股权，其财报优于预期。Beta Technologies正筹备IPO，专注于电动航空市场。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">20d28427-4378-49d4-ab1e-bd9f70baa95e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-28/audio.mp3" length="9793197" type="audio/mpeg"/>
+      <itunes:duration>10:12</itunes:duration>
+      <pubDate>Sun, 28 Sep 2025 14:02:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
