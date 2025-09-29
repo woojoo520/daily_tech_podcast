@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Sep 2025 06:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 06:02:22 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 28 Sep 2025 14:02:13 +0800</pubDate>
+    <pubDate>Mon, 29 Sep 2025 14:02:17 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -728,6 +728,29 @@ Meta在Connect 2025大会推出了首款智能眼镜Ray-Ban Meta Display，结�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-28/audio.mp3" length="9793197" type="audio/mpeg"/>
       <itunes:duration>10:12</itunes:duration>
       <pubDate>Sun, 28 Sep 2025 14:02:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国法院驳回DJI撤销黑名单请求影响市场前景</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来以下重要商业科技动态：
+
+1. Kessler Topaz律所对Charter Communications发起集体诉讼，指控证券欺诈，关注市场反应及合规警示。
+2. Aon任命Shinji Kuriyama为日本区负责人，旨在加强亚洲市场的综合服务能力。
+3. Lantheus Holdings面临证券欺诈指控，投资者需在11月前提交集体诉讼申请。
+4. 法院维持DJI的“与军方相关企业”分类，增加其在美运营的监管压力。
+5. 世界旅游日聚焦可持续转型与科技创新，推动环保旅游的实现。
+6. Pomerantz针对Roblox提起诉讼，因平台安全问题导致未成年人风险。
+7. FBI警告用户关注WhatsApp新功能可能被用于诈骗。
+8. Novo Nordisk因销售预期下调遭集体诉讼，市场波动明显。
+9. Quantum Corporation也面临证券欺诈指控，呼吁提升公司治理透明度。
+10. AI及数字创新正在推动全球旅游业转型，实现环保和包容性。
+
+感谢收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">9b9e121c-a7a5-414e-987a-03e99dc2a16e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-29/audio.mp3" length="7898157" type="audio/mpeg"/>
+      <itunes:duration>08:13</itunes:duration>
+      <pubDate>Mon, 29 Sep 2025 14:02:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
