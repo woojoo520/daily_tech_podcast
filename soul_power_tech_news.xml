@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Sep 2025 06:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 06:02:31 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 29 Sep 2025 14:02:17 +0800</pubDate>
+    <pubDate>Tue, 30 Sep 2025 14:02:25 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -751,6 +751,22 @@ Meta在Connect 2025大会推出了首款智能眼镜Ray-Ban Meta Display，结�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-29/audio.mp3" length="7898157" type="audio/mpeg"/>
       <itunes:duration>08:13</itunes:duration>
       <pubDate>Mon, 29 Sep 2025 14:02:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI驱动裁员潮揭示科技行业新焦虑</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新的科技与商业新闻，内容包括：
+
+全球科技企业因人工智能的推动，裁员潮席卷，近9万人受影响，其中Accenture与TCS的裁员尤为显著。NVIDIA则因全球AI数据中心基础设施投资和与阿里巴巴的合作而受到资本市场密切关注。SpaceX成功发射28颗Starlink卫星，进一步扩展其低轨互联网服务。
+
+此外，EA被私有化的交易引发业界讨论，JP Morgan Chase将在德国推出消费金融品牌。美国电动车充电网络扩张进展显著，BYD在日本市场的价格策略引发关注。最后，亚洲股市在宏观风险背景下普遍上涨，显示出市场信心的回暖。
+
+感谢您的收听，明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3bc70f07-aeec-4096-aa96-7500af894bf1</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-30/audio.mp3" length="9480429" type="audio/mpeg"/>
+      <itunes:duration>09:52</itunes:duration>
+      <pubDate>Tue, 30 Sep 2025 14:02:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
