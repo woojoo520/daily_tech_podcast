@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 30 Sep 2025 06:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 06:02:17 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 30 Sep 2025 14:02:25 +0800</pubDate>
+    <pubDate>Wed, 01 Oct 2025 14:02:12 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -767,6 +767,36 @@ Meta在Connect 2025大会推出了首款智能眼镜Ray-Ban Meta Display，结�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-09-30/audio.mp3" length="9480429" type="audio/mpeg"/>
       <itunes:duration>09:52</itunes:duration>
       <pubDate>Tue, 30 Sep 2025 14:02:25 +0800</pubDate>
+    </item>
+    <item>
+      <title>NASA因政府关停措施全部员工无薪休假</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来全球科技与商业的最新动态，包括：
+
+NASA因美国政府拨款停滞启动全面关停措施，员工被迫无薪休假，约75万人受影响，预计日均经济损失为4亿美元。
+
+在此背景下，美国股市出现震荡，但最终小幅收涨。航空和运输板块表现疲软，市场对未来预期谨慎。
+
+Meta因隐私案面临巨额赔偿风险，Flo Health隐私问题引发广泛讨论，涉及数千万用户的数据安全。
+
+AI在高等教育中的影响引发专家警惕，教授们担忧批判性思维被削弱。
+
+智能安防系统出现功能重复现象，专家建议消费者简化选择。
+
+冰岛低成本航空公司Play突然破产造成游客滞留，市场前景不确定。
+
+英国科技部强调AI是经济增长的关键驱动力，推动相关政策支持。
+
+美国房贷平台Better.com推出新产品，简化自雇者贷款申请流程。
+
+印度央行维持利率不变，继续谨慎应对经济挑战。 
+
+感谢您收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">9b943460-055c-4749-823f-9b2afd18a020</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-01/audio.mp3" length="8871597" type="audio/mpeg"/>
+      <itunes:duration>09:14</itunes:duration>
+      <pubDate>Wed, 01 Oct 2025 14:02:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
