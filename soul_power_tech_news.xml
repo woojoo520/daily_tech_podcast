@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Oct 2025 06:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 06:02:55 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 01 Oct 2025 14:02:12 +0800</pubDate>
+    <pubDate>Thu, 02 Oct 2025 14:02:49 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -797,6 +797,34 @@ AI在高等教育中的影响引发专家警惕，教授们担忧批判性思维
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-01/audio.mp3" length="8871597" type="audio/mpeg"/>
       <itunes:duration>09:14</itunes:duration>
       <pubDate>Wed, 01 Oct 2025 14:02:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>NBA与AWS战略合作重塑篮球数据智能化新体验</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技与商业动态，内容包括：
+
+NBA宣布与Amazon Web Services建立战略合作，推出基于AI的“NBA Inside the Game”智能平台，以提升球迷体验并推进数据智能化。
+
+Netflix股价大涨，市值突破5100亿美元，积极进军体育直播市场。
+
+美国马里兰州实施新的未成年人数据隐私法，旨在加强青少年网络安全。
+
+英国“Made Smarter”项目启动，推动制造业数字化转型，获得政府补贴。
+
+全球锂矿公司Sigma Lithium预计10月发布强劲财报，展现行业扩张势头。
+
+OpenAI与日本政府合作，推广AI工具以提高行政效率。
+
+Apple发布安全隐私更新，进一步巩固品牌形象。
+
+Amazon在AWS峰会上发布新的生成式AI服务，推动企业应用创新。 
+
+感谢您的收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">74191db1-83ef-4ed6-9b77-cd9a5fbf5f5f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-02/audio.mp3" length="12336813" type="audio/mpeg"/>
+      <itunes:duration>12:50</itunes:duration>
+      <pubDate>Thu, 02 Oct 2025 14:02:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
