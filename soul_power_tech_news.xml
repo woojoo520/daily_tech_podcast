@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Oct 2025 06:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 06:04:41 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 02 Oct 2025 14:02:49 +0800</pubDate>
+    <pubDate>Fri, 03 Oct 2025 14:04:36 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -825,6 +825,18 @@ Amazon在AWS峰会上发布新的生成式AI服务，推动企业应用创新。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-02/audio.mp3" length="12336813" type="audio/mpeg"/>
       <itunes:duration>12:50</itunes:duration>
       <pubDate>Thu, 02 Oct 2025 14:02:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>Amazon发布首款彩色Kindle Scribe革命性体验来袭</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来以下科技新闻动态：
+
+亚马逊推出新一代Kindle Scribe系列，以彩色电子墨水屏及AI驱动功能提升阅读体验。DoorDash发布自主配送机器人“Dot”，提升外卖效率。Adobe Premiere移动版正式上线，为视频创作者提供桌面级剪辑体验。Qualcomm宣布其旗舰芯片转向ARM v9架构，旨在增强AI性能。Meta将利用与AI的互动数据改进广告服务，可能引发隐私争议。AI行业市值突破5000亿美元，OpenAI成为高估值初创企业。CJ ENM在亚洲学院创意奖中获多项大奖，凸显其在内容创新上的领导地位。Spacecoin成功实现卫星加密数据传输，推动去中心化卫星通讯进程。最后，全球货运机队预计将在未来20年内增长约41%，反映出航空货运的强劲需求。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">23569fdc-52b5-4598-ad62-59c56c2c25f5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-03/audio.mp3" length="8764461" type="audio/mpeg"/>
+      <itunes:duration>09:07</itunes:duration>
+      <pubDate>Fri, 03 Oct 2025 14:04:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
