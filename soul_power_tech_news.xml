@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 Oct 2025 06:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 06:02:20 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 03 Oct 2025 14:04:36 +0800</pubDate>
+    <pubDate>Sat, 04 Oct 2025 14:02:15 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -837,6 +837,22 @@ Amazon在AWS峰会上发布新的生成式AI服务，推动企业应用创新。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-03/audio.mp3" length="8764461" type="audio/mpeg"/>
       <itunes:duration>09:07</itunes:duration>
       <pubDate>Fri, 03 Oct 2025 14:04:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球科技公司加杠杆押注AI泡沫风险加剧</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与科技投资与市场动态相关的重要新闻，内容包括：
+
+全球科技巨头面临AI泡沫加剧，各大公司通过债券和私人贷款加杠杆，表现出对AI投资回报的担忧。尽管华尔街股指创下新高，科技板块表现活跃，但特斯拉等公司由于政策因素遭遇股价波动。
+
+在并购方面，Global Infrastructure Partners正在与Aligned Data Centers进行400亿美元交易，反映AI基础设施投资的潜力。同时，OpenAI推出家长监管功能，以促进未成年用户的安全使用。
+
+Google针对Windows用户推出换机广告，强调ChromeOS优势，而Microsoft升级安全平台以应对新挑战。此外，Newegg更新信用卡政策，Deliveroo迎来新CEO，EA被财团以550亿美元收购。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">c5d6b4a0-a7e6-4104-a031-1bc71f329ec5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-04/audio.mp3" length="8457453" type="audio/mpeg"/>
+      <itunes:duration>08:48</itunes:duration>
+      <pubDate>Sat, 04 Oct 2025 14:02:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
