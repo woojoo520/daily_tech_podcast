@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Oct 2025 06:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 06:02:19 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 04 Oct 2025 14:02:15 +0800</pubDate>
+    <pubDate>Sun, 05 Oct 2025 14:02:14 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -853,6 +853,18 @@ Google针对Windows用户推出换机广告，强调ChromeOS优势，而Microsof
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-04/audio.mp3" length="8457453" type="audio/mpeg"/>
       <itunes:duration>08:48</itunes:duration>
       <pubDate>Sat, 04 Oct 2025 14:02:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI泡沫担忧加剧巨头投资急速膨胀</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来与科技行业相关的重要新闻动态，包括：
+
+AI泡沫担忧加剧，OpenAI预计在2029年前将消耗1150亿美元，而Meta与CoreWeave达成142亿美元的采购协议。Instacrops在TechCrunch Disrupt大会上展示了其水资源管理AI，助力农业高效灌溉。Google推出Pixel 10系列，搭载先进AI功能，旨在提升个性化体验。Meta即将把生成式AI交互纳入内容推荐体系，影响广告竞争格局。Jeff Bezos对AI行业的泡沫风险表达忧虑，倡导关注创新与资金回流。Einride获得1亿美元融资推进自动驾驶货运。环保组织警示AI发展引发的PFAS污染问题，呼吁制定绿色标准。芯片行业加速向“绿色芯片”转型，推动可持续发展。Precision Biologics在内华达州新建生物制药设施，推动医疗产业发展。Laser Photonics完成400万美元融资，拓展高科技市场份额。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">d42196c1-65d8-491c-ba2e-841a6ecb361f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-05/audio.mp3" length="9472941" type="audio/mpeg"/>
+      <itunes:duration>09:52</itunes:duration>
+      <pubDate>Sun, 05 Oct 2025 14:02:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
