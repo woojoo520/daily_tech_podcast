@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Oct 2025 06:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 06:02:03 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 12 Oct 2025 14:01:58 +0800</pubDate>
+    <pubDate>Mon, 13 Oct 2025 14:01:59 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -893,6 +893,18 @@ Meta和Apple在AR眼镜领域加速推进，业内对其商用前景持谨慎态
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-12/audio.mp3" length="7386669" type="audio/mpeg"/>
       <itunes:duration>07:41</itunes:duration>
       <pubDate>Sun, 12 Oct 2025 14:01:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>新法诊断阿尔茨海默症准确率高达90%</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态，内容如下：
+
+自助式数字认知测试与阿尔茨海默症生物标志物结合，医生可在基层医疗以90%准确率诊断该疾病。Samsung Galaxy Z Flip 7再度引领智能手机设计潮流，具备极高的识别度和创新功能。Cytokinetics遭遇集体诉讼，因财报信息不实致投资者受损。CarMax持续业绩下滑，现面临投资损失调查。Charter Communications及其高管被控夸大运营表现，损害投资者权益。Marex Group和PubMatic也因不实信息遭遇法律诉讼。美国咖啡连锁品牌因咖啡豆成本上涨调价，引发消费端忧虑。此外，UFC前冠军挑战Max Holloway引发关注，双方对决可能成为2026年度赛事焦点。敬请关注更多动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8db673b3-1f29-428b-ba8e-61a4c6e43fdd</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-13/audio.mp3" length="6449517" type="audio/mpeg"/>
+      <itunes:duration>06:43</itunes:duration>
+      <pubDate>Mon, 13 Oct 2025 14:01:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
