@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Oct 2025 06:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 06:02:47 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 13 Oct 2025 14:01:59 +0800</pubDate>
+    <pubDate>Tue, 14 Oct 2025 14:02:41 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -905,6 +905,18 @@ Meta和Apple在AR眼镜领域加速推进，业内对其商用前景持谨慎态
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-13/audio.mp3" length="6449517" type="audio/mpeg"/>
       <itunes:duration>06:43</itunes:duration>
       <pubDate>Mon, 13 Oct 2025 14:01:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>SpaceX成功发射24颗Amazon卫星全球宽带竞赛再推进一步</title>
+      <description><![CDATA[本期Soul Power Tech News将为您呈现2025年10月14日的科技动态，包括：
+
+SpaceX成功发射了24颗Amazon Kuiper宽带卫星，标志着全球低地轨道宽带竞赛的推进。Nvidia CEO对以色列工程师Avinatan Or获释表示祝贺，展示了科技企业的人道主义责任。澳大利亚Barton Gold获得1750万美元融资，计划推动黄金项目的进展。IonQ发布的量子化学模拟技术使股价暴涨超18%，展现量子计算的实用性。AstraZeneca将在欧洲肿瘤医学会上披露关键临床试验数据，进一步巩固在肿瘤药物市场的地位。食品企业Smucker起诉Trader Joe's侵犯专利，焦点在品牌保护。技术盛会“TechCrunch Disrupt 2025”即将举行，吸引创新者汇聚。Slate Auto揭晓新款电动卡车，展现工程创新。伊利诺伊州推出6700万美元气候智慧农业计划，助力绿色经济。最后，Oracle股价因云与AI战略强劲上涨，市场情绪乐观。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">c260d7f9-be69-4211-8dea-e8ffea954601</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-14/audio.mp3" length="9769581" type="audio/mpeg"/>
+      <itunes:duration>10:10</itunes:duration>
+      <pubDate>Tue, 14 Oct 2025 14:02:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
