@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 14 Oct 2025 06:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 06:02:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 14 Oct 2025 14:02:41 +0800</pubDate>
+    <pubDate>Wed, 15 Oct 2025 14:02:11 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -917,6 +917,38 @@ SpaceX成功发射了24颗Amazon Kuiper宽带卫星，标志着全球低地轨�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-14/audio.mp3" length="9769581" type="audio/mpeg"/>
       <itunes:duration>10:10</itunes:duration>
       <pubDate>Tue, 14 Oct 2025 14:02:41 +0800</pubDate>
+    </item>
+    <item>
+      <title>Nextech3D成功收购Eventdex引领会展科技变革</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2025年10月15日的商业科技动态，主要内容包括：
+
+Nextech3D.ai以约70万美元收购AI驱动的Eventdex，整合其注册与身份认证能力，预计推出区块链票务系统。
+
+Strata Skin Sciences股价暴涨54%，因新激光疗法在治疗皮肤疾病上取得显著成果，但长期财务状况仍需关注。
+
+芬兰航空暂停8架A321飞机运营，导致多班次航班取消，业内对航空维护技术提出新思考。
+
+Cavotec在加拿大成功交付全自动系泊系统，助力港口智能化升级。
+
+Johnson & Johnson计划拆分骨科业务DePuy Synthes，旨在提升利润率。
+
+Affinia Therapeutics参与多个医疗大会，展示其基因疗法的创新潜力。
+
+Gates Industrial将于10月29日发布第三季度财报，关注业务稳定性及市场战略。
+
+NNN REIT将派发每股0.6美元股息，吸引风险厌恶型投资者。
+
+Zodiac Gold与Avesoro Resources签署排他性协议，进行西非黄金项目合作。
+
+印度农业研究委员会启动全国农业招生招生系统，强调数字化改革。 
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">4cd60673-9ab1-49ea-a526-17808157f774</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-15/audio.mp3" length="8464365" type="audio/mpeg"/>
+      <itunes:duration>08:48</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 14:02:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
