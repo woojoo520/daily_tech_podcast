@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 15 Oct 2025 06:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 09:05:59 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 15 Oct 2025 14:02:11 +0800</pubDate>
+    <pubDate>Thu, 16 Oct 2025 17:05:53 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -949,6 +949,30 @@ Zodiac Gold与Avesoro Resources签署排他性协议，进行西非黄金项目�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-15/audio.mp3" length="8464365" type="audio/mpeg"/>
       <itunes:duration>08:48</itunes:duration>
       <pubDate>Wed, 15 Oct 2025 14:02:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>曼城推出首款NFC芯片球衣 实现虚拟与现实互动</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态，包括：
+
+ASML发布2025年第三季度财报，总营收75亿欧元，净利润21亿欧元，订单量54亿欧元，但预计2026年在中国市场需求显著下降。
+
+曼彻斯特城推出首款集成NFC芯片的球衣，提升数字化粉丝体验，彰显体育与科技结合。
+
+Consensus Mining宣布将召开线上股东大会，聚焦比特币矿业的新模式。
+
+民调显示61%的美国成年人对财务状况感到忧虑，GoDaddy提倡利用数字工具和AI创新迎合灵活就业趋势。
+
+Remedio推出全新交互式平台，提升应急电力系统的运行效率，及DIDlogic推出现代化企业通信解决方案。
+
+RhinoTech发布新官网，简化IT服务获取途径。Cobalt Keys扩展AI驱动公关技术，Vior Inc.的金矿新探索备受关注。
+
+感谢您的收听，明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">0e02810e-d8c3-489d-a12c-bd0e5b9f0ba1</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-16/audio.mp3" length="8164269" type="audio/mpeg"/>
+      <itunes:duration>08:30</itunes:duration>
+      <pubDate>Thu, 16 Oct 2025 17:05:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
