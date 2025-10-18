@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Oct 2025 09:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 14:00:10 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 16 Oct 2025 17:05:53 +0800</pubDate>
+    <pubDate>Sat, 18 Oct 2025 22:00:04 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -973,6 +973,17 @@ RhinoTech发布新官网，简化IT服务获取途径。Cobalt Keys扩展AI驱�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-16/audio.mp3" length="8164269" type="audio/mpeg"/>
       <itunes:duration>08:30</itunes:duration>
       <pubDate>Thu, 16 Oct 2025 17:05:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI引擎优化服务引领SEO行业新革命</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来以下商业科技动态：
+英国DigitalBiz Limited推出新AI EngineBoost服务，聚焦品牌曝光和生成式引擎优化，SEO行业迎来转型。拉脱维亚警方联合Europol捣毁网络犯罪团伙，彰显欧盟信息安全合作成效。TechCrunch Disrupt 2025大会即将召开，汇聚产业领袖共同探讨未来趋势。Solana Labs CEO将分享加密经济转型观点，吸引行业关注。美股方面，美国运通股价创历史新高，而Oracle及Newmont出现下跌，反映市场分化。俄亥俄州通过交通摄像头罚款引发争议，讨论治理与公民权利的平衡。英国NICE建议纳入新HIV预防注射cabotegravir，助力防控策略升级。Forbes BLK Summit探讨黑人经济力量与代际财富积累。美国法院就资产出售案延迟判决，聚焦程序公正与利益分配争议。James Cameron在Titan潜水器事件中成为关键证人，公众关注创新与监管的平衡。感谢收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">abc4ff70-359e-421a-af91-372ba8a27d76</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-18/audio.mp3" length="9773613" type="audio/mpeg"/>
+      <itunes:duration>10:10</itunes:duration>
+      <pubDate>Sat, 18 Oct 2025 22:00:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
