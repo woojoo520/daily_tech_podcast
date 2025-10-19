@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Oct 2025 14:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 06:01:41 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 18 Oct 2025 22:00:04 +0800</pubDate>
+    <pubDate>Sun, 19 Oct 2025 14:01:36 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -984,6 +984,22 @@ RhinoTech发布新官网，简化IT服务获取途径。Cobalt Keys扩展AI驱�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-18/audio.mp3" length="9773613" type="audio/mpeg"/>
       <itunes:duration>10:10</itunes:duration>
       <pubDate>Sat, 18 Oct 2025 22:00:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>Solana重磅升级引领区块链创新浪潮</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来近期的重要商业科技动态，内容包括：
+
+Solana区块链进行重要升级，Agave v3.0发布为后续Alpenglow更新铺平道路，预计将提升其技术生态。加密货币市场震荡，Bitcoin价格暴跌，恐慌指数降至22，机构减仓及美联储加息预期被视为主要原因。
+
+MANTRA与EleveX推出首个房地产代币化项目，降低投资门槛，推动资产上链。Cardano（ADA）网络实施Plomin Hard Fork，价格回暖。以太坊市场因ETFs传闻吸引资金流入，而XRP因清算影响价格波动，Ripple计划设立10亿美元金库以增强抗风险能力。
+
+此外，Pomerantz律师事务所对Dow Inc.及Informatica Inc.提起集体诉讼，前者因业绩不达标引发市场负面情绪，后者则面临业绩下滑与宣传失真质疑。Skillz因合同纠纷面临调查，股价大幅下跌。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1a08e377-0c5c-4ed5-8a48-addbbb39cc1d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-19/audio.mp3" length="6773229" type="audio/mpeg"/>
+      <itunes:duration>07:03</itunes:duration>
+      <pubDate>Sun, 19 Oct 2025 14:01:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
