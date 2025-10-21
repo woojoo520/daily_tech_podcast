@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Oct 2025 06:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 06:02:19 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 20 Oct 2025 14:01:54 +0800</pubDate>
+    <pubDate>Tue, 21 Oct 2025 14:02:13 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1021,6 +1021,38 @@ Swiss Holcim收购德国Xella，标志建材产业整合加速。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-20/audio.mp3" length="9143469" type="audio/mpeg"/>
       <itunes:duration>09:31</itunes:duration>
       <pubDate>Mon, 20 Oct 2025 14:01:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>小企业税务新工具助力财务健康</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来今日的重要商业科技动态：
+
+1. **NumberSquad推出全年税务规划包**，旨在帮助小企业与自雇人士实现合理避税与财务健康。
+   
+2. **SWL Miner平台重大升级**，降低加密货币挖矿门槛，推动云端挖矿的普及。
+
+3. **Molson Coors宣布裁员**，计划将资源更多投入非啤酒饮料业务，以应对市场竞争。
+
+4. **McLaren Artura Spider亮相**，其顶级混合动力技术再创新的超跑性能标准。
+
+5. **Forbes启动2026年Fintech 50榜单征选**，聚焦金融科技创新企业。
+
+6. **美股强势开盘**，Apple股价因iPhone销量超预期而创历史新高。
+
+7. **美专利复审委员会裁定一半导体专利无效**，未波及Intel。
+
+8. **AI推动自动驾驶新时代**，行业专家探讨技术与政策的互动影响。
+
+9. **McGraw Hill用户数据隐私案达成和解**，加速教育科技领域的合规升级。
+
+10. **Greenlane Holdings与Berachain达成1.1亿美元战略合作**，旗下加密资产壮大。 
+
+欢迎收听明天的新科技快报！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">7aa9ea09-cf9d-4c06-9502-aa3e1e4597eb</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-21/audio.mp3" length="9137709" type="audio/mpeg"/>
+      <itunes:duration>09:31</itunes:duration>
+      <pubDate>Tue, 21 Oct 2025 14:02:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
