@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Oct 2025 06:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 01:19:26 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 21 Oct 2025 14:02:13 +0800</pubDate>
+    <pubDate>Fri, 14 Nov 2025 09:19:16 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1053,6 +1053,18 @@ Swiss Holcim收购德国Xella，标志建材产业整合加速。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-10-21/audio.mp3" length="9137709" type="audio/mpeg"/>
       <itunes:duration>09:31</itunes:duration>
       <pubDate>Tue, 21 Oct 2025 14:02:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apple遭遇法律重挫App Store佣金引发垄断指控</title>
+      <description><![CDATA[本期Soul Power Tech News为您汇报科技商业领域的最新动态，重点内容包括：
+
+Apple在英国面临法律挑战，其20亿美元App Store上诉被驳回，法院指出其佣金行为存在事实上的垄断。Oracle因AI会计问题股价下跌，投资者对行业前景表示担忧。Cursor以293亿美元的估值成功融资23亿美元，成为AI开发领域的热门工具。Yokogawa与新加坡A*STAR签署脱碳方案合作协议，推动气候科技进步。IFS与1X Technologies合作将人形机器人融入工业软件，实现人机协作。Algo8在美墨部署AI驱动的工艺优化系统，提升生产效率。美国联合发射同盟成功发射ViaSat-3通信卫星，满足市场需求。Palantir因AI概念下跌股价，一些分析师对其未来表现持谨慎态度。柬埔寨与新加坡推出跨境QR支付，促进区域金融互通。Shiji发布新一代PMS支付功能，提高酒店运营效率。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">5be3c617-8579-4821-b0cb-a5eb471a060c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-13/audio.mp3" length="10931373" type="audio/mpeg"/>
+      <itunes:duration>11:23</itunes:duration>
+      <pubDate>Fri, 14 Nov 2025 09:19:16 +0800</pubDate>
     </item>
   </channel>
 </rss>
