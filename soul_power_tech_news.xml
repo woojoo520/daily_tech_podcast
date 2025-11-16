@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Nov 2025 01:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 07:02:04 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 14 Nov 2025 09:19:16 +0800</pubDate>
+    <pubDate>Sun, 16 Nov 2025 15:01:58 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1065,6 +1065,18 @@ Apple在英国面临法律挑战，其20亿美元App Store上诉被驳回，法�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-13/audio.mp3" length="10931373" type="audio/mpeg"/>
       <itunes:duration>11:23</itunes:duration>
       <pubDate>Fri, 14 Nov 2025 09:19:16 +0800</pubDate>
+    </item>
+    <item>
+      <title>SoFi再创新高营收股价飙升成金融科技新星</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来与商业科技相关的最新动态，包括：
+
+SoFi Technologies在2025年第三季度创下9.5亿美元的收入，受加密货币战略转型影响股价大涨。XRP因ETF交易量上升而波动，展现机构投资者的关注。Tesla公布财报，全球交付创新高，但面临销量下降的挑战。Linamar完成对Aludyne的收购，强化铝合金铸造能力。Alibaba因购物节放缓和外部不确定性股价波动，云计算业务成为增长亮点。Meta加大AI投资，增强广告算法效率，回应投资者对回报周期的担忧。Apple计划与Google合作，提升Siri智能助理。太阳耀斑影响电磁通信，引发专家对风险防范的呼吁。前Tesla高管预测自动驾驶未来将改变生活方式，但面临诸多挑战。最后，Tesla加速“去中国化”供应链策略，以应对国际风险。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">aeae9aed-e169-4e7d-8e4e-c12825df4762</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-16/audio.mp3" length="9354285" type="audio/mpeg"/>
+      <itunes:duration>09:44</itunes:duration>
+      <pubDate>Sun, 16 Nov 2025 15:01:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
