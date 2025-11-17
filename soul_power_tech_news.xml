@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 16 Nov 2025 07:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 07:02:15 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 16 Nov 2025 15:01:58 +0800</pubDate>
+    <pubDate>Mon, 17 Nov 2025 15:02:05 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1077,6 +1077,36 @@ SoFi Technologies在2025年第三季度创下9.5亿美元的收入，受加密�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-16/audio.mp3" length="9354285" type="audio/mpeg"/>
       <itunes:duration>09:44</itunes:duration>
       <pubDate>Sun, 16 Nov 2025 15:01:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>英国Wayve无人车伦敦测试取得重大突破</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来与商业科技相关的最新动态，包括：
+
+Wayve在伦敦成功进行Level 4自动驾驶无人车测试，与Uber合作开展机器人出租车路测，标志着英国在无人驾驶领域的重要进展。
+
+Apple宣布将对iPhone进行最大幅度改革，布局卫星通信新功能，以降低对传统运营商的依赖。
+
+韩国制造业巨头Samsung和Hyundai将在本土追加数百亿美元投资，以应对美韩贸易协议的影响。
+
+美国NHTSA对特斯拉FSD展开广泛调查，聚焦自动驾驶软件的交通违规问题。
+
+Oracle计划为OpenAI的AI云数据中心项目融资380亿美元，市场对其高杠杆风险表示关注。
+
+WhatsApp成功突破Apple生态，实现跨平台互通，提高用户选择空间。
+
+日本电机巨头Nidec因违规会计被评为“特别警戒”，正制订整改方案。
+
+“黑色星期五”笔记本电脑促销活动提前，带来高达40%的折扣。
+
+Alibaba股价波动受地缘政治影响，面临监管压力与高风险。
+
+Tesla实习名额集体撤销事件引发对科技行业岗位缩减的广泛关注。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">7e5c2ab1-532d-4386-a240-cea4e00afa30</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-17/audio.mp3" length="9158445" type="audio/mpeg"/>
+      <itunes:duration>09:32</itunes:duration>
+      <pubDate>Mon, 17 Nov 2025 15:02:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
