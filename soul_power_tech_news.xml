@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 17 Nov 2025 07:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 07:02:28 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 17 Nov 2025 15:02:05 +0800</pubDate>
+    <pubDate>Wed, 19 Nov 2025 15:02:21 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1107,6 +1107,38 @@ Tesla实习名额集体撤销事件引发对科技行业岗位缩减的广泛关
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-17/audio.mp3" length="9158445" type="audio/mpeg"/>
       <itunes:duration>09:32</itunes:duration>
       <pubDate>Mon, 17 Nov 2025 15:02:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>Erg Bio融资650万美元推动合成航空燃料技术革新</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来今天的商业科技动态，包括：
+
+生物燃料初创公司Erg Bio完成650万美元融资，以推动合成航空燃料和关键化学品的生产技术。
+
+Enthral进军美国市场，推出基于Agentic AI的职场技能培训方案，旨在提升组织效率。
+
+全球金融市场剧烈波动，英国FTSE 100指数大幅下跌，受AI科技股泡沫和加密货币下跌影响。
+
+电动汽车新创企业Bollinger面临财务危机，被多家供应商起诉。
+
+Nvidia将于今日发布新财报，市场对股价波动持关注态度。
+
+Cloudflare发生大规模服务中断，影响多个关键网站和平台。
+
+Nokia获得意大利TIM的5G网络建设合同，并在德国推行裁员。
+
+自动驾驶企业Pony.ai推出新一代自动驾驶重卡，计划于2026年量产。
+
+NASA确认一颗新小行星成为地球的新类卫星，预期将在未来50年内伴随地球。
+
+俄亥俄州最高法院批准新规，允许使用AI提供部分翻译服务，旨在解决人工口译资源不足问题。
+
+感谢关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ac076b0a-e803-42c6-b901-9aa9e7b801bb</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-19/audio.mp3" length="8136621" type="audio/mpeg"/>
+      <itunes:duration>08:28</itunes:duration>
+      <pubDate>Wed, 19 Nov 2025 15:02:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
