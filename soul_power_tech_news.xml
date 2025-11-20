@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Nov 2025 07:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 07:04:29 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 19 Nov 2025 15:02:21 +0800</pubDate>
+    <pubDate>Thu, 20 Nov 2025 15:04:19 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1139,6 +1139,16 @@ NASA确认一颗新小行星成为地球的新类卫星，预期将在未来50�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-19/audio.mp3" length="8136621" type="audio/mpeg"/>
       <itunes:duration>08:28</itunes:duration>
       <pubDate>Wed, 19 Nov 2025 15:02:21 +0800</pubDate>
+    </item>
+    <item>
+      <title>Alphabet股价创新高 AI平台时代来临</title>
+      <description><![CDATA[本期Soul Power Tech News带来以下科技动态：Alphabet股价创52周新高，分析师普遍看好其在AI领域的创新潜力，认为已转型为市场核心。Datanomix与Fulcrum的合作推动制造业数字化进程，提升生产效率。英国政府推出数据科学家小组，利用AI优化刑事司法系统。LinkedIn与EBuddy达成和解，停止专利诉讼。Tesla获得Robotaxi出行牌照，自动驾驶出租车业务进入新阶段。Waymo将在五个新城市扩展自动驾驶服务，引发行业关注。Nvidia财报表现强劲，但市场对AI估值风险存分歧。英国电商Ocado股价重挫，面临重大市场挑战。未来数月AI市场面临价值观调整，投资者应关注潜在风险。日本举行长寿峰会，提出延年益寿策略，强调社区支持与健康生活方式。感谢您的收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">54202d74-5e5a-4534-bd31-fe8f05663117</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-20/audio.mp3" length="8859501" type="audio/mpeg"/>
+      <itunes:duration>09:13</itunes:duration>
+      <pubDate>Thu, 20 Nov 2025 15:04:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
