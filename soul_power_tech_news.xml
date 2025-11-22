@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 20 Nov 2025 07:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 07:02:10 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 20 Nov 2025 15:04:19 +0800</pubDate>
+    <pubDate>Sat, 22 Nov 2025 15:02:05 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1149,6 +1149,26 @@ NASA确认一颗新小行星成为地球的新类卫星，预期将在未来50�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-20/audio.mp3" length="8859501" type="audio/mpeg"/>
       <itunes:duration>09:13</itunes:duration>
       <pubDate>Thu, 20 Nov 2025 15:04:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI与Foxconn联手打造新一代AI数据中心核心硬件</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新商业科技动态，主要内容包括：
+OpenAI宣布与台湾科技巨头Foxconn达成战略合作，将在美国设计和制造新一代AI数据中心核心硬件，意在提升供应链安全性。
+两大制药公司Novo Nordisk与Eli Lilly启动直接销售减重药物的新渠道，且降价吸引新用户。
+Bayada Home Health Care任命Bryony Winn为首位外聘CEO，意图推动公司发展。
+Elon Musk旗下的xAI聘任James Burnham为新任法律顾问，强化合规管理。
+金融市场因利率预期和AI板块波动，市场对AI泡沫的关注增加。
+Bausch Health驳回投资者关于分拆和药物专利的诉讼，获法院支持。
+五角大楼向Vulcan Elements和ReElement Technologies投资7亿美元，支持本土稀土生产，降低依赖。
+Ubisoft发布AI驱动的射击游戏实验项目，改变游戏互动方式。
+Wedbush Securities建议投资者看好AI板块的优质企业。
+GAC集团与Magna深化合作，推动电动汽车在欧洲市场的本地生产与销售。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">f5b7378c-29f7-486a-b66d-e9f6900927f8</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-22/audio.mp3" length="10128429" type="audio/mpeg"/>
+      <itunes:duration>10:32</itunes:duration>
+      <pubDate>Sat, 22 Nov 2025 15:02:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
