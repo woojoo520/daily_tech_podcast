@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 22 Nov 2025 07:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 14:49:37 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 22 Nov 2025 15:02:05 +0800</pubDate>
+    <pubDate>Tue, 25 Nov 2025 22:49:32 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1169,6 +1169,18 @@ GAC集团与Magna深化合作，推动电动汽车在欧洲市场的本地生产
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-22/audio.mp3" length="10128429" type="audio/mpeg"/>
       <itunes:duration>10:32</itunes:duration>
       <pubDate>Sat, 22 Nov 2025 15:02:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>特斯拉股价波动法律风险加剧AI芯片前景引期待</title>
+      <description><![CDATA[本期Soul Power Tech News关注最新科技商业动态：
+
+Tesla股价因AI芯片研发进展与法律风险波动，分析人士认为依然是高风险高回报的代表。Nissan首席执行官启动2030发展规划，强调与Honda的跨界合作，旨在提升品牌竞争力。根据全球电信业投资趋势报告，安全防护成为运营商预算首要优先事项。NASA与Boeing决定将Starliner-1任务转为货运，重新评估商用载人航天合作。Nvidia因Alphabet加速AI芯片布局股价大跌，各大媒体纷纷分析竞争新格局。Nintendo Switch 2更新改善用户体验，获得玩家好评。Woodward公司业绩增长显著，重申股东回报信心。CreateAI Holdings宣布特别现金分红，展示未来盈利信心。Tesla的自动驾驶软件将于明年接受欧洲审批，可能成为全球首个获批的乘用车自动驾驶系统。Limited Run Games公司达成272万美元隐私数据诉讼和解，推动行业合规发展。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">b9571d2b-2e34-4d8c-8791-ffcae755f4c9</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-25/audio.mp3" length="8660781" type="audio/mpeg"/>
+      <itunes:duration>09:01</itunes:duration>
+      <pubDate>Tue, 25 Nov 2025 22:49:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
