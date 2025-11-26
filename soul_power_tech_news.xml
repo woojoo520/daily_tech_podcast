@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 25 Nov 2025 14:49:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 07:03:32 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 25 Nov 2025 22:49:32 +0800</pubDate>
+    <pubDate>Wed, 26 Nov 2025 15:03:27 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1181,6 +1181,18 @@ Tesla股价因AI芯片研发进展与法律风险波动，分析人士认为依�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-25/audio.mp3" length="8660781" type="audio/mpeg"/>
       <itunes:duration>09:01</itunes:duration>
       <pubDate>Tue, 25 Nov 2025 22:49:32 +0800</pubDate>
+    </item>
+    <item>
+      <title>电信业将首要投资网络安全应对赛博威胁</title>
+      <description><![CDATA[本期Soul Power Tech News带来2025年11月26日的主要科技动态，包括：
+
+全球电信业调查显示，面对赛博打击，网络安全投资成为运营商2026年的首要重点，强调AI应用的监管需求。Nokia正计划从巴黎退市，加大北美及亚太市场的AI和5G投资，同时获得多个新合同。Palantir股价波动大，高管大规模套现引发市场担忧。Snap与Perplexity AI合作深化应用中的AI问答，但面临青少年社交媒体禁令风险。Nvidia股价受Google与Meta合作替代GPU方案影响。特斯拉自动驾驶软件在欧盟的监管面临挑战。分析师看好AI企业未来增长。AI生成食谱现争议，业界呼吁人机协作的合理性。CreateAI公司宣布特别现金分红，展现良好财务状况。微软与Google在欧洲投资扩建AI基础设施，加速全球AI算力竞赛。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">2c103195-e26d-4a77-98df-72bcd7daac96</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-26/audio.mp3" length="9204525" type="audio/mpeg"/>
+      <itunes:duration>09:35</itunes:duration>
+      <pubDate>Wed, 26 Nov 2025 15:03:27 +0800</pubDate>
     </item>
   </channel>
 </rss>
