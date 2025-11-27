@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Nov 2025 07:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 07:03:03 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 26 Nov 2025 15:03:27 +0800</pubDate>
+    <pubDate>Thu, 27 Nov 2025 15:02:55 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1193,6 +1193,16 @@ Tesla股价因AI芯片研发进展与法律风险波动，分析人士认为依�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-26/audio.mp3" length="9204525" type="audio/mpeg"/>
       <itunes:duration>09:35</itunes:duration>
       <pubDate>Wed, 26 Nov 2025 15:03:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI以64亿美元收购Jony Ive设计公司进军硬件</title>
+      <description><![CDATA[本期Soul Power Tech News带来了多项科技动态：OpenAI以64亿美元收购Jony Ive的设计公司LoveFrom，并将推出一款无屏幕AI设备。快手利用AI技术重塑业务结构，三季度财报显示核心业务大幅增长。半导体及AI芯片ETF在资本市场表现强劲，国产芯片迎来突破窗口。富士康获得威斯康辛州4.69亿美元投资，优化供应链布局。Apple即将拍卖创始合作备忘录，估价达400万美元。高通发布新一代AI芯片Snapdragon 8 Gen 5，提升移动端AI性能。POCO在印度发布新手机F8系列，强调AI和音效合作。iPhone 17系列预计将超越Samsung，成为出货王。新型银行木马Sturnus扩散，安全警觉增加。AI浪潮正在重塑企业架构和治理效率，推动行业升级。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ad2222f3-d1eb-4872-a6e6-0c6637910158</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-27/audio.mp3" length="7192557" type="audio/mpeg"/>
+      <itunes:duration>07:29</itunes:duration>
+      <pubDate>Thu, 27 Nov 2025 15:02:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
