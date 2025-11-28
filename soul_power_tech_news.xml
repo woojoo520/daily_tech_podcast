@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Nov 2025 07:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 07:02:13 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 27 Nov 2025 15:02:55 +0800</pubDate>
+    <pubDate>Fri, 28 Nov 2025 15:02:05 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1203,6 +1203,17 @@ Tesla股价因AI芯片研发进展与法律风险波动，分析人士认为依�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-27/audio.mp3" length="7192557" type="audio/mpeg"/>
       <itunes:duration>07:29</itunes:duration>
       <pubDate>Thu, 27 Nov 2025 15:02:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>比特币价格突破9万美元加密市场再创新高</title>
+      <description><![CDATA[本期Soul Power Tech News带来以下商业科技动态：  
+Harvest Portfolios Group发布的新现金分红方案，持有其ETF的股东将于12月获得分红；AWS工程师呼吁科技行业重视心理健康，强调持久的成长习惯；Minaurum Gold Inc.宣布扩大Alamos银矿项目的资源钻探；Samsung在多伦多举办全国技能大赛，促进技术服务网络；亚洲科技股逆势上涨，受益于研发投入；Luc Haldimann出任Magnolia董事会主席，推动AI和全球化战略；比特币价格突破9万美元，整体加密市场反弹；STRATIO发布全球首款锗材料SWIR工具包，推动红外AI技术落地；美国风险投资圈广泛应用AI决策工具，投资者看好AI与机器人板块；最新报告显示，全球AIoT市场将持续增长，亚太地区在智慧制造领域处于领先地位。感谢您的关注，下期再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">b2ec7719-3649-4443-a8ac-cbce4020fb85</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-28/audio.mp3" length="7802541" type="audio/mpeg"/>
+      <itunes:duration>08:07</itunes:duration>
+      <pubDate>Fri, 28 Nov 2025 15:02:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
