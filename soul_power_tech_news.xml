@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 Nov 2025 07:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 07:02:33 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 28 Nov 2025 15:02:05 +0800</pubDate>
+    <pubDate>Sat, 29 Nov 2025 15:02:23 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1214,6 +1214,16 @@ Harvest Portfolios Group发布的新现金分红方案，持有其ETF的股东�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-28/audio.mp3" length="7802541" type="audio/mpeg"/>
       <itunes:duration>08:07</itunes:duration>
       <pubDate>Fri, 28 Nov 2025 15:02:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>梅赛德斯成功推翻柴油车召回决策引热议</title>
+      <description><![CDATA[本期Soul Power Tech News带来最新科技商业动态。Mercedes-Benz在德国成功推翻柴油车型部分召回决定，引发行业关注。中国新能源汽车市场利润增速放缓，投资者对未来竞争和资本环境表示担忧。Novo Nordisk向美国FDA递交高剂量肥胖治疗药物申请，可能为市场带来新选择。沙特Zain KSA因推动多元化工作环境获奖，凸显中东在数字经济的竞争力。Accenture推进总部迁址并与WEF合作，聚焦AI和区块链。欧盟对Apple服务进行反垄断评估，后续可能影响其市场策略。Netflix股价波动，关注其体育直播及全球内容扩展。华尔街密切关注AI盈利前景及美国经济数据变化。BioDlink推出全球首个EGFR靶向ADC，助力药物国际化。黑五促销中，科技产品折扣显著，消费者需警惕虚假促销。期待明日更新全球科技动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">6c8b9a93-c4df-433b-92bc-15c2f7c5882f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-29/audio.mp3" length="9154413" type="audio/mpeg"/>
+      <itunes:duration>09:32</itunes:duration>
+      <pubDate>Sat, 29 Nov 2025 15:02:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
