@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Nov 2025 07:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 07:02:16 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 30 Nov 2025 15:28:42 +0800</pubDate>
+    <pubDate>Mon, 01 Dec 2025 15:02:05 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1236,6 +1236,29 @@ Palantir在11月经历波动后年涨幅仍超100%，但股价因减持和高估
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-11-30/audio.mp3" length="7840557" type="audio/mpeg"/>
       <itunes:duration>08:09</itunes:duration>
       <pubDate>Sun, 30 Nov 2025 15:28:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>Databricks计划以1340亿美元估值融资50亿美元</title>
+      <description><![CDATA[本期Soul Power Tech News带来主要新闻动态：
+
+1. 数据分析和AI平台Databricks与投资方洽谈，寻求以1340亿美元估值筹集50亿美元资金，显示企业级AI市场持续火热。
+2. 韩国电商巨头Coupang发生数据泄露事件，约3,370万客户账户信息泄露，引发对其数据安全性的关注。
+3. 美国数据中心CyrusOne提升其伊利诺伊州设施的备份制冷能力，以应对之前冷却故障导致的金融交易中断。
+4. 比特币和以太坊价格下跌，主要因投资者的避险情绪。
+5. 澳大利亚证券交易所因平台故障导致公告发布受阻，引发对其IT系统及运营安全的质疑。
+6. AI相关企业推动美国股市强劲反弹，分析认为AI已成为市场核心引擎。
+7. Disney股价因《Zootopia 2》票房强劲和主题公园扩建计划而表现良好。
+8. 中国制造业PMI降至49.9，表明经济复苏面临挑战。
+9. 英国中型会计师事务所逐步提升市场份额，审计行业正经历分化。
+10. Verizon宣布大规模裁员，反映行业降本增效压力。
+
+欢迎下期收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ed2e1af4-b665-4404-ac91-efc77a65e37d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-01/audio.mp3" length="8111853" type="audio/mpeg"/>
+      <itunes:duration>08:26</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 15:02:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
