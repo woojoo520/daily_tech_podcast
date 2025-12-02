@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Dec 2025 07:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 07:01:59 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 01 Dec 2025 15:02:05 +0800</pubDate>
+    <pubDate>Tue, 02 Dec 2025 15:01:53 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1259,6 +1259,20 @@ Palantir在11月经历波动后年涨幅仍超100%，但股价因减持和高估
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-01/audio.mp3" length="8111853" type="audio/mpeg"/>
       <itunes:duration>08:26</itunes:duration>
       <pubDate>Mon, 01 Dec 2025 15:02:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>Wingtech提起上诉争夺半导体公司控制权</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态，内容包括：
+
+Wingtech向荷兰最高法院提出上诉，争取对半导体公司Nexperia的控制权，引发全球关注；美国养老护理运营商Genesis Healthcare宣布破产重组，资产或被ReGen Healthcare收购；Marvell Technology正在与Celestial AI进行收购谈判，涉及超过50亿美元的交易；Nvidia股价跌至近五年最低引发市场分析；Bloom Energy股价飙升，背后是AI数据中心的订单增长；Mercedes-Benz调整高端市场策略，重新关注中低端车型；亚太地区科技创新能力面临资金压力，依然落后于美国；Goldman Sachs调查显示，机构投资者看好黄金与科技板块；Audi、BMW与Scout计划推出全地形SUV，以竞争美系硬派越野车；Microsoft的节日毛衣因含植入AI元素受到广泛讨论。
+
+感谢您的收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3e13c79b-1662-4303-ad88-8ce6993b303d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-02/audio.mp3" length="7304877" type="audio/mpeg"/>
+      <itunes:duration>07:36</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 15:01:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
