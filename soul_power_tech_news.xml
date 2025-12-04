@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Dec 2025 07:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 07:02:05 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 03 Dec 2025 15:05:36 +0800</pubDate>
+    <pubDate>Thu, 04 Dec 2025 15:01:57 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1289,6 +1289,16 @@ Rockstar推出的《Red Dead Redemption》PS5版本因缺乏创新受到玩家�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-03/audio.mp3" length="9559341" type="audio/mpeg"/>
       <itunes:duration>09:57</itunes:duration>
       <pubDate>Wed, 03 Dec 2025 15:05:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>仿毛绒宠物机器人Mirumi登陆Kickstarter众筹！</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态，主要内容包括：Yukai Engineering推出的仿毛绒宠物机器人Mirumi在Kickstarter开启预售，受经济影响价格上浮。DMI Alternatives私募信贷基金完成1.2亿美元募资，聚焦亚洲市场。AI购物趋势激增，零售网站流量显著增长，但业内意见分歧。极具争议的游戏《Ready or Not》在主机平台推出限时免费试玩，社交媒体反响两极。三星发布“三折屏”智能手机Galaxy Z TriFold，创新设计备受期待。Nike等品牌因“绿色环保”广告被下架，反映品牌需提供真实证据。索尼进行PS5系统软件升级，未推出重大新功能。Valentino的AI广告遭质疑，反映高端品牌需重视创意质量。微软下调新一代AI销售目标，反映市场采纳压力。Salesforce财报超预期，AI平台Agentforce成为新增长引擎。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">350fb94b-88ca-414e-b90e-b7f61482b53d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-04/audio.mp3" length="8748333" type="audio/mpeg"/>
+      <itunes:duration>09:06</itunes:duration>
+      <pubDate>Thu, 04 Dec 2025 15:01:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
