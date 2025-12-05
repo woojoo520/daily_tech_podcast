@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 04 Dec 2025 07:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 07:02:26 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 04 Dec 2025 15:01:57 +0800</pubDate>
+    <pubDate>Fri, 05 Dec 2025 15:02:19 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1299,6 +1299,38 @@ Rockstar推出的《Red Dead Redemption》PS5版本因缺乏创新受到玩家�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-04/audio.mp3" length="8748333" type="audio/mpeg"/>
       <itunes:duration>09:06</itunes:duration>
       <pubDate>Thu, 04 Dec 2025 15:01:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>小米挑战苹果三星掌控高端手机市场</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来与科技行业相关的重要动态，内容包括：
+
+全球智能手机市场迎来拐点，Xiaomi在高端市场的份额不断上升，挑战Apple和Samsung。Apple即将推出可折叠iPhone，业内对其市场潜力充满期待。
+
+伦敦举办2025年Banking Tech Awards，开放银行和AI风控成推动力。
+
+瑞银的研究显示，全球亿万富翁数量创历史新高，科技行业仍是财富增长的核心。
+
+Microsoft股价短时下跌，因其内部调整AI销售指标引发市场担忧。
+
+Alphabet市值接近4万亿美元，得益于Gemini 3模型的出色表现和云服务的增长。
+
+Google为Pixel系列推送系统更新，提升AI功能以增强市场竞争力。
+
+HPE财报未达预期，反映企业客户AI应用进展缓慢。
+
+Waymo自动驾驶车辆因多次违规被NHTSA调查，突显自动驾驶的法律合规压力。
+
+Apple发布年度App Store Awards，多个应用因AI技术获奖。
+
+Netflix与Warner Bros. Discovery进行收购谈判，潜在交易将重塑内容市场格局。
+
+欢迎收听我们明天的节目！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">2163c834-46ce-42fc-848c-10cfc9d4635a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-05/audio.mp3" length="9884781" type="audio/mpeg"/>
+      <itunes:duration>10:17</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 15:02:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
