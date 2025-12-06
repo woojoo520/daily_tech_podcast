@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 05 Dec 2025 07:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 07:01:51 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 05 Dec 2025 15:02:19 +0800</pubDate>
+    <pubDate>Sat, 06 Dec 2025 15:01:45 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1331,6 +1331,16 @@ Netflix与Warner Bros. Discovery进行收购谈判，潜在交易将重塑内容
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-05/audio.mp3" length="9884781" type="audio/mpeg"/>
       <itunes:duration>10:17</itunes:duration>
       <pubDate>Fri, 05 Dec 2025 15:02:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>Moore Threads IPO股价暴涨500%引发市场热议</title>
+      <description><![CDATA[本期Soul Power Tech News带来了重要科技商业动态。Moore Threads在上海IPO股价暴涨500%，市值超400亿美元，成为关注焦点，但盈利能力存疑。美国法院裁决要求Google调整搜索广告行为，可能对数字广告生态产生深远影响。Nvidia面临来自多方的市场挑战，尽管其地位稳固，但技术创新需求增加。Apple与Google发布网络安全威胁通知，专家称其有助于提升数字安全治理。SpaceX计划2026年上市，目标估值达8000亿美元，前景看好。Netflix以720亿美元收购Warner Bros.及HBO资产，可能重塑娱乐业格局。科技高管对AI引发的岗位流失表示忧虑，呼吁政府介入。Amazon发布新一代AI芯片Trainium3，提升性能与能效。Business Insider启动AI新闻编写试点，旨在提升编辑效率。感谢您的收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ff6a5e71-310b-4a0f-9212-ea9f7d557985</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-06/audio.mp3" length="8467821" type="audio/mpeg"/>
+      <itunes:duration>08:49</itunes:duration>
+      <pubDate>Sat, 06 Dec 2025 15:01:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
