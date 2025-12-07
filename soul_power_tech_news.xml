@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 06 Dec 2025 07:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 07:01:54 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 06 Dec 2025 15:01:45 +0800</pubDate>
+    <pubDate>Sun, 07 Dec 2025 15:01:48 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1341,6 +1341,18 @@ Netflix与Warner Bros. Discovery进行收购谈判，潜在交易将重塑内容
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-06/audio.mp3" length="8467821" type="audio/mpeg"/>
       <itunes:duration>08:49</itunes:duration>
       <pubDate>Sat, 06 Dec 2025 15:01:45 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球最年轻亿万富翁诞生她的创业故事震撼人心</title>
+      <description><![CDATA[本期Soul Power Tech News将为您呈现今天的科技动态，具体内容包括：
+
+Meta推迟了全新混合现实眼镜的发布至2027年，以专注于产品细节和成本控制，并大幅裁减Reality Labs预算。Apple高管或将离职引发行业关注，人才流失危机加剧。Waymo因未遵守校车停车规定提交软件召回申请。Netflix宣布以820亿美元收购Warner Bros. Discovery，扩大内容版权。Elon Musk否认SpaceX融资传闻，指出公司现金流稳定。Intel股价上涨受益于与Nvidia的合作。Palo Alto Networks计划收购两家公司，以加强AI安全平台。Valar Atomics启动液钠快堆核反应堆项目，推动低碳能源发展。Luana Lopes Lara成为全球最年轻自力更生亿万富翁，因其创业韧性受到关注。Reef Arches推出气候科技解决方案，助力沿海保护。最后，Meta收购AI硬件创业公司Limitless，扩张AI硬件生态。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">40113690-4eeb-4bde-b234-d5cada29cb27</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-07/audio.mp3" length="8296173" type="audio/mpeg"/>
+      <itunes:duration>08:38</itunes:duration>
+      <pubDate>Sun, 07 Dec 2025 15:01:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
