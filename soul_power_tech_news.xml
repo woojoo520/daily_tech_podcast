@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 09 Dec 2025 07:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 07:01:53 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 09 Dec 2025 15:04:32 +0800</pubDate>
+    <pubDate>Wed, 10 Dec 2025 15:01:43 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1386,6 +1386,18 @@ KUIU被保守环保基金购回，承诺加强品牌的环保计划和扩展线�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-09/audio.mp3" length="9817965" type="audio/mpeg"/>
       <itunes:duration>10:13</itunes:duration>
       <pubDate>Tue, 09 Dec 2025 15:04:32 +0800</pubDate>
+    </item>
+    <item>
+      <title>Paramount向Warner发起780亿收购战斗！</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新的商业科技动态，重点包括：
+
+Paramount正式向Warner Bros. Discovery发起价值77.9亿美元的恶意收购要约，引发业内关注。前美国特别检察官团队将成立新律所，专注于调查和诉讼，致力于美国司法改革。越南电动车品牌VinFast在美国市场遭遇困难，计划退出部分销售点。电池回收企业Redwood Materials因市场需求放缓，将策略转向储能业务。AutoZone公布财报，利润因成本上升而下降。创作者经济平台#paid获奖，强调其在广告营销领域的创新地位。美股三大指数表现不一，投资者聚焦美联储利率决策。美国调整对Nvidia芯片出口政策，将影响中美AI技术竞争。日产计划在美国生产混动动力系统，响应市场变化。德国出口小幅回升，但对美出口有所下滑，出口结构正在重构。欢迎继续关注我们的后续播报！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1c8730f1-ded6-4f9c-b3e2-cd03a62d5fbc</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-10/audio.mp3" length="7774893" type="audio/mpeg"/>
+      <itunes:duration>08:05</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 15:01:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
