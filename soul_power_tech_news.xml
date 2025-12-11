@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 10 Dec 2025 07:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 07:02:06 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 10 Dec 2025 15:01:43 +0800</pubDate>
+    <pubDate>Thu, 11 Dec 2025 15:02:01 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1398,6 +1398,28 @@ Paramount正式向Warner Bros. Discovery发起价值77.9亿美元的恶意收购
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-10/audio.mp3" length="7774893" type="audio/mpeg"/>
       <itunes:duration>08:05</itunes:duration>
       <pubDate>Wed, 10 Dec 2025 15:01:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>Audi与UST合作收购意大利设计公司Italdesign</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商科技动态，包括：
+
+德国Audi与美国UST达成战略合作，UST将收购意大利Italdesign多数股权，以推动自动化和AI集成的发展。 
+
+Amazon宣布到2030年前将在印度投资350亿美元，而Microsoft则计划在未来四年投资175亿美元，聚焦于AI基础设施和技能培训。
+
+Lightmatter探索光子技术以提升AI计算效率，Adobe将其应用集成到OpenAI的ChatGPT中，展现企业与AI的深度融合。
+
+Google计划于2026年推出AI智能眼镜，致力于成为可穿戴设备的新标杆。同时，汽车经销商对AI采购观念转变，强调持续迭代的重要性。
+
+Murata制作所的股价近期表现强劲，受到全球电子元件需求增长的利好影响。美国线上生鲜杂货销售强劲增长，显示消费趋势变化。 
+
+谢谢收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3057c710-0700-4796-a0e1-869f15d727c6</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-11/audio.mp3" length="9263277" type="audio/mpeg"/>
+      <itunes:duration>09:38</itunes:duration>
+      <pubDate>Thu, 11 Dec 2025 15:02:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
