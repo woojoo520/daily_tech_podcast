@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Dec 2025 07:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 07:05:36 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 11 Dec 2025 15:02:01 +0800</pubDate>
+    <pubDate>Fri, 12 Dec 2025 15:05:30 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1420,6 +1420,25 @@ Murata制作所的股价近期表现强劲，受到全球电子元件需求增�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-11/audio.mp3" length="9263277" type="audio/mpeg"/>
       <itunes:duration>09:38</itunes:duration>
       <pubDate>Thu, 11 Dec 2025 15:02:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>美股分化加剧科技股承压AI投资风险再引关注</title>
+      <description><![CDATA[本期Soul Power Tech News带来了最新商业科技动态，主要内容包括：
+- 美股市场显著分化，道琼斯指数创历史新高，纳斯达克因Oracle财报下挫，市场对此反应不一。
+- Citi调查显示全球大型律所客户服务需求增长缓慢，但律师收费上涨，律师结构面临调整。
+- McDonald’s推出生成式AI广告引发争议，广告被下架，业内对AI应用表达不同看法。
+- 41州总检察长要求Meta等公司对AI聊天机器人加警示，行业监管步伐加快。
+- Elon Musk确认SpaceX上市传闻，将重塑航天经济。
+- Time杂志评选“年度人物”为AI领域领军人物，讨论AI影响的同时也关注其社会责任。
+- 波音MAX认证推迟带来市场不同解读，收购Spirit AeroSystems助力供应链。
+- Oracle因AI支出策略引发股市波动，分析师警惕“AI泡沫”风险。
+- Waymo实施大规模召回，自动驾驶安全性再成焦点。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">f2306d79-d264-44e3-b2fb-ef4e5a4fd69a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-12/audio.mp3" length="8907885" type="audio/mpeg"/>
+      <itunes:duration>09:16</itunes:duration>
+      <pubDate>Fri, 12 Dec 2025 15:05:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
