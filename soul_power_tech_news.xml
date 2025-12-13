@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Dec 2025 07:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 07:05:35 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 12 Dec 2025 15:05:30 +0800</pubDate>
+    <pubDate>Sat, 13 Dec 2025 15:05:26 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1439,6 +1439,18 @@ Murata制作所的股价近期表现强劲，受到全球电子元件需求增�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-12/audio.mp3" length="8907885" type="audio/mpeg"/>
       <itunes:duration>09:16</itunes:duration>
       <pubDate>Fri, 12 Dec 2025 15:05:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI股市泡沫引发波动投资者信心受挫</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新的科技动向，包括：
+
+科技股市场大幅回调，Broadcom尽管财报亮眼，却因AI领域投资忧虑导致股价暴跌逾11%。Oracle与OpenAI的AI数据中心合作推迟至2028年，引发市场担忧。美国OCC向多家数字资产公司颁发信托银行牌照，标志着加密行业向合规迈进。Roblox面临多起联邦诉讼，集中在青少年保护问题上。Novartis在美国新建制药枢纽，预计提供700个就业岗位。科学界对星际彗星3I/ATLAS进行重要观测，揭示其成分变化。Bloom Energy因AI资本支出前景不明，股价一周内下跌20%。Luminar面临财务重组压力，市场波动显著。Dell Technologies因供应链问题和市场情绪受挫，股价上涨承压。整体AI市场情绪因“泡沫论”影响普遍回调，后续投资需更加理性。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">dfd7f929-a6cf-4db4-8ee2-76ab0c1cdb63</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-13/audio.mp3" length="10928493" type="audio/mpeg"/>
+      <itunes:duration>11:22</itunes:duration>
+      <pubDate>Sat, 13 Dec 2025 15:05:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
