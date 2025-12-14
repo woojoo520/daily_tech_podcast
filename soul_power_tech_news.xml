@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Dec 2025 07:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 07:01:57 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 13 Dec 2025 15:05:26 +0800</pubDate>
+    <pubDate>Sun, 14 Dec 2025 15:01:52 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1451,6 +1451,22 @@ Murata制作所的股价近期表现强劲，受到全球电子元件需求增�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-13/audio.mp3" length="10928493" type="audio/mpeg"/>
       <itunes:duration>11:22</itunes:duration>
       <pubDate>Sat, 13 Dec 2025 15:05:26 +0800</pubDate>
+    </item>
+    <item>
+      <title>ServiceNow拟以70亿美元收购Armis成历史最大并购案</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来与商业科技动态相关的最新消息，以下是今天的重点新闻：
+
+ServiceNow正接近以高达70亿美元收购网络安全初创公司Armis，成为公司历史上最大收购案。华尔街投资趋势发生转变，开始关注医疗和传统产业，规避科技巨头。Dell Technologies因AI基础设施需求激增将调整商用PC价格，反映出芯片短缺带来的成本压力。
+
+Bloom Energy股价因市场不确定性大幅下跌，AMD亦因业绩预警遭遇下滑。BP石油公司因可能出售润滑油业务引发投资者关注，ZIM航运因战略评估成为市场焦点。HSBC得到评级上调，强调其亚太业务成长潜力。
+
+最后，工业散热厂商Modine Manufacturing股价下跌，美国黄金与白银矿企因价格反弹而波动明显。感谢您的收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">019327c8-dc46-427a-b0d3-781e0c508ff7</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-14/audio.mp3" length="8637741" type="audio/mpeg"/>
+      <itunes:duration>08:59</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 15:01:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
