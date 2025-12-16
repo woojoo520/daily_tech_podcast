@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Dec 2025 07:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 07:03:05 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 15 Dec 2025 15:01:47 +0800</pubDate>
+    <pubDate>Tue, 16 Dec 2025 15:02:58 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1481,6 +1481,16 @@ Bloom Energy股价因市场不确定性大幅下跌，AMD亦因业绩预警遭�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-15/audio.mp3" length="7199469" type="audio/mpeg"/>
       <itunes:duration>07:29</itunes:duration>
       <pubDate>Mon, 15 Dec 2025 15:01:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>科技股大跌，AI投资前景引发分歧</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态。科技股昨日大幅下跌，特别是与AI和加密货币相关企业，纳斯达克指数下滑1.7%。与此同时，美国政府启动“US Tech Force”计划，引入1000名AI专家，以弥补技术空缺。Alphabet的市值达到3.8万亿美元，得益于技术创新，但面临监管风险。OpenAI计划推出“ChatGPT成人模式”，旨在平衡创新和社会责任。ServiceNow因潜在70亿美元收购消息股价暴跌，市场对整合效果持谨慎态度。诺华制药的心脏药物专利得以维持，进一步引发行业讨论。Sanofi新药临床结果不佳，股价下跌。犹他州新发现的稀土矿床引起关注，或有助于美国产业链安全。Facebook的“Secret Santa”广告获评2025最佳广告。科技律所Cooley新聘Brian Klein专攻数字货币及金融科技诉讼。敬请关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">fc1a9c1b-97d2-4a27-b41c-306cc6f6970a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-16/audio.mp3" length="7687917" type="audio/mpeg"/>
+      <itunes:duration>08:00</itunes:duration>
+      <pubDate>Tue, 16 Dec 2025 15:02:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
