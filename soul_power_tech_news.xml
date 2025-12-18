@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Dec 2025 07:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 07:02:05 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 17 Dec 2025 15:01:53 +0800</pubDate>
+    <pubDate>Thu, 18 Dec 2025 15:01:56 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1514,6 +1514,17 @@ Bloom Energy股价因市场不确定性大幅下跌，AMD亦因业绩预警遭�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-17/audio.mp3" length="7624557" type="audio/mpeg"/>
       <itunes:duration>07:56</itunes:duration>
       <pubDate>Wed, 17 Dec 2025 15:01:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>Netflix以827亿并购Warner Bros开启流媒体新纪元</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来今日的商业科技动态，重点关注以下内容：
+Netflix以827亿美元收购Warner Bros. Discovery核心资产，强化其在流媒体市场的地位，分析认为行业竞争将向“迪士尼、Netflix”双寡头集中。Tesla面临监管压力，需整改其自动驾驶宣传措辞，未来可能受政策影响。AI企业Anthropic与Hut 8 Mining达成15年协议，推动AI数据中心建设。美国海军陆战队的移动防空系统MADIS进入量产，提升作战能力。Oracle数据中心投资遭Blue Owl Capital撤资，关注其债务风险。Broadcom与Oracle业绩下滑引发市场对高估值警觉，而OpenAI首次登上“美国最大私营企业榜单”。Cisco被调高目标价，积极布局AI时代。Meta在AI与广告领域承受审查压力，并削减元宇宙预算。苹果、三星等厂商因AI热潮上调新机售价。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">00fc33fb-e110-4548-bddc-e3f9f6e385e7</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-18/audio.mp3" length="7943085" type="audio/mpeg"/>
+      <itunes:duration>08:16</itunes:duration>
+      <pubDate>Thu, 18 Dec 2025 15:01:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
