@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Dec 2025 07:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 07:05:46 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 18 Dec 2025 15:01:56 +0800</pubDate>
+    <pubDate>Fri, 19 Dec 2025 15:05:30 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1525,6 +1525,29 @@ Netflix以827亿美元收购Warner Bros. Discovery核心资产，强化其在流
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-18/audio.mp3" length="7943085" type="audio/mpeg"/>
       <itunes:duration>08:16</itunes:duration>
       <pubDate>Thu, 18 Dec 2025 15:01:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>独立音乐人起诉AI公司侵权之战</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来今日的国际科技动态，内容包括：
+
+1. 一群独立音乐人对Kunlun Tech及Skywork AI提起集体诉讼，指控其AI音乐平台未经授权使用音乐版权，涉及法律与道德问题。
+2. Cisco确认其安全产品存在严重漏洞，攻击者可能已获得设备控制权限，相关客户受到广泛影响。
+3. 美国能源部与多家科技巨头签署AI科研计划合作协议，以提升国家科研能力并推动能源技术创新。
+4. Elon Musk旗下多家公司面临诸多监管挑战，SpaceX及Tesla等的动态引发市场关注。
+5. Oracle与OpenAI的AI数据中心项目融资遇阻，合作方退出引发不确定性。
+6. Bloom Energy因AI数据中心需求激增股价大涨，市场对其未来增长抱有期待。
+7. AMD股价反弹受Micron财报推动，分析师提醒市场波动需谨慎。
+8. Alphabet面临监管压力，同时也因AI云业绩攀升受到市场青睐。
+9. CNET评选出年度十大科技产品，AI与智能家居深度融合成为趋势。
+10. Boeing股价上涨，分析师对其未来业绩持乐观态度，但财务表现需改善。
+
+欢迎继续关注我们的节目！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">51d2e107-7bdb-4654-bac6-474c13540250</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-19/audio.mp3" length="10097325" type="audio/mpeg"/>
+      <itunes:duration>10:31</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 15:05:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
