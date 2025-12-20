@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Dec 2025 07:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 07:01:43 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 19 Dec 2025 15:05:30 +0800</pubDate>
+    <pubDate>Sat, 20 Dec 2025 15:01:38 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1548,6 +1548,16 @@ Netflix以827亿美元收购Warner Bros. Discovery核心资产，强化其在流
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-19/audio.mp3" length="10097325" type="audio/mpeg"/>
       <itunes:duration>10:31</itunes:duration>
       <pubDate>Fri, 19 Dec 2025 15:05:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI寻求1000亿美元融资估值或达8300亿美元</title>
+      <description><![CDATA[本期Soul Power Tech News带来2025年12月20日的商业科技动态。美国股市昨日反弹，S&P 500和Nasdaq分别上涨0.88%和1.31%，AI板块表现突出，但Nike因利润担忧大跌10%。纳斯达克部分股票因信息补充暂停交易，引发市场对监管透明度的关注。Oracle与TikTok的合作协议即将敲定，推动Oracle股价大涨8%。苹果被看好，目标股价上调至315美元，反映出其AI战略的推进。Palo Alto Networks与Google Cloud深化合作，共同推进企业AI和云安全。OpenAI启动募资，估值有望达8300亿美元，凸显AI行业泡沫及市场争议。Infosys的ADR暴涨引发停牌，而NeurIPS会议吸引超2.4万人参与，AI话题备受关注。Carnival集团发布强劲财报，净利润同比增长39.3%。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">6d068c76-b288-4543-822e-ef3aa38ab62f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-20/audio.mp3" length="6951213" type="audio/mpeg"/>
+      <itunes:duration>07:14</itunes:duration>
+      <pubDate>Sat, 20 Dec 2025 15:01:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
