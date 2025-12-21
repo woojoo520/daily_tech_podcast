@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Dec 2025 07:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 07:02:03 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 20 Dec 2025 15:01:38 +0800</pubDate>
+    <pubDate>Sun, 21 Dec 2025 15:01:59 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1551,13 +1551,25 @@ Netflix以827亿美元收购Warner Bros. Discovery核心资产，强化其在流
     </item>
     <item>
       <title>OpenAI寻求1000亿美元融资估值或达8300亿美元</title>
-      <description><![CDATA[本期Soul Power Tech News带来2025年12月20日的商业科技动态。美国股市昨日反弹，S&P 500和Nasdaq分别上涨0.88%和1.31%，AI板块表现突出，但Nike因利润担忧大跌10%。纳斯达克部分股票因信息补充暂停交易，引发市场对监管透明度的关注。Oracle与TikTok的合作协议即将敲定，推动Oracle股价大涨8%。苹果被看好，目标股价上调至315美元，反映出其AI战略的推进。Palo Alto Networks与Google Cloud深化合作，共同推进企业AI和云安全。OpenAI启动募资，估值有望达8300亿美元，凸显AI行业泡沫及市场争议。Infosys的ADR暴涨引发停牌，而NeurIPS会议吸引超2.4万人参与，AI话题备受关注。Carnival集团发布强劲财报，净利润同比增长39.3%。]]></description>
+      <description><![CDATA[本期Soul Power Tech News带来2025年12月20日的商业科技动态。美国股市昨日反弹，S&amp;P 500和Nasdaq分别上涨0.88%和1.31%，AI板块表现突出，但Nike因利润担忧大跌10%。纳斯达克部分股票因信息补充暂停交易，引发市场对监管透明度的关注。Oracle与TikTok的合作协议即将敲定，推动Oracle股价大涨8%。苹果被看好，目标股价上调至315美元，反映出其AI战略的推进。Palo Alto Networks与Google Cloud深化合作，共同推进企业AI和云安全。OpenAI启动募资，估值有望达8300亿美元，凸显AI行业泡沫及市场争议。Infosys的ADR暴涨引发停牌，而NeurIPS会议吸引超2.4万人参与，AI话题备受关注。Carnival集团发布强劲财报，净利润同比增长39.3%。]]></description>
       <itunes:author>woojoo</itunes:author>
       <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">6d068c76-b288-4543-822e-ef3aa38ab62f</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-20/audio.mp3" length="6951213" type="audio/mpeg"/>
       <itunes:duration>07:14</itunes:duration>
       <pubDate>Sat, 20 Dec 2025 15:01:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>ServiceNow收购潮引发行业震动与未来竞局</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来今日科技动态：
+
+ServiceNow完成Moveworks人工智能平台收购，并计划以约10亿美元收购Veza，正在与Armis进行70亿美元的谈判，市场关注其并购整合风险。全球数据中心并购及投资交易达610亿美元，受生成式AI需求推动。存储芯片巨头Micron在AI内存产业中表现突出，需求激增带动高利润，但未来可能面临供需逆转风险。科技七巨头引领纳斯达克牛市，Meta宣布减少元宇宙投入30%。另外，Blue Owl Capital与Bitdeer Technologies Group遭遇集体诉讼，分别因流动性风险与芯片量产问题引发投资者担忧。此外，AI相关投资持续扩张，全行业迎来新一轮投资热潮。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1303153e-f08e-4820-bfc1-cea06ea95fd5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-21/audio.mp3" length="8104941" type="audio/mpeg"/>
+      <itunes:duration>08:26</itunes:duration>
+      <pubDate>Sun, 21 Dec 2025 15:01:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
