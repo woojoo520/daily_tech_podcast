@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Dec 2025 07:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 07:04:31 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 21 Dec 2025 15:01:59 +0800</pubDate>
+    <pubDate>Tue, 23 Dec 2025 15:04:24 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1570,6 +1570,29 @@ ServiceNow完成Moveworks人工智能平台收购，并计划以约10亿美元�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-21/audio.mp3" length="8104941" type="audio/mpeg"/>
       <itunes:duration>08:26</itunes:duration>
       <pubDate>Sun, 21 Dec 2025 15:01:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球科技股强劲反弹AI热潮再燃投资激情</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与商业科技动态相关的主要新闻，包括：
+
+1. 全球科技股市强劲反弹，特别是AI板块的投资热情回归。
+2. Oracle将为TikTok美国用户数据提供主机服务，缓解其运营压力。
+3. Google招募回归员工比例显著上升，应对AI人才竞争。
+4. Waymo恢复无驾驶员出租车服务，经历了电力故障的考验。
+5. Ford宣布电动汽车投资减值，并转向插电混动方案。
+6. 全球科技企业发债规模创下新高，受AI产业链热潮驱动。
+7. Tesla法庭恢复其CEO的薪酬激励计划，并加快Robotaxi测试进度。
+8. ByteDance计划在2026年投入大量资金建设AI基础设施。
+9. AI热潮对美国房地产市场楼宇投资产生结构性变化。
+10. 市场对AI产业与实体经济的多维关系表现出关注与谨慎。
+
+感谢您的收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">478ea1bf-f669-4407-b0ca-6f8fb32f28af</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-23/audio.mp3" length="8727597" type="audio/mpeg"/>
+      <itunes:duration>09:05</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 15:04:24 +0800</pubDate>
     </item>
   </channel>
 </rss>
