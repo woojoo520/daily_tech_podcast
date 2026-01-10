@@ -40,12 +40,20 @@ class GitHubUploader:
                 self.repo.update_file(ori_contents.path, commit_message, content, sha=ori_contents.sha)
                 en = time.time() 
                 print(f"Upload time cost: {en - st}s.")
-            except Exception:
-                print("File not exists, try to create new file")
-                # self.repo.create_file(target_filepath, commit_message, content)
-                self.upload_contents_by_url(content, target_filepath, commit_message)
+            except Exception as e:
+                # Only fall back to create when the file truly does not exist.
+                try:
+                    from github import GithubException
+                    if isinstance(e, GithubException) and e.status == 404:
+                        print("File not exists, try to create new file")
+                        self.upload_contents_by_url(content, target_filepath, commit_message)
+                    else:
+                        raise
+                except Exception as inner_e:
+                    print(f"upload_contents failed: {type(inner_e).__name__}: {inner_e}")
+                    raise
         except Exception as e:
-            print(f"github api failed, reason: {e}.\nUpload file by sending request...")
+            print(f"github api failed, reason: {type(e).__name__}: {e}.\nUpload file by sending request...")
             # self.upload_contents_by_url(content, target_filepath, commit_message)
 
 
@@ -65,10 +73,24 @@ class GitHubUploader:
         print(f"url: {url} \n headers: {headers}")
         try:
             response = requests.put(url, json=data, headers=headers)
+            if response.status_code == 409:
+                # File exists: fetch SHA and retry as update.
+                get_resp = requests.get(url, headers=headers)
+                get_resp.raise_for_status()
+                sha = get_resp.json().get("sha")
+                if sha:
+                    data["sha"] = sha
+                    response = requests.put(url, json=data, headers=headers)
             response.raise_for_status()
             print(f"response: {response}")
         except Exception as e: 
-            print(f"upload_contents_by_url failed: {e}.")
+            detail = ""
+            try:
+                if response is not None:
+                    detail = f" status={response.status_code} body={response.text}"
+            except Exception:
+                pass
+            print(f"upload_contents_by_url failed: {type(e).__name__}: {e}.{detail}")
 
     def get_content(self, filepath): 
         return self.repo.get_contents(filepath)
