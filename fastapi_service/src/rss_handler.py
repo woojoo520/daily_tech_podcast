@@ -100,7 +100,7 @@ class RSSHandler:
             media_url = entry.enclosures[0].href
             media_type = entry.enclosures[0].type
             media_size = entry.enclosures[0].length
-            duration = self._parse_duration(entry.itunes_duration) 
+            duration = self._parse_duration(self._get_entry_duration(entry)) 
             summary = entry.summary
             # print(f"authors: {authors}")
             # print(f"id: {entry.id}")
@@ -128,6 +128,8 @@ class RSSHandler:
         return podcast
     
     def _parse_duration(self, duration_str: str) -> int:
+        if not duration_str:
+            return 0
         try:
             parts = [int(p) for p in duration_str.strip().split(":")]
             return int(timedelta(
@@ -138,6 +140,12 @@ class RSSHandler:
         except Exception as e:
             print(f"Error parsing duration '{duration_str}': {e}")
             return 0
+
+    def _get_entry_duration(self, entry) -> str:
+        duration = getattr(entry, "itunes_duration", None)
+        if duration:
+            return duration
+        return entry.get("duration", "")
         
     def add_new_episodes(self, episode: PodEpisode):
         # add new episodes
