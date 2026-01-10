@@ -24,7 +24,7 @@ class AudioRequest(BaseModel):
     text: str
 
 
-@app.post("/generate-audio")
+@app.post("/audio/generate-audio")
 def generate_audio(request: AudioRequest):
     if not request.text:
         raise HTTPException(status_code=400, detail="No text provided")
@@ -64,7 +64,7 @@ def generate_audio(request: AudioRequest):
     }
 
 
-@app.post("/add_new_espisode")
+@app.post("/audio/add_new_espisode")
 def add_new_episode(episode: PodEpisode):
     rss_handler = RSSHandler(feed_source=RSS_FEEDSOURCE)
     rss_handler.add_new_episodes(episode)
