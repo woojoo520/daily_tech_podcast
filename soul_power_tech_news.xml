@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 23 Dec 2025 07:04:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 13:55:51 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 23 Dec 2025 15:04:24 +0800</pubDate>
+    <pubDate>Sat, 10 Jan 2026 20:23:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1582,6 +1582,20 @@ ServiceNow完成Moveworks人工智能平台收购，并计划以约10亿美元�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/main/episodes/2025-12-23/audio.mp3" length="8727597" type="audio/mpeg"/>
       <itunes:duration>09:05</itunes:duration>
       <pubDate>Tue, 23 Dec 2025 15:04:24 +0800</pubDate>
+    </item>
+    <item>
+      <title>Meta大力投资核电助力AI算力时代</title>
+      <description><![CDATA[本期Soul Power Tech News聚焦与商业科技相关的最新动态，包括：
+
+Samsung在德州监控技术案件中获胜，允许其继续运营智能电视。Meta宣布将大规模投资核电站，确保AI基础设施的清洁电力。Google以320亿美元收购Wiz的交易正在接受欧盟审查，或面临市场反垄断担忧。Character.AI与Google达成和解，解决与青少年心理健康相关的诉讼。OpenAI被裁定需移交ChatGPT对话记录，成为AI版权责任的重要案例。
+
+在CES展上，多款智能机器人亮相，展示AI与硬件结合的新趋势。制药公司Merck计划收购Revolution Medicines，强化其抗癌药物线。Apple面临AI战略压力，股价下跌5%。法律科技领域推出新工具，以提升合规能力和工作效率。Liberty Pultrusions推出新型隐私安全墙板，受到广泛关注。这些新闻反映了行业的快速发展与挑战。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3d6f7fde-7fae-4e86-9b23-26952540a97d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-10/audio.mp3" length="8536941" type="audio/mpeg"/>
+      <itunes:duration>08:53</itunes:duration>
+      <pubDate>Sat, 10 Jan 2026 20:23:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
