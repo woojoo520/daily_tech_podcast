@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Jan 2026 13:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 05:58:49 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 10 Jan 2026 20:23:07 +0800</pubDate>
+    <pubDate>Sun, 11 Jan 2026 13:58:17 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1596,6 +1596,18 @@ Samsung在德州监控技术案件中获胜，允许其继续运营智能电视�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-10/audio.mp3" length="8536941" type="audio/mpeg"/>
       <itunes:duration>08:53</itunes:duration>
       <pubDate>Sat, 10 Jan 2026 20:23:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果即将发布首款折叠屏iPhone Fold</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态，包括：
+
+Apple计划于2026年推出首款折叠屏iPhone Fold，采用三星CoE技术，定位高端，售价预计达2000美元。Nvidia CEO警告“AI终结论”可能阻碍人工智能发展，强调需理性看待AI前景。北美掀起“数字戒瘾”潮流，年轻人自我封锁手机功能以追求数字自律。美国就业增长创二十年新低，失业率升至4.4%。亿万富翁面临高达5.5%的奢侈通胀，生活压力加大。在医疗领域，Integer Holdings Corporation因证券欺诈涉嫌集体诉讼。比特币相关股票获得分析师关注，部分企业多元化获好评。农业科技企业长期成长潜力被看好，但与政策、气候高度相关。Freeport-McMoran正面临集体诉讼，或影响矿业企业信披标准。感谢收听，我们下期再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ceb239ac-32cf-44fa-b170-14ed94372eee</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-11/audio.mp3" length="6842925" type="audio/mpeg"/>
+      <itunes:duration>07:07</itunes:duration>
+      <pubDate>Sun, 11 Jan 2026 13:58:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
