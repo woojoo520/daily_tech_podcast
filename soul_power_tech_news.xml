@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 11 Jan 2026 05:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 15:06:03 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 11 Jan 2026 13:58:17 +0800</pubDate>
+    <pubDate>Mon, 12 Jan 2026 23:04:48 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1608,6 +1608,18 @@ Apple计划于2026年推出首款折叠屏iPhone Fold，采用三星CoE技术，
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-11/audio.mp3" length="6842925" type="audio/mpeg"/>
       <itunes:duration>07:07</itunes:duration>
       <pubDate>Sun, 11 Jan 2026 13:58:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>Google Gemini 3 重夺AI霸主地位引发行业关注</title>
+      <description><![CDATA[本期Soul Power Tech News重点关注以下科技动态：Google的AI模型Gemini 3在聊天机器人领域重夺领先地位，而CES 2026展会主题“实体AI”展示了AI与物理世界的深度融合。与此同时，TCS的盈利未达预期，引发全球企业科技支出放缓的担忧。
+
+Nvidia CEO强调台积电在半导体供应链中的不可替代性，而投资者Michael Burry警示AI泡沫，关注投入资本回报率的下降。超大规模AI数据中心的能耗问题成为新瓶颈，Google推出个性化AI广告服务以提升市场竞争力。美国与欧盟科技监管的摩擦加剧，Tempus AI签署11亿美元合同，加速医疗AI商业化。市场正期待台积电财报，以判断AI热潮的真实情况。感谢收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">209dea64-0270-4a52-9d41-32f320c134fd</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-12/audio.mp3" length="12467565" type="audio/mpeg"/>
+      <itunes:duration>12:59</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 23:04:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
