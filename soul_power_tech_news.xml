@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 12 Jan 2026 15:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:02:39 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 12 Jan 2026 23:04:48 +0800</pubDate>
+    <pubDate>Tue, 13 Jan 2026 15:02:12 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1620,6 +1620,17 @@ Nvidia CEO强调台积电在半导体供应链中的不可替代性，而投资�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-12/audio.mp3" length="12467565" type="audio/mpeg"/>
       <itunes:duration>12:59</itunes:duration>
       <pubDate>Mon, 12 Jan 2026 23:04:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>Alphabet市值突破4万亿美元引领AI热潮</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与科技行业和市场动态相关的重要新闻内容：
+Alphabet正式加入万亿美元市值俱乐部，市值突破4万亿美元，主要归功于在人工智能领域的突破性进展。印度科技服务巨头TCS发布业绩未能达预期，全球企业技术支出仍显疲软。投资者Michael Burry表示AI热潮可能削弱科技公司的投资回报率。Google在其购物工具中集成生成式AI以提升用户体验。在生物科技领域，Tempus AI因一项重大合同股价上涨，展现AI在医疗的应用潜力。美国对欧盟科技监管政策的不满加剧，可能影响贸易谈判。纽约市利用AI监控公共交通安全。Trump政府要求Microsoft承担AI数据中心的能源费用。此外，Nvidia在自动驾驶市场的主导地位日益凸显，法律领域也在逐步接受AI自动化的应用。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1cdb5696-a26a-4a51-85e5-91e575b15c42</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-13/audio.mp3" length="9229869" type="audio/mpeg"/>
+      <itunes:duration>09:36</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 15:02:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
