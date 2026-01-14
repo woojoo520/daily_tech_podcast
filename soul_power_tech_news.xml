@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 14 Jan 2026 07:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:34:49 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 14 Jan 2026 15:02:34 +0800</pubDate>
+    <pubDate>Wed, 14 Jan 2026 22:33:52 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1654,6 +1654,18 @@ Alphabet正式加入万亿美元市值俱乐部，市值突破4万亿美元，�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-14/audio.mp3" length="13523373" type="audio/mpeg"/>
       <itunes:duration>14:05</itunes:duration>
       <pubDate>Wed, 14 Jan 2026 15:02:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>三星Galaxy S26系列即将发布引发全球关注</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2026年1月14日科技与商业领域的重要动态：
+
+三星宣布将在2月25日全球发布Galaxy S26系列新机，Ultra机型将升级电池和处理器，并保留高像素摄像头。美股S&P 500指数在科技股强劲表现下接近7000点，分析师对科技创新持乐观态度。特朗普提出限制机构购买住宅的政策，或影响房市竞争。Musk的AI聊天机器人因深伪技术引发监管争议，部分国家已禁用。谷歌与苹果合作推出新AI助手，市值突破4万亿美元。分析师推荐Microsoft、Oracle等软件公司，同时警示传统企业面临压力。美国财政赤字创纪录，专家关注其长期风险。谷歌推出电商通用协议，推动AI在零售场景的应用。Honda与Sony的电动车项目引发经销商顾虑。科技行业在合规与风险管理方面积极招聘专业人才。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">f41e9a89-3043-46af-943e-33fb2f65e227</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-14/audio.mp3" length="9101997" type="audio/mpeg"/>
+      <itunes:duration>09:28</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 22:33:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
