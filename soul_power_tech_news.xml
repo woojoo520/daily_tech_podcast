@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Jan 2026 07:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 07:03:00 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 13 Jan 2026 15:02:12 +0800</pubDate>
+    <pubDate>Wed, 14 Jan 2026 15:02:34 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1631,6 +1631,29 @@ Alphabet正式加入万亿美元市值俱乐部，市值突破4万亿美元，�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-13/audio.mp3" length="9229869" type="audio/mpeg"/>
       <itunes:duration>09:36</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 15:02:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apple与OpenAI合作将AI集成iOS18迎来里程碑</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新的商业科技动态，主要内容包括：
+
+1. Apple正与OpenAI洽谈合作，将在iOS 18中实现生成式人工智能功能。
+2. Microsoft宣布Azure量子计算芯片已实现重要稳定性进展。
+3. 欧盟对Google的广告技术展开新一轮反垄断调查。
+4. Meta推出Llama 4语言模型，广泛授权合作伙伴使用。
+5. SpaceX的Starlink V3卫星星座获得FCC批准，准备大规模部署。
+6. Figure AI获得Nvidia和Intel投资，推动人形机器人开发。
+7. Netflix全球上调订阅价格，引发流媒体市场担忧。
+8. AMD发布强劲的季度营收预测，AI芯片业务表现突出。
+9. TSMC在德国德累斯顿启动新晶圆厂计划，助力欧洲半导体供应链。
+10. 通用汽车调整战略，将增加混合动力车型投入以应对市场需求。
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3e65745f-7d7b-427d-b53e-7570e596ffb2</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-14/audio.mp3" length="13523373" type="audio/mpeg"/>
+      <itunes:duration>14:05</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 15:02:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
