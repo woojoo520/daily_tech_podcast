@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 15 Jan 2026 07:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 14:44:21 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 15 Jan 2026 15:03:01 +0800</pubDate>
+    <pubDate>Fri, 16 Jan 2026 22:43:10 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1678,6 +1678,26 @@ Alphabet正式加入万亿美元市值俱乐部，市值突破4万亿美元，�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-15/audio.mp3" length="6868269" type="audio/mpeg"/>
       <itunes:duration>07:09</itunes:duration>
       <pubDate>Thu, 15 Jan 2026 15:03:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>美台达成历史性贸易协议强化半导体合作</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与商业科技动态相关的主要新闻内容：
+
+美国与台湾达成历史性贸易协议，台湾承诺在美国投资2500亿美元，主要集中在半导体和高科技领域。与此同时，台积电公布第四季度财报，净利润飙升35%；其资本支出将显著增加，为AI产业注入信心。
+
+科技巨头如谷歌和微软正积极参与能源行业，以满足AI数据中心的电力需求，面临新风险。随着半导体公司TSMC的业绩走强，亚洲科技股市场普遍上涨。
+
+美国电信巨头Verizon收购光纤宽带公司Frontier，进一步加强市场地位。印度科技服务公司Tech Mahindra收入增长超出预期，但面临政策调整挑战。
+
+Substack平台重新定义新闻业，与传统媒体共存。J.B. Hunt的季度收入下降反映实体经济需求波动。同时，美国政府计划推动科技公司参与能源建设，试图解决电力短缺问题。
+
+最后，Meme股票现象继续影响市场情绪，散户投资者的参与模式成为新常态。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">443126be-6dce-4d8c-84d9-ce47cb3640c1</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-16/audio.mp3" length="11854125" type="audio/mpeg"/>
+      <itunes:duration>12:20</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 22:43:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
