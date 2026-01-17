@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 16 Jan 2026 14:44:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 07:06:04 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 16 Jan 2026 22:43:10 +0800</pubDate>
+    <pubDate>Sat, 17 Jan 2026 15:05:35 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1698,6 +1698,18 @@ Substack平台重新定义新闻业，与传统媒体共存。J.B. Hunt的季度
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-16/audio.mp3" length="11854125" type="audio/mpeg"/>
       <itunes:duration>12:20</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 22:43:10 +0800</pubDate>
+    </item>
+    <item>
+      <title>TSMC四季度财报亮眼 AI芯片需求持续旺盛</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新的商业科技动态，内容包括：
+
+全球半导体产业巨头TSMC发布了强劲的2025财年财报，显示出先进工艺芯片的强劲需求，推动股价创历史新高；OpenAI宣布将在美国市场对ChatGPT进行广告投放实验，以维持其免费服务覆盖面；调查显示，投资者正倾向于在AI数据中心相关能源基础设施上投入资金；美国白宫与东部州长联合推出应急措施，旨在减轻数据中心对电价的影响；主流加密货币比特币及以太坊面临立法进展延迟的压力；美国制造业指数显著回暖；信用卡利率的上限干预方案正在考虑；蒸馏酒行业面临破产重组潮。请持续关注我们的更新！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">2d1bf380-6083-4416-af8c-b9ef8a52a9e0</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-17/audio.mp3" length="8295597" type="audio/mpeg"/>
+      <itunes:duration>08:38</itunes:duration>
+      <pubDate>Sat, 17 Jan 2026 15:05:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
