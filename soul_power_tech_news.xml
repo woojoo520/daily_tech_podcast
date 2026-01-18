@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 17 Jan 2026 07:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 07:02:48 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 17 Jan 2026 15:05:35 +0800</pubDate>
+    <pubDate>Sun, 18 Jan 2026 15:02:22 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1710,6 +1710,18 @@ Substack平台重新定义新闻业，与传统媒体共存。J.B. Hunt的季度
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-17/audio.mp3" length="8295597" type="audio/mpeg"/>
       <itunes:duration>08:38</itunes:duration>
       <pubDate>Sat, 17 Jan 2026 15:05:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>Tesla自动驾驶调查延期五周引发行业安全焦虑</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来2026年1月18日的科技动态，内容包括：
+
+Tesla获得了监管机构延长的时间，以回应其自动驾驶技术调查，引发对安全性的广泛关注；AI技术推动“大公司”进入“超级明星经济”时代，团队结构和薪酬方式正在发生变革；美国数据中心扩张带来用电和水资源消耗的辩论；Google Photos因电池耗尽问题即将推出修复补丁；Honor Magic 8 Pro手机评测引发用户对相机表现的失望；手机用户指南介绍如何添加备用运营商；Honeywell股票评级被调升，市场普遍看好其量子计算布局；加拿大黄金矿企股价回暖，但投资风险依然存在；Leia公司展示的裸眼3D技术有望改变未来体验；大宗商品与科技股之间的行业轮动现象受到关注。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">24226d11-9f7a-454c-870d-19b0011e47fa</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-18/audio.mp3" length="8218989" type="audio/mpeg"/>
+      <itunes:duration>08:33</itunes:duration>
+      <pubDate>Sun, 18 Jan 2026 15:02:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
