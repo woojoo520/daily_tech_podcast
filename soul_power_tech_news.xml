@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 18 Jan 2026 07:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 07:03:45 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 18 Jan 2026 15:02:22 +0800</pubDate>
+    <pubDate>Mon, 19 Jan 2026 15:03:17 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1722,6 +1722,18 @@ Tesla获得了监管机构延长的时间，以回应其自动驾驶技术调查
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-18/audio.mp3" length="8218989" type="audio/mpeg"/>
       <itunes:duration>08:33</itunes:duration>
       <pubDate>Sun, 18 Jan 2026 15:02:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>Alphabet上诉非法垄断裁决再掀市场风波</title>
+      <description><![CDATA[本期Soul Power Tech News关注2026年1月19日的商业科技动态，包括：
+
+Alphabet公司就在线搜索领域的非法垄断裁决提起上诉，市场对GOOGL维持“强劲买入”评级。加密货币市场因政策不确定性和资金避险需求再次高波动，比特币和以太坊价格飙升。Micron公司的业绩持续攀升，预计成为行业关注的“历史性机会”。美股“Magnificent Seven”科技巨头间业绩分化明显，小盘股表现优于大盘。Wealthfront因财报不及预期遭投资者集体诉讼，市值大跌。Hycroft Mining面临空头增加的压力。Bitdeer Technologies被起诉，股价大跌30%。部分热门成长股在纳斯达克交易所因监管压力暂停交易。TSMC股价持续上涨，预计未来稳居全球芯片产业头部。同时，硅谷对“美国梦”生存价值的讨论引发社会焦虑。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">84c91ca7-b681-4d0f-bf23-f814bfd2238d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-19/audio.mp3" length="9408429" type="audio/mpeg"/>
+      <itunes:duration>09:47</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 15:03:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
