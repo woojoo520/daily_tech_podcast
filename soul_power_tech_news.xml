@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Jan 2026 07:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 07:02:49 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 19 Jan 2026 15:03:17 +0800</pubDate>
+    <pubDate>Tue, 20 Jan 2026 15:02:22 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1734,6 +1734,16 @@ Alphabet公司就在线搜索领域的非法垄断裁决提起上诉，市场对
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-19/audio.mp3" length="9408429" type="audio/mpeg"/>
       <itunes:duration>09:47</itunes:duration>
       <pubDate>Mon, 19 Jan 2026 15:03:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>Sequoia Capital再度下注AI巨头Anthropic 估值飙升至3500亿美元</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来今日科技与商业动态：风投巨头Sequoia Capital参与Anthropic的250亿美元融资，估值达3500亿美元，彰显对AI领域“胜者通吃”的看法。Google宣布Pixel 10a保持549欧元定价，预售将于2月18日开启。Valve推出的Steam Deck OLED掌机因升级屏幕和提升续航受到好评，但在硬件上略显不足。新加坡ComfortDelGro暂停自动驾驶测试，等待调查结果。奔驰将在1月29日首发换代S-Class，突显电动化趋势。TechCrunch启动2026年创业大赛申请，为初创企业提供展示平台。Barrick Mining宣布新CFO人选，有望为公司未来战略注入新视角。肯尼亚推进国有管道公司IPO以应对财政压力。美国半导体股因TSMC强劲财报出现集体上涨，AI相关芯片需求持续旺盛。社交媒体复古潮流引发热议，反映出对过去的怀旧情绪。敬请关注更多更新。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ba4dbdfb-c814-4cf5-a38c-1bf83ef3e769</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-20/audio.mp3" length="7081965" type="audio/mpeg"/>
+      <itunes:duration>07:22</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 15:02:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
