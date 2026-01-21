@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 20 Jan 2026 07:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 07:02:45 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 20 Jan 2026 15:02:22 +0800</pubDate>
+    <pubDate>Wed, 21 Jan 2026 15:02:19 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1744,6 +1744,18 @@ Alphabet公司就在线搜索领域的非法垄断裁决提起上诉，市场对
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-20/audio.mp3" length="7081965" type="audio/mpeg"/>
       <itunes:duration>07:22</itunes:duration>
       <pubDate>Tue, 20 Jan 2026 15:02:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球金融动荡因Greenland争端升级引发市场剧震</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来2026年1月21日的商业科技动态，主要内容包括：
+
+全球资本市场因围绕Greenland的地缘经济摩擦出现剧烈震荡，美国股市大幅下跌，分析师警告可能引发更大金融动荡。XStable获得数百万美元投资，专注链上高性能合约交易。Netflix处于收购竞争风波中，策略修改以增强交易确定性。美国能源政策引发再次关注，相关机构向最高法院请愿审查新能效标准。AI领域关于开放模型的讨论持续升温，行业对未来充满期待但也存在警惕。OpenAI启动广告业务，探索新的营收模式，而媒体行业正经历资本与创意的较量。最后，Paramount发起对Warner Bros的敌意收购，流媒体市场竞争愈演愈烈，行业整合将直接影响未来走势。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8d655d1b-edac-4cc8-a738-cbf66c58fb1c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-21/audio.mp3" length="9925101" type="audio/mpeg"/>
+      <itunes:duration>10:20</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 15:02:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
