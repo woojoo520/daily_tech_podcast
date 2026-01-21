@@ -21,7 +21,8 @@ class GitHubUploader:
     def upload_file(self, source_filepath, target_filepath, commit_message):
         with open(source_filepath, 'rb') as file:
             content = base64.b64encode(file.read()).decode('utf-8')
-        self.upload_in_background(content, target_filepath, commit_message)
+        # Use synchronous upload to ensure file is uploaded before returning
+        self.upload_contents(content, target_filepath, commit_message)
             
     def upload_in_background(self, content, target_filepath, commit_message):
         thread = threading.Thread(
@@ -92,5 +93,70 @@ class GitHubUploader:
                 pass
             print(f"upload_contents_by_url failed: {type(e).__name__}: {e}.{detail}")
 
-    def get_content(self, filepath): 
+    def batch_upload(self, files, commit_message):
+        """
+        Upload multiple files in a single commit.
+
+        Args:
+            files: List of dict with keys: 'source_filepath' (optional), 'content' (optional),
+                   'target_filepath' (required). Either source_filepath or content must be provided.
+            commit_message: Commit message for the batch upload
+
+        Example:
+            files = [
+                {'source_filepath': 'local/audio.mp3', 'target_filepath': 'episodes/2026-01-20/audio.mp3'},
+                {'content': 'base64_encoded_content', 'target_filepath': 'episodes/2026-01-20/script.txt'}
+            ]
+        """
+        try:
+            # Get the current commit SHA
+            branch = self.repo.get_branch(self.branch)
+            base_tree = branch.commit.commit.tree
+
+            # Prepare tree elements for all files
+            tree_elements = []
+            for file_info in files:
+                target_path = file_info['target_filepath']
+
+                # Get content either from file or directly
+                if 'source_filepath' in file_info:
+                    with open(file_info['source_filepath'], 'rb') as f:
+                        content = base64.b64decode(base64.b64encode(f.read()).decode('utf-8'))
+                elif 'content' in file_info:
+                    # Assume content is already base64 encoded
+                    content = base64.b64decode(file_info['content'])
+                else:
+                    raise ValueError(f"File {target_path} must have either 'source_filepath' or 'content'")
+
+                # Create blob
+                blob = self.repo.create_git_blob(base64.b64encode(content).decode('utf-8'), 'base64')
+
+                # Add to tree elements
+                tree_elements.append(
+                    {
+                        'path': target_path,
+                        'mode': '100644',  # Regular file
+                        'type': 'blob',
+                        'sha': blob.sha
+                    }
+                )
+
+            # Create new tree
+            new_tree = self.repo.create_git_tree(tree_elements, base_tree)
+
+            # Create commit
+            parent = branch.commit
+            new_commit = self.repo.create_git_commit(commit_message, new_tree, [parent])
+
+            # Update branch reference
+            ref = self.repo.get_git_ref(f'heads/{self.branch}')
+            ref.edit(new_commit.sha)
+
+            print(f"Batch upload successful: {len(files)} files uploaded in commit {new_commit.sha[:7]}")
+
+        except Exception as e:
+            print(f"batch_upload failed: {type(e).__name__}: {e}")
+            raise
+
+    def get_content(self, filepath):
         return self.repo.get_contents(filepath)

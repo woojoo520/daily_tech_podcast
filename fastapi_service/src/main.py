@@ -22,13 +22,20 @@ if not os.path.exists(SAVE_DIRECTORY):
 class AudioRequest(BaseModel):
     date: str = "2025-07-07"
     text: str
+    provider: str = "minimax"  # 'minimax' or 'gemini'
 
 
 @app.post("/audio/generate-audio")
 def generate_audio(request: AudioRequest):
     if not request.text:
         raise HTTPException(status_code=400, detail="No text provided")
-    filepath = generate_audio_from_text(request.text)
+
+    # Select TTS provider
+    if request.provider == "gemini":
+        from gemini_generator import generate_audio_from_text as gemini_generate
+        filepath = gemini_generate(request.text)
+    else:
+        filepath = generate_audio_from_text(request.text)
     # filepath = "/Users/woojoo/workspace/daily_tech_podcast/fastapi_service/output/output_total_1753285098.mp3"
     
     # upload to GitHub
@@ -37,19 +44,24 @@ def generate_audio(request: AudioRequest):
     size_bytes = os.path.getsize(filepath)
     audio_path = f"episodes/{request.date}/audio.mp3"
     script_path = f"episodes/{request.date}/script.txt"
-    
-    github_helpers.upload_file(
-        source_filepath=filepath,
-        target_filepath=audio_path,
-        commit_message=f"Add audio for {request.date}"
-    )
-    
+
+    # Prepare script content
     script_content = f"{int(duration_seconds)},{size_bytes}\n" + request.text
-    b_content = base64.b64encode(script_content.encode('utf-8')).decode('utf-8')
-    github_helpers.upload_contents(
-        content=b_content,
-        target_filepath=script_path,
-        commit_message=f"Add script for {request.date}"
+    script_b64 = base64.b64encode(script_content.encode('utf-8')).decode('utf-8')
+
+    # Batch upload both files in a single commit
+    github_helpers.batch_upload(
+        files=[
+            {
+                'source_filepath': filepath,
+                'target_filepath': audio_path
+            },
+            {
+                'content': script_b64,
+                'target_filepath': script_path
+            }
+        ],
+        commit_message=f"Add episode for {request.date}"
     )
     
     audit_source = urljoin(github_helpers.source_base_path, audio_path)
