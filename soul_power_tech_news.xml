@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Jan 2026 07:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 07:03:38 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 21 Jan 2026 15:02:19 +0800</pubDate>
+    <pubDate>Thu, 22 Jan 2026 15:03:12 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1756,6 +1756,18 @@ Alphabet公司就在线搜索领域的非法垄断裁决提起上诉，市场对
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-21/audio.mp3" length="9925101" type="audio/mpeg"/>
       <itunes:duration>10:20</itunes:duration>
       <pubDate>Wed, 21 Jan 2026 15:02:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球半导体投资热潮再掀！</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来2026年1月22日的重要科技与财经动态，内容包括：
+
+全球半导体板块因AI基础设施投资热潮再度上涨，三星电子股价创下历史新高，KOSPI指数突破5000点。Meta Platforms获准推进针对Google的虚假广告诉讼，表明对科技巨头广告垄断的新一轮监管压力。Epic Games扩充法务团队以应对反垄断斗争。美国多州加快立法监管AI薪酬决策，强调公平与透明。Netflix发布超预期财报，全年营收增速显著，暗示持续高投资策略。韩国市场避险情绪回落，美股强劲反弹。Lego积极推动数字化转型，X面临市场信心下滑。资源板块活跃，黄金与有色金属价格创纪录。欢迎继续关注我们的日常更新！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ac32d70b-d008-4994-9063-7b979029502d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-22/audio.mp3" length="8441901" type="audio/mpeg"/>
+      <itunes:duration>08:47</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 15:03:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
