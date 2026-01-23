@@ -35,10 +35,16 @@ class GitHubUploader:
     def upload_contents(self, content, target_filepath, commit_message):
         try:
             try:
-                print(f"target_filepath: {target_filepath}")
+                print(f"[upload_contents] branch={self.branch} target_filepath={target_filepath}")
                 st = time.time()
-                ori_contents = self.repo.get_contents(target_filepath)
-                self.repo.update_file(ori_contents.path, commit_message, content, sha=ori_contents.sha)
+                ori_contents = self.repo.get_contents(target_filepath, ref=self.branch)
+                self.repo.update_file(
+                    ori_contents.path,
+                    commit_message,
+                    content,
+                    sha=ori_contents.sha,
+                    branch=self.branch,
+                )
                 en = time.time() 
                 print(f"Upload time cost: {en - st}s.")
             except Exception as e:
@@ -62,26 +68,47 @@ class GitHubUploader:
         import requests
 
         url = f"https://api.github.com/repos/{self.repo_name}/contents/{target_filepath}"
+        get_url = f"{url}?ref={self.branch}"
         data = {
             "message": commit_message,
             "content": content,
-            "branch": 'main'
+            "branch": self.branch,
         }
         headers = {
             "Authorization": f"Bearer {self.token}",
             "Accept": "application/vnd.github+json"
         }
-        print(f"url: {url} \n headers: {headers}")
+        print(f"[upload_contents_by_url] branch={self.branch} target_filepath={target_filepath}")
+        print(f"[upload_contents_by_url] put_url={url}")
+        print(f"[upload_contents_by_url] get_url={get_url}")
         try:
-            response = requests.put(url, json=data, headers=headers)
-            if response.status_code == 409:
-                # File exists: fetch SHA and retry as update.
-                get_resp = requests.get(url, headers=headers)
+            response = None
+            get_resp = requests.get(get_url, headers=headers)
+            if get_resp.status_code == 200:
+                sha = get_resp.json().get("sha")
+                print(f"[upload_contents_by_url] GET 200 sha={sha}")
+                if sha:
+                    data["sha"] = sha
+                response = requests.put(url, json=data, headers=headers)
+            elif get_resp.status_code == 404:
+                print("[upload_contents_by_url] GET 404 -> create")
+                response = requests.put(url, json=data, headers=headers)
+            else:
+                get_resp.raise_for_status()
+
+            if response is not None and response.status_code == 409:
+                print("[upload_contents_by_url] PUT 409 -> refetch sha and retry")
+                # Possible race: refetch sha then retry once.
+                get_resp = requests.get(get_url, headers=headers)
                 get_resp.raise_for_status()
                 sha = get_resp.json().get("sha")
+                print(f"[upload_contents_by_url] RETRY sha={sha}")
                 if sha:
                     data["sha"] = sha
                     response = requests.put(url, json=data, headers=headers)
+
+            if response is None:
+                raise RuntimeError("upload_contents_by_url failed: no response from PUT request")
             response.raise_for_status()
             print(f"response: {response}")
         except Exception as e: 
