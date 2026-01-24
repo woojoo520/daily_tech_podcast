@@ -14,9 +14,10 @@ class GitHubUploader:
         self.source_base_path = f"https://raw.githubusercontent.com/{self.repo_name}/refs/heads/{self.branch}/"
         
     def authenticate(self):
-        from github import Github
+        from github import Github, InputGitTreeElement
         self.github = Github(self.token)
         self.repo = self.github.get_repo(self.repo_name)
+        self.InputGitTreeElement = InputGitTreeElement
 
     def upload_file(self, source_filepath, target_filepath, commit_message):
         with open(source_filepath, 'rb') as file:
@@ -160,12 +161,12 @@ class GitHubUploader:
 
                 # Add to tree elements
                 tree_elements.append(
-                    {
-                        'path': target_path,
-                        'mode': '100644',  # Regular file
-                        'type': 'blob',
-                        'sha': blob.sha
-                    }
+                    self.InputGitTreeElement(
+                        path=target_path,
+                        mode='100644',  # Regular file
+                        type='blob',
+                        sha=blob.sha
+                    )
                 )
 
             # Create new tree
