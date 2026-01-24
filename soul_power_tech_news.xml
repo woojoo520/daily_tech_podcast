@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 23 Jan 2026 07:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 07:49:59 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 23 Jan 2026 15:06:26 +0800</pubDate>
+    <pubDate>Sat, 24 Jan 2026 15:49:08 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1780,6 +1780,36 @@ YouTube将重点发展AI生成内容和音乐实验，计划严格监管低质�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-23/audio.mp3" length="9848493" type="audio/mpeg"/>
       <itunes:duration>10:15</itunes:duration>
       <pubDate>Fri, 23 Jan 2026 15:06:26 +0800</pubDate>
+    </item>
+    <item>
+      <title>Intel股价暴跌16% 投资者担忧扭亏能力</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来近期商业科技动态，包括：
+
+Intel公司股价暴跌近18%，因其低于预期的季度财务预测引发投资者担忧。 
+
+美国Texas州实施新人工智能法律，为企业提供使用AI的风险护栏，强调透明度与反歧视。
+
+世界经济论坛上，AI成为讨论焦点，各界关注如何应对AI带来的偏见和人才争夺。
+
+TikTok在美国的合资公司已成立，确保其在美市场的持续运营。
+
+大型科技公司如Apple、Microsoft和Tesla即将发布财报，投资者翘首以盼。
+
+Casio推出便携式独立采样器原型，引起音乐制作人关注。
+
+美国国税局发布新税法指导，为中低收入工薪阶层提供加班费减免政策。
+
+关于历史叙事的争议，特朗普政府要求改写国家公园展览内容，引发批评。
+
+中国电动汽车在加拿大市场备受关注，传统汽车面临挑战。 
+
+人工智能行业迈入新阶段，未来将更重视实际应用与社会影响。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">e18a7ce2-f25b-4b59-9c1d-c398de600b59</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-24/audio.mp3" length="11518317" type="audio/mpeg"/>
+      <itunes:duration>11:59</itunes:duration>
+      <pubDate>Sat, 24 Jan 2026 15:49:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
