@@ -173,8 +173,8 @@ class GitHubUploader:
             new_tree = self.repo.create_git_tree(tree_elements, base_tree)
 
             # Create commit
-            parent = branch.commit
-            new_commit = self.repo.create_git_commit(commit_message, new_tree, [parent])
+            parent_commit = branch.commit.commit  # Get GitCommit object instead of Commit
+            new_commit = self.repo.create_git_commit(commit_message, new_tree, [parent_commit])
 
             # Update branch reference
             ref = self.repo.get_git_ref(f'heads/{self.branch}')
