@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 24 Jan 2026 07:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 07:03:25 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 24 Jan 2026 15:49:08 +0800</pubDate>
+    <pubDate>Sun, 25 Jan 2026 15:02:57 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1810,6 +1810,29 @@ Casio推出便携式独立采样器原型，引起音乐制作人关注。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-24/audio.mp3" length="11518317" type="audio/mpeg"/>
       <itunes:duration>11:59</itunes:duration>
       <pubDate>Sat, 24 Jan 2026 15:49:08 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI投资热潮因地缘政治危机骤然降温</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来全球主要科技与产业新闻动态，包括：
+
+世界经济论坛（WEF）在达沃斯召开，讨论人工智能（AI）基础设施时，地缘政治风险突然引发投资者关注。  
+苹果新款iPhone 18 Pro的设计传言引起行业热议，同时Apple的AI穿戴产品“AI Pin”也在筹划中。  
+Gmail出现大量垃圾邮件问题，用户反馈邮件分类系统失效，引发广泛质疑。  
+iPhone Air降价引起讨论，销量持续低迷，市场需求有限。  
+Elon Musk通过xAI融资其身价逼近8000亿美元，AI财富分配问题受关注。  
+全球汽车产业因中国产能过剩与供应链波动面临变局，企业战略调整迫在眉睫。  
+Fermi Inc.面临投资者维权诉讼，突显AI产业风险信息披露挑战。  
+美股市场动态显示高科技与能源服务行业波动明显。  
+中国AI创新被美投界忽视，反映对多元化全球竞争格局的认识不足。  
+Waymo无人驾驶出租车在德州多次违规事件引发调查，行业观点分歧明显。
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8cbdb9d1-6611-4483-b887-7f2284b0107c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-25/audio.mp3" length="8433837" type="audio/mpeg"/>
+      <itunes:duration>08:47</itunes:duration>
+      <pubDate>Sun, 25 Jan 2026 15:02:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
