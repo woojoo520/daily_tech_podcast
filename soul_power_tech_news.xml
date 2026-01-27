@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 26 Jan 2026 07:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 07:05:23 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 26 Jan 2026 15:03:29 +0800</pubDate>
+    <pubDate>Tue, 27 Jan 2026 15:04:54 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1844,6 +1844,18 @@ Apple宣布与Google合作，将Google Gemini大语言模型集成到新一代Si
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-26/audio.mp3" length="9629613" type="audio/mpeg"/>
       <itunes:duration>10:01</itunes:duration>
       <pubDate>Mon, 26 Jan 2026 15:03:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>Big Tech财报即将揭晓 投资者期待AI投资回报</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与科技和投资相关的重要动态，以下是今天的主要内容：
+
+全球Big Tech企业将于本周披露财报，市场期待其AI投资回报，能否实现2025年第四季度20%的利润增长是关键。Google同意支付6800万美元和解用户隐私诉讼，反映智能助手与隐私保护的挑战。Perplexity AI赢得商标诉讼，凸显AI领域知识产权竞争。Nvidia股价反弹58%，得益于AI基础设施投资。美股全线反弹，市场情绪趋于积极，但AI股交易或显降温。美国能源公司Battalion Oil股价大幅波动，因达成天然气处理协议。Time Magazine发布“美国Top WorkTech公司”榜单，强调数字化转型的趋势。白银价格高位回吐，存在泡沫风险。PDF Solutions将发布财报，关注半导体行业AI应用进展。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">45327f4c-619e-445d-a39e-716d1b2609f8</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-27/audio.mp3" length="8663085" type="audio/mpeg"/>
+      <itunes:duration>09:01</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 15:04:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
