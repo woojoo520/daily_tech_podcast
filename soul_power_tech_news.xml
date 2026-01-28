@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 27 Jan 2026 07:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 07:03:23 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 27 Jan 2026 15:04:54 +0800</pubDate>
+    <pubDate>Wed, 28 Jan 2026 15:02:58 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1856,6 +1856,20 @@ Apple宣布与Google合作，将Google Gemini大语言模型集成到新一代Si
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-27/audio.mp3" length="8663085" type="audio/mpeg"/>
       <itunes:duration>09:01</itunes:duration>
       <pubDate>Tue, 27 Jan 2026 15:04:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>Comcast因专利侵权被判需赔偿2.4亿美元</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来重要的科技动态，内容包括：
+
+Comcast被判需赔偿2.4亿美元，因其语音产品侵犯专利；美国政府警告韩国避免对美国科技公司的歧视性监管；特斯拉面临投资者焦虑，关注即将发布的财报；微软在威斯康星州获批新建数据中心，并推出新AI芯片；越南电动车品牌VinFast与以色列公司合作开发低成本自动驾驶技术；科技行业即将迎来巨头财报季和美联储政策会议；OpenAI员工教育背景集中在顶尖高校，引发对人才多样性关注；加州对Meta和TikTok提起诉讼，指控其算法影响青少年心理健康。 
+
+今天的科技新闻十分丰富，欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">f2c35b4b-6baf-4988-9e82-e2081f5a04b7</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-28/audio.mp3" length="6497325" type="audio/mpeg"/>
+      <itunes:duration>06:46</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 15:02:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
