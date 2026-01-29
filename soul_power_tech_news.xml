@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 28 Jan 2026 07:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 07:04:34 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 28 Jan 2026 15:02:58 +0800</pubDate>
+    <pubDate>Thu, 29 Jan 2026 15:04:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1870,6 +1870,16 @@ Comcast被判需赔偿2.4亿美元，因其语音产品侵犯专利；美国政�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-28/audio.mp3" length="6497325" type="audio/mpeg"/>
       <itunes:duration>06:46</itunes:duration>
       <pubDate>Wed, 28 Jan 2026 15:02:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>Meta广告营收大增24% AI战略引发华尔街关注</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来重要商业科技动态：Valens Semiconductor宣布裁员10%，计划专注核心业务以节省成本。大科技公司财报季迎来高潮，Meta和Tesla业绩超预期，股价上涨，而Microsoft股价下跌引发市场担忧。Meta广告业务表现强劲，计划2026年资本支出达1150-1350亿美元。赛博攻击事件波及Bumble和Match Group等多家公司，凸显数据安全挑战。Tesla计划发布新一代Optimus机器人，聚焦AI与机器人业务转型。全球股市因科技企业业绩强劲而上涨，特别是AI相关投资需求集中。Apple即将公布财报，市场关注iPhone 17及AI战略。YouTube创作者起诉Snap侵犯版权。Graham Corporation完成对FlackTek的收购，显示美企增强制造能力的趋势。Yahoo Answers升级为AI问答引擎，助力内容创新与商业变现。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">14901f2b-8304-4351-a548-9d281e1ff420</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-29/audio.mp3" length="9527085" type="audio/mpeg"/>
+      <itunes:duration>09:55</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 15:04:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
