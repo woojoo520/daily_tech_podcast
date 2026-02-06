@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 29 Jan 2026 07:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 15:33:49 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 29 Jan 2026 15:04:07 +0800</pubDate>
+    <pubDate>Fri, 06 Feb 2026 23:33:25 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1880,6 +1880,22 @@ Comcast被判需赔偿2.4亿美元，因其语音产品侵犯专利；美国政�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-01-29/audio.mp3" length="9527085" type="audio/mpeg"/>
       <itunes:duration>09:55</itunes:duration>
       <pubDate>Thu, 29 Jan 2026 15:04:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI投资风暴来袭科技巨头股市动荡</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新的商业科技动态，包括：
+
+亚马逊宣布2026年资本支出翻倍至2000亿美元，激进的AI投资令股价下跌逾8%。Microsoft的市值蒸发约5000亿美元，因Azure增速放缓造成市场恐慌。Alphabet预计资本支出将创历史新高，云服务增速为投资者提供了一丝安慰。
+
+四大科技公司2026年AI支出合计预计达到650亿美元，引发投资者对AI回报的质疑。与此同时，Anthropic推出的新AI工具引发市场担忧，造成相关行业股价大幅下跌。
+
+此外，AI基础设施建设面临电力短缺和供应链问题的挑战。未来的市场焦点将集中在这几家公司能否证明其AI投资的商业价值。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">4f9c477e-4eea-4c50-8060-8411ec2836ef</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-06/audio.mp3" length="7087149" type="audio/mpeg"/>
+      <itunes:duration>07:22</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 23:33:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
