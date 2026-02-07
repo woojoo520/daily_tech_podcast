@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Feb 2026 15:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 11:27:52 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 06 Feb 2026 23:33:25 +0800</pubDate>
+    <pubDate>Sat, 07 Feb 2026 19:27:27 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1896,6 +1896,26 @@ Comcast被判需赔偿2.4亿美元，因其语音产品侵犯专利；美国政�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-06/audio.mp3" length="7087149" type="audio/mpeg"/>
       <itunes:duration>07:22</itunes:duration>
       <pubDate>Fri, 06 Feb 2026 23:33:25 +0800</pubDate>
+    </item>
+    <item>
+      <title>科技巨头AI投资跨越历史新高达650亿美元</title>
+      <description><![CDATA[本期Soul Power Tech News为你带来重要的科技动态，主要内容包括：
+
+科技巨头在2026年AI投资创历史新高，达到约650亿美元，超过许多重大基础设施项目。亚马逊计划投资200亿美元，Alphabet、Meta和微软的投资也均超过百亿美元，分析人士对此表示担忧。
+
+Anthropic推出的法律AI工具对专业服务市场产生冲击，导致相关软件股大跌，投资者对专业服务商业模式的未来表示关注。
+
+175年历史的Corning公司在AI基础设施中发挥关键作用，光纤需求激增使其股票上涨70%以上，公司正在扩建以满足科技巨头需求。
+
+此外，得益于东大领导人的政策支持，中国涌现140多家人形机器人公司，形成竞争力。
+
+最后，尽管整体就业市场下滑，AI相关职位招聘却逆势上升，创下新高，特别是在数据分析领域。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">e72ce53e-7462-4854-b459-efb7cf5ec64c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-07/audio.mp3" length="4106925" type="audio/mpeg"/>
+      <itunes:duration>04:16</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 19:27:27 +0800</pubDate>
     </item>
   </channel>
 </rss>
