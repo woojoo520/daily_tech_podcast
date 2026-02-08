@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Feb 2026 11:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 07:02:17 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 07 Feb 2026 19:27:27 +0800</pubDate>
+    <pubDate>Sun, 08 Feb 2026 15:01:53 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1916,6 +1916,18 @@ Anthropic推出的法律AI工具对专业服务市场产生冲击，导致相关
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-07/audio.mp3" length="4106925" type="audio/mpeg"/>
       <itunes:duration>04:16</itunes:duration>
       <pubDate>Sat, 07 Feb 2026 19:27:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>科技巨头AI支出冲击市场投资者信心</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新的科技动态，主要内容包括：
+
+科技巨头人工智能支出计划引发市场波动，导致投资者对盈利能力感到担忧，同时标普500软件和服务指数一周内蒸发近1万亿美元市值。Anthropic与OpenAI在超级碗期间展开广告竞争，双方对AI商业模式的看法截然不同。存储芯片市场需求激增，SanDisk与Micron销量预期领跑科技行业。与此同时，华尔街分析师认为某些软件股票被低估，尽管面对AI冲击，高质量软件企业依旧具备竞争力。投资者在科技股波动中面临选择困难，需平衡AI热潮与风险评估。感谢您的收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">9f30e7e7-9241-4a0e-b0f1-a7d53ad97d0a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-08/audio.mp3" length="6170733" type="audio/mpeg"/>
+      <itunes:duration>06:25</itunes:duration>
+      <pubDate>Sun, 08 Feb 2026 15:01:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
