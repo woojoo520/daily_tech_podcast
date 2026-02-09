@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Feb 2026 07:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 07:02:23 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 08 Feb 2026 15:01:53 +0800</pubDate>
+    <pubDate>Mon, 09 Feb 2026 15:01:58 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1928,6 +1928,18 @@ Anthropic推出的法律AI工具对专业服务市场产生冲击，导致相关
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-08/audio.mp3" length="6170733" type="audio/mpeg"/>
       <itunes:duration>06:25</itunes:duration>
       <pubDate>Sun, 08 Feb 2026 15:01:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果发布iPhone 17e 直击中端市场新机遇</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来2026年2月9日全球科技新闻动态，包括：
+
+Apple将在19日发布iPhone 17e，旨在中端市场扩大影响力。AT&T推出儿童专用智能手机，强调父母控制和儿童安全。SpaceX转向长远目标，计划在月球建立自给自足的城市。Super Bowl广告中，Anthropic与OpenAI分别对AI风险和机遇进行了不同风格的宣传。Big Tech公司如亚马逊和谷歌加大AI资本支出，引发市场关注。增强现实领域面临市场重组，Snap和Meta等公司积极布局生态系统。有关AI伦理的讨论仍在持续。亚马逊和谷歌的云服务则在推动企业向AI驱动的转型，成为增长的新引擎。更多精彩内容，敬请关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">5ace8b3b-4339-4798-8622-78a2dd551cee</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-09/audio.mp3" length="9001197" type="audio/mpeg"/>
+      <itunes:duration>09:22</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 15:01:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
