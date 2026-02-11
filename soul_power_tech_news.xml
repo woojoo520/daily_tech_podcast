@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Feb 2026 07:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 07:02:43 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 10 Feb 2026 15:02:00 +0800</pubDate>
+    <pubDate>Wed, 11 Feb 2026 15:02:19 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1950,6 +1950,20 @@ Apple将在19日发布iPhone 17e，旨在中端市场扩大影响力。AT&amp;T�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-10/audio.mp3" length="8798445" type="audio/mpeg"/>
       <itunes:duration>09:09</itunes:duration>
       <pubDate>Tue, 10 Feb 2026 15:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>槟榔成瘾危害全球健康亟待重视</title>
+      <description><![CDATA[本期Soul Power Tech News带来了与科技、商业相关的重要动态，具体内容包括：
+
+Under Armour发布2026财年第三季度财报，尽管营收同比下滑5%，但每股盈余超出预期，北美市场表现不佳。槟榔成瘾与多种健康问题相关，强调戒断的重要性。英国宠物连锁Jollyes推出低价自有品牌，旨在应对消费模式变化。抵押贷款行业数字化转型加速，传统机构与金融科技公司合作提升效率。FS Credit Opportunities Corp. 宣布分红并维持稳健财务状况。农业市场经历新一轮土地并购潮，引发广泛关注。阿联酋新民法典将实施，影响建筑领域责任分担。Johnson & Johnson滑石粉集体诉讼案面临律师事务所利益冲突问题。奢侈品牌推出手镯腕表，满足新兴时尚需求。美国职业棒球大联盟推出本地流媒体服务，解决版权问题。
+
+感谢收听，我们明天见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">25ca9246-4cee-4ed6-92ca-ec56f5438be9</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-11/audio.mp3" length="7936173" type="audio/mpeg"/>
+      <itunes:duration>08:15</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 15:02:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
