@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 11 Feb 2026 07:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 07:03:34 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 11 Feb 2026 15:02:19 +0800</pubDate>
+    <pubDate>Thu, 12 Feb 2026 15:03:09 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1964,6 +1964,16 @@ Under Armour发布2026财年第三季度财报，尽管营收同比下滑5%，�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-11/audio.mp3" length="7936173" type="audio/mpeg"/>
       <itunes:duration>08:15</itunes:duration>
       <pubDate>Wed, 11 Feb 2026 15:02:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>医疗行业工程师就业猛增成为美国经济新引擎</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来今日重要商业科技动态，今天是2026年2月12日。首先，美国医疗行业在就业增长中扮演核心角色，1月新增职位显著上升，反映市场对医疗技能型人才的强烈需求。其次，科技巨头Amazon、Google、Meta和Microsoft计划投资近6000亿美元于AI相关基础设施，但面临内存芯片价格暴涨的挑战。第三，AI对金融行业的影响日益显现，引发市场对传统金融服务替代的担忧。Spotify公布财报显示用户增长强劲，股价大幅上涨，而南半球矿业巨头South32未计划向美国矿产储备系统供应矿物。值得关注的是，加密货币企业FTX创始人申请重审其刑事案，反映出行业监管的加强。最后，美国航空面临员工抗议和管理危机，说明行业内人力资源关系的紧张。感谢收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">70481c65-551d-4243-b338-7740da2b9e43</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-12/audio.mp3" length="9832365" type="audio/mpeg"/>
+      <itunes:duration>10:14</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 15:03:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
