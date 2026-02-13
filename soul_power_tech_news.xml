@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 12 Feb 2026 07:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 07:06:40 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 12 Feb 2026 15:03:09 +0800</pubDate>
+    <pubDate>Fri, 13 Feb 2026 15:06:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1974,6 +1974,27 @@ Under Armour发布2026财年第三季度财报，尽管营收同比下滑5%，�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-12/audio.mp3" length="9832365" type="audio/mpeg"/>
       <itunes:duration>10:14</itunes:duration>
       <pubDate>Thu, 12 Feb 2026 15:03:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>Amazon资本支出暴增引发股价剧跌</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来2026年2月13日的重要科技动态，内容包括：
+亚马逊宣布计划将资本支出提升至2000亿美元，股价受到市场担忧而急剧下跌。科技巨头Alphabet、Meta和Microsoft也增加了AI相关支出，引发对中期盈利的关注。 
+亚洲股市大幅调整，苹果股价录得最大单日跌幅。分析师对AI竞争、监管压力表示担忧。 
+电子游戏与金融领域的AI影响加速显现，多个行业面临裁员和业绩压力。 
+Alphabet发售百年期国债以锁定低利率。 
+联想因AI服务器需求增长营收上升，但未来市场风险依然存在。 
+Expedia的B2B业务增长超出预期，但需警惕消费端动能回落。 
+科技公司的会计方式引起投资者关注，需更透明披露资本支出等信息。 
+全球运动与控制技术公司Parker Hannifin将亮相重要会议，强调数字化转型成果。 
+AR产业历经多项变革，展现出广阔的商业前景。 
+最后，软银旗下科技基金实现扭亏为盈，受益于AI产业链投资机遇。 
+敬请关注明天的报道！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">0d9faa4e-a3d6-4751-a1e4-c5a7c2c41aa5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-13/audio.mp3" length="8869293" type="audio/mpeg"/>
+      <itunes:duration>09:14</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 15:06:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
