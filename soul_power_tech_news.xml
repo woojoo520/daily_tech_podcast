@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Feb 2026 07:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:02:08 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 13 Feb 2026 15:06:07 +0800</pubDate>
+    <pubDate>Sat, 14 Feb 2026 15:01:44 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -1995,6 +1995,18 @@ AR产业历经多项变革，展现出广阔的商业前景。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-13/audio.mp3" length="8869293" type="audio/mpeg"/>
       <itunes:duration>09:14</itunes:duration>
       <pubDate>Fri, 13 Feb 2026 15:06:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>五大科技巨头一日缩水260亿美元财富引发担忧</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态，主要内容包括：
+
+全球股市经历动荡，美国三大股指全线下跌，科技股持续抛售引发市场担忧；大型科技公司AI资本支出激增，致使市值蒸发超万亿美元，同时分析人士呼吁提供更明确的盈利方案；因AI股票大幅下挫，五大科技巨头领导人财富缩水显著；金融科技公司Figure Technology Solutions发生数据泄露事件，业内呼吁增强安全防护；美国反垄断司负责人辞职引发政策不确定性，可能影响市场信心；AI对各行业影响加大，部分公司股价下滑，投资者转向防御性资产；虽然受到调整，数据中心投资推动芯片制造公司业绩增长。各界对当前市场形势与未来趋势的观点分化明显。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">08c70a2c-9f77-4b25-be6c-2801683b6962</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-14/audio.mp3" length="8349741" type="audio/mpeg"/>
+      <itunes:duration>08:41</itunes:duration>
+      <pubDate>Sat, 14 Feb 2026 15:01:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
