@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Feb 2026 07:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 07:02:32 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 14 Feb 2026 15:01:44 +0800</pubDate>
+    <pubDate>Sun, 15 Feb 2026 15:02:08 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2007,6 +2007,16 @@ AR产业历经多项变革，展现出广阔的商业前景。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-14/audio.mp3" length="8349741" type="audio/mpeg"/>
       <itunes:duration>08:41</itunes:duration>
       <pubDate>Sat, 14 Feb 2026 15:01:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>超越ChatGPT的AI模型引发行业热议</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2026年2月15日的商业科技动态，包括：AI领域出现新模型，如Google的Gemini 3 Pro和OpenAI的GPT-5.2，正引发“多核”竞争；美国AI投资泡沫带动信用衍生品交易量激增；大型科技企业在美国扩展AI数据中心影响地方政治与经济；英国TyresFlow公司推出移动轮胎更换服务；Microsoft成为“AI白领工作革命”的领头羊；F5, Inc.面临投资者集体诉讼；Cinareo展示呼叫中心创新模型；Hochschild Mining股价突破200日均线；中国ByteDance发布Doubao 2.0 AI模型，积极拓展市场；关注农业股票，包括Deere & Company、Corteva及Bunge Global等。欢迎收听明日新闻！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">568e4577-ca1b-4a3e-9f59-bc1e9881339d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-15/audio.mp3" length="9642285" type="audio/mpeg"/>
+      <itunes:duration>10:02</itunes:duration>
+      <pubDate>Sun, 15 Feb 2026 15:02:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
