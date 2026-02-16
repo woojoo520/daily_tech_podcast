@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Feb 2026 07:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 07:02:04 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 15 Feb 2026 15:02:08 +0800</pubDate>
+    <pubDate>Mon, 16 Feb 2026 15:01:39 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2017,6 +2017,22 @@ AR产业历经多项变革，展现出广阔的商业前景。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-15/audio.mp3" length="9642285" type="audio/mpeg"/>
       <itunes:duration>10:02</itunes:duration>
       <pubDate>Sun, 15 Feb 2026 15:02:08 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球芯片危机加剧AI热潮影响制造业</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2026年2月16日的科技动态，包括：
+
+全球半导体存储芯片因人工智能需求激增，引发供应危机，特斯拉和苹果等公司受到生产影响。美国国防部曾列入中国科技公司黑名单后快速撤回，导致市场信心受挫。AI风险成为企业财报热点，虽然某些公司盈利增长，但投资者因AI冲击提前抛售股票。
+
+Samsung将于2月25日发布Galaxy S26系列旗舰手机，受到业内广泛关注。Paramount向字节跳动发出律师函，称其AI模型侵犯影视知识产权。Warner Bros Discovery重新考虑和Paramount的并购谈判。
+
+美国最新CPI数据温和，市场情绪回暖。同时，英国首相寻求更大权限监管网络接入以保护未成年人。全球职场面临AI焦虑，员工担心工作被替代。AI潮流撬动全球资金流，形成市场波动。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">a682b1f7-cb26-4e76-8476-8c2ef8a2a405</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-16/audio.mp3" length="6872301" type="audio/mpeg"/>
+      <itunes:duration>07:09</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 15:01:39 +0800</pubDate>
     </item>
   </channel>
 </rss>
