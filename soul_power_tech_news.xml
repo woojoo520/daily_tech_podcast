@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Feb 2026 07:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 07:03:00 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 16 Feb 2026 15:01:39 +0800</pubDate>
+    <pubDate>Tue, 17 Feb 2026 15:02:36 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2033,6 +2033,18 @@ Samsung将于2月25日发布Galaxy S26系列旗舰手机，受到业内广泛关
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-16/audio.mp3" length="6872301" type="audio/mpeg"/>
       <itunes:duration>07:09</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 15:01:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球科技巨头股价下跌AI投资回报率引担忧</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来重要的全球科技和产业动态，主要内容包括：
+
+全球科技巨头股价显著下跌，Microsoft和Amazon市值大幅缩水，而TSMC和Samsung因AI硬件需求上涨。15家科技巨头在慕尼黑成立“Trusted Tech Alliance”，以增强数据透明度和安全标准。安全公司iVerify报告新型间谍软件ZeroDayRAT通过Telegram出售，引发广泛关注。AI推动美国乡村建设超级数据中心，引发经济与环境争议。美国律所对Oracle提起证券欺诈诉讼，关注其财报与AI转型披露。爱尔兰对X旗下AI聊天机器人Grok启动调查，涉及未成年人数据合规。以色列农业利用Oracle平台实现数字化转型。投诉称Walgreens销售塑料餐具存在误导性标签，案件进入合议程序。感谢收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">daec4530-dd73-4eeb-9fb9-041e42d01d8a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-17/audio.mp3" length="7668909" type="audio/mpeg"/>
+      <itunes:duration>07:59</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 15:02:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
