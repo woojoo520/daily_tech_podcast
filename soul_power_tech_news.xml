@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Feb 2026 07:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:02:09 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 17 Feb 2026 15:02:36 +0800</pubDate>
+    <pubDate>Wed, 18 Feb 2026 15:01:45 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2045,6 +2045,18 @@ Samsung将于2月25日发布Galaxy S26系列旗舰手机，受到业内广泛关
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-17/audio.mp3" length="7668909" type="audio/mpeg"/>
       <itunes:duration>07:59</itunes:duration>
       <pubDate>Tue, 17 Feb 2026 15:02:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>Peter Thiel退出以太坊投资反映加密市场谨慎态度</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技动态，内容包括：
+
+科技亿万富翁Peter Thiel及其Founders Fund全退出以太坊财库公司ETHZilla，分析认为此举反映出对加密产业的谨慎态度。热门游戏《ARC Raiders》对大规模作弊行为进行处罚，相关事件引发社区讨论。Apple股票回落，但市场看好其AI布局，预计将迎来爆发期。好莱坞并购战升级，Warner Bros.与Paramount Skydance重启谈判。知名品牌因高关税政策预警涨价，业内对未来价格策略分歧明显。Palantir因财报优异获“买入”评级，市场对AI需求持乐观态度。全球经济对AI影响引发关注，专家呼吁谨慎评估。村田制作所股票创52周新高，显示半导体行业强劲。澳大利亚数据平台遭泄露事件引发安全关注，数字安全成为企业新挑战。West Pharmaceutical宣布10亿美元回购计划，反映对业务信心。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">0b77c810-9914-4229-a005-4262a3ef099a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-18/audio.mp3" length="9141165" type="audio/mpeg"/>
+      <itunes:duration>09:31</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 15:01:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
