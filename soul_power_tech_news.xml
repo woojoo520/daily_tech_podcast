@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 18 Feb 2026 07:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:02:13 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 18 Feb 2026 15:01:45 +0800</pubDate>
+    <pubDate>Thu, 19 Feb 2026 15:01:49 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2057,6 +2057,27 @@ Samsung将于2月25日发布Galaxy S26系列旗舰手机，受到业内广泛关
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-18/audio.mp3" length="9141165" type="audio/mpeg"/>
       <itunes:duration>09:31</itunes:duration>
       <pubDate>Wed, 18 Feb 2026 15:01:45 +0800</pubDate>
+    </item>
+    <item>
+      <title>印度崛起成为全球新一代人工智能中心</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技动态，主要内容包括：  
+印度宣布成为新一代人工智能中心，与Google、Microsoft、Nvidia达成合作，推动AI基础设施与产业升级。  
+Tesla推出Cybercab自动化出租车，预计售价不超过30,000美元，挑战传统自动驾驶模式。  
+Google正式发布Pixel 10a智能手机，着重AI相机功能，旨在与即将发布的苹果新品竞争。  
+OpenAI即将完成1000亿美元的融资，推动全球AI基础设施建设进程。  
+Meta与Nvidia签署战略合作，将加大AI芯片部署力度，扩建数据中心以强化AI能力。  
+Snap的付费订阅服务实现年化收入超10亿美元，成为新的增长点。  
+AI初创公司Legora融资4亿美元引发行业关注，市场对AI替代软件服务的担忧加剧。  
+Apple的市场波动与AI投资趋势形成鲜明对比，成为避险资产。  
+Mintos申请欧洲央行银行牌照，向数字银行服务转型。  
+DBS与Visa推出亚太首个AI代理支付试点，提升交易效率与安全性。  
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3d97ca14-7ccc-4ddf-91bd-0439582bee44</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-19/audio.mp3" length="8868717" type="audio/mpeg"/>
+      <itunes:duration>09:14</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 15:01:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
