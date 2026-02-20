@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Feb 2026 07:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:02:16 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 19 Feb 2026 15:01:49 +0800</pubDate>
+    <pubDate>Fri, 20 Feb 2026 15:02:01 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2078,6 +2078,16 @@ DBS与Visa推出亚太首个AI代理支付试点，提升交易效率与安全�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-19/audio.mp3" length="8868717" type="audio/mpeg"/>
       <itunes:duration>09:14</itunes:duration>
       <pubDate>Thu, 19 Feb 2026 15:01:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球投资者忧虑AI洗牌两创始人身家大幅缩水</title>
+      <description><![CDATA[本期Soul Power Tech News带来最新商业科技动态。亚洲股市因伊朗局势紧张普遍下跌，MSCI亚太指数下滑0.4%，唯独韩国市场逆势上涨2.1%。油价触及半年新高，市场避险情绪上升。同时，印度AI Impact Summit则因嘉宾缺席和组织问题备受关注，影响了其全球形象。Broadcom面临客户集中风险，AI营收虽增，但长期挑战显现。美国金融市场整体下行，企业财报和宏观不确定性施压。Carvana股价因竞争加剧而暴跌，Microsoft则看好其未来技术性反弹。AI在职场的引入带来人本挑战，企业需重视员工培训与人际关系维护。欢迎收听更多精彩内容！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">6f9685d7-ba16-47f0-8cec-3e1f7ca34271</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-20/audio.mp3" length="8930349" type="audio/mpeg"/>
+      <itunes:duration>09:18</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 15:02:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
