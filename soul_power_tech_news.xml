@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Feb 2026 07:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 07:02:26 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 21 Feb 2026 15:01:54 +0800</pubDate>
+    <pubDate>Sun, 22 Feb 2026 15:01:58 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2100,6 +2100,36 @@ Tesla一名因车祸责任案遭其推翻裁决请求被美国法官拒绝，该
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-21/audio.mp3" length="8001261" type="audio/mpeg"/>
       <itunes:duration>08:20</itunes:duration>
       <pubDate>Sat, 21 Feb 2026 15:01:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI将推出ChatGPT广告业务引发行业变革</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来重要的科技动态，内容包括：
+
+OpenAI 宣布将在 ChatGPT 平台推出广告业务，以便品牌直接与AI对话进行广告投放。与此同时，Anthropic对这一模式发起嘲讽，引发双方在行业内的激烈讨论。
+
+ChatPlayground AI 平台上线，结合多种主流大语言模型，用户可在同一界面下对比AI回答，提升内容创作效率。
+
+研究团队揭露三款密码管理器存在严重漏洞，导致用户密码安全隐患，引发行业警醒。
+
+WordPress 发布全新AI助手，简化网页编辑流程，助力用户低门槛地管理网站内容。
+
+全球科技巨头正转向轻量级AR眼镜，意在创造更实用的可穿戴设备。
+
+Honeywell考虑退出对英国催化剂业务收购，影响市场信心。
+
+Oracle因财报问题遭投资者集体诉讼，指控其误导投资者，对AI项目的前景表示担忧。
+
+比特币矿业公司Cipher Mining转型布局AI高性能计算，受到投行看好。
+
+Smart Digital Group Ltd.因市场操纵面临集体欺诈诉讼，提醒投资者警惕风险。
+
+YouTube为Apple Vision Pro推出原生App，提升平台体验。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">16fd23f1-5940-48e2-b22d-b34463f1d894</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-22/audio.mp3" length="9733293" type="audio/mpeg"/>
+      <itunes:duration>10:08</itunes:duration>
+      <pubDate>Sun, 22 Feb 2026 15:01:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
