@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Feb 2026 07:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 07:02:38 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 22 Feb 2026 15:01:58 +0800</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:02:12 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2130,6 +2130,20 @@ YouTube为Apple Vision Pro推出原生App，提升平台体验。欢迎收听！
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-22/audio.mp3" length="9733293" type="audio/mpeg"/>
       <itunes:duration>10:08</itunes:duration>
       <pubDate>Sun, 22 Feb 2026 15:01:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apple推出可穿戴AI设备开启视觉智能新时代</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新科技动态，内容包括：
+
+Apple加速推出可穿戴AI设备，首款支持视觉智能的AirPods和智能眼镜预计年内发布，挑战Meta等竞品。OpenAI CEO在印度AI峰会强调AGI接近，呼吁全球建立AI监管框架。美国国防部与Anthropic之间因AI军事应用而发生冲突，可能影响未来供应链。Google发布中端Pixel 10a手机，瞄准价格敏感用户市场。TechCrunch Disrupt 2026大会将于10月举行，关注生成式AI等热点。Netflix收购Warner Bros.引发行业对垄断的广泛争议。美股市场聚焦Nvidia等公司的财报，市场情绪受到经济数据影响。Google加大对AI芯片市场的竞争力度，意图挑战Nvidia。巴西燃油企业发生爆炸事故，影响市场供应链。美国养老机构引入机器人助理应对护理员短缺，提升服务效率。
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">08ed8a2e-90d4-4c01-bede-8f3043e70fc4</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-23/audio.mp3" length="8508717" type="audio/mpeg"/>
+      <itunes:duration>08:51</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 15:02:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
