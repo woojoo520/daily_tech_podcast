@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Feb 2026 07:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:02:39 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 23 Feb 2026 15:02:12 +0800</pubDate>
+    <pubDate>Tue, 24 Feb 2026 15:02:14 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2144,6 +2144,18 @@ Apple加速推出可穿戴AI设备，首款支持视觉智能的AirPods和智能
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-23/audio.mp3" length="8508717" type="audio/mpeg"/>
       <itunes:duration>08:51</itunes:duration>
       <pubDate>Mon, 23 Feb 2026 15:02:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球股市大跌821点 AI冲击与关税不确定性升温</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2026年2月24日的科技动态，主要内容包括：
+
+全球股市因AI冲击与新关税政策的不确定性而大幅下跌，Dow Jones工业指数重挫821.91点。Phantom加密钱包宣布进军全链市场，用户已达1600万，挑战Coinbase等老牌玩家。比特币价格跌破6.5万美元，市场对风险资产的抛售加剧。Amazon在路易斯安那州投资120亿美元建设数据中心，促进当地就业。美国GE被推举为AI革命受益者，通过大规模引入AI工具提升生产效率。NASA通过立法保障商用卫星数据采购，促进太空商业生态。欧洲汽车制造商在高科技转型中遭遇挑战，德国大众等面临业绩压力。奥迪任命新技术总监以推动转型。日本村田制造因AI需求攀升创股市新高。SiriusXM CEO将于重要大会分享音频行业的AI创新与挑战。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">a86bc68a-b39b-439f-ad74-28a35d651866</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-24/audio.mp3" length="9068589" type="audio/mpeg"/>
+      <itunes:duration>09:26</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 15:02:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
