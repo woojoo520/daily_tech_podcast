@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 Feb 2026 07:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:04:26 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 24 Feb 2026 15:02:14 +0800</pubDate>
+    <pubDate>Wed, 25 Feb 2026 15:04:11 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2156,6 +2156,18 @@ Apple加速推出可穿戴AI设备，首款支持视觉智能的AirPods和智能
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-24/audio.mp3" length="9068589" type="audio/mpeg"/>
       <itunes:duration>09:26</itunes:duration>
       <pubDate>Tue, 24 Feb 2026 15:02:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>Meta与AMD达成千亿AI芯片战略合作</title>
+      <description><![CDATA[本期Soul Power Tech News带来了今日科技商业动态，涵盖以下内容：
+
+Meta与AMD达成超过1,000亿美元的AI芯片合作协议，推动其AI业务升级。全球AI支付标准的建立正在加速，由OpenAI、Google等主导，金融科技巨头纷纷加入。小鹏汽车等企业致力于Robotaxi和物理AI全球化的战略目标。AI产业需求激增推动高端材料供应链，村田等公司受益匪浅。Palantir凭借其AI平台在全球市场表现强劲，但长期估值风险遭到质疑。特斯拉在欧洲市场注册量大幅下滑，比亚迪快速增长。AI监管话题频繁升温，加拿大对OpenAI等公司施加监管压力。PureblueAI清蓝在AI营销领域获市场认可，展现出强大的技术能力。整体来看，AI及其相关技术正引领新一轮商业与市场变革，值得关注。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">994e61e9-a0d3-4388-9348-1d58fb3621af</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-25/audio.mp3" length="8924589" type="audio/mpeg"/>
+      <itunes:duration>09:17</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 15:04:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
