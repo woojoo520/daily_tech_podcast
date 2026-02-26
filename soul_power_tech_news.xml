@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Feb 2026 07:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 07:02:46 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 25 Feb 2026 15:04:11 +0800</pubDate>
+    <pubDate>Thu, 26 Feb 2026 15:02:22 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2168,6 +2168,16 @@ Meta与AMD达成超过1,000亿美元的AI芯片合作协议，推动其AI业务�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-25/audio.mp3" length="8924589" type="audio/mpeg"/>
       <itunes:duration>09:17</itunes:duration>
       <pubDate>Wed, 25 Feb 2026 15:04:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>Nvidia财报超预期AI业务成增长引擎</title>
+      <description><![CDATA[本期Soul Power Tech News主要报道了一系列科技领域的重要动态：Nvidia发布的财报超出预期，季度营收达到681.3亿美元，AI芯片需求旺盛；Meta与AMD签署价值最高1000亿美元的AI芯片合作协议，同时扩大对Nvidia的采购；三星推出全新Galaxy S26系列手机，集成先进AI助手；Salesforce财报显示AI驱动的业务增长显著；美国科技巨头将在东大领导人主持下签署“AI数据中心供电责任”协议；Anthropic发布新AI插件，令市场对生产力有了新期待；此外，日产汽车在美市场推出新SUV战略以应对竞争。欢迎继续关注科技前沿动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">b8dbe1dc-a789-47d8-9cfd-6783ec9a26eb</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-26/audio.mp3" length="8891181" type="audio/mpeg"/>
+      <itunes:duration>09:15</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 15:02:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
