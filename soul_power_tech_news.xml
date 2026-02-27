@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Feb 2026 07:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 07:02:33 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 26 Feb 2026 15:02:22 +0800</pubDate>
+    <pubDate>Fri, 27 Feb 2026 15:02:14 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2178,6 +2178,28 @@ Meta与AMD达成超过1,000亿美元的AI芯片合作协议，推动其AI业务�
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-26/audio.mp3" length="8891181" type="audio/mpeg"/>
       <itunes:duration>09:15</itunes:duration>
       <pubDate>Thu, 26 Feb 2026 15:02:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球智能手机市场面临史上最大萎缩</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来全球科技动态的重点新闻，包括：
+
+全球智能手机市场面临创纪录的萎缩，预计2026年出货量将大跌12.9%。AI芯片热潮导致存储芯片短缺，核心元件价格上涨，低端品牌受影响较大。
+
+Nvidia最新财报超预期，尽管股价短暂上涨后却下跌超5.5%，市场对AI驱动增长的可持续性产生了怀疑。科技股估值面临压制。
+
+美国参议院通过新法案应对未成年人网络犯罪，为AI相关的新型犯罪设立明确罪名。立法显示对AI社会化风险的关注加重。
+
+Netflix宣布退出竞购Warner Bros. Discovery，选择放弃当前市场溢价的交易。
+
+此外，PeopleIN完成对Infrawork的收购，增强在基建领域的人才供应能力。
+
+明天节目再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">586935e0-e50a-4df3-8465-123a95addb16</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-27/audio.mp3" length="8469549" type="audio/mpeg"/>
+      <itunes:duration>08:49</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 15:02:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
