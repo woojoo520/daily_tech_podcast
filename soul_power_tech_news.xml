@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Feb 2026 07:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 07:02:13 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 28 Feb 2026 15:01:51 +0800</pubDate>
+    <pubDate>Sun, 01 Mar 2026 15:01:50 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2205,13 +2205,25 @@ Netflix宣布退出竞购Warner Bros. Discovery，选择放弃当前市场溢价
       <title>Netflix理性撤退股价大涨10%铺路本业专注</title>
       <description><![CDATA[本期Soul Power Tech News为您带来重要商业科技动态，包括：
 
-Netflix正式退出对Warner Bros. Discovery的收购竞价，股价大涨超10%。Nvidia公布财政季度再创高，但股价因市场对AI投资回报的不确定性大跌超过5%。美股S&P 500与Nasdaq创下最大单月跌幅，科技股受到AI炒作降温影响下跌。AbbVie在田纳西州的法律挑战遭驳回，凸显340B药品折扣项目的法律复杂性。Duolingo股价大跌近20%，因新转型战略影响短期收入增长。OpenAI获得1100亿美元新融资，估值高达7300亿美元，推动AI发展向基础生产力转型。Harvey在挪威律所实现全员级应用，标志法律服务领域AI转型新趋势。Block公司宣布裁员4000人，引发对AI对就业影响的担忧。BellRing Brands因未披露库存问题面临集体诉讼，Ardent Health也遇到投资人诉讼，凸显行业治理面临挑战。]]></description>
+Netflix正式退出对Warner Bros. Discovery的收购竞价，股价大涨超10%。Nvidia公布财政季度再创高，但股价因市场对AI投资回报的不确定性大跌超过5%。美股S&amp;P 500与Nasdaq创下最大单月跌幅，科技股受到AI炒作降温影响下跌。AbbVie在田纳西州的法律挑战遭驳回，凸显340B药品折扣项目的法律复杂性。Duolingo股价大跌近20%，因新转型战略影响短期收入增长。OpenAI获得1100亿美元新融资，估值高达7300亿美元，推动AI发展向基础生产力转型。Harvey在挪威律所实现全员级应用，标志法律服务领域AI转型新趋势。Block公司宣布裁员4000人，引发对AI对就业影响的担忧。BellRing Brands因未披露库存问题面临集体诉讼，Ardent Health也遇到投资人诉讼，凸显行业治理面临挑战。]]></description>
       <itunes:author>woojoo</itunes:author>
       <author>name='woojoo' email='woojoo10@outlook.com'</author>
       <guid isPermaLink="false">3528c05d-321d-418b-a58e-e6c8d19063de</guid>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-02-28/audio.mp3" length="8476461" type="audio/mpeg"/>
       <itunes:duration>08:49</itunes:duration>
       <pubDate>Sat, 28 Feb 2026 15:01:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI获1100亿美元融资引发业界热议</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来最新的商业科技动态，内容包括：
+
+OpenAI宣布获得Amazon、Nvidia和SoftBank共计1100亿美元融资，并与Amazon达成战略合作，但与Microsoft的核心合作关系维持不变。东大领导人表示与Pentagon的合作旨在缓和行业紧张，设定三条道德红线。智能安防领域，Ring与Flock终止合作，聚焦用户隐私。而在证券市场，Cipher Mining被降级为“强烈卖出”，投资者需谨慎。Oddity Tech和Helen of Troy面临潜在证券法违规调查，呼吁投资者维护权益。MWC即将开启，预计发布创新产品，Galaxy Unpacked将推出新款手机。最后，Newark机场将试点自动驾驶巴士，推动整体智能化转型。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ec2c2f31-3da8-4d35-8eda-8a6925b6cbbb</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-01/audio.mp3" length="8669421" type="audio/mpeg"/>
+      <itunes:duration>09:01</itunes:duration>
+      <pubDate>Sun, 01 Mar 2026 15:01:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
