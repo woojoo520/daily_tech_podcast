@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 01 Mar 2026 07:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:06:15 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 01 Mar 2026 15:01:50 +0800</pubDate>
+    <pubDate>Mon, 02 Mar 2026 15:05:51 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2224,6 +2224,18 @@ OpenAI宣布获得Amazon、Nvidia和SoftBank共计1100亿美元融资，并与Am
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-01/audio.mp3" length="8669421" type="audio/mpeg"/>
       <itunes:duration>09:01</itunes:duration>
       <pubDate>Sun, 01 Mar 2026 15:01:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>英国四大会计师事务所聚焦蓝筹客户引发行业担忧</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新商业科技动态，主要内容包括：
+
+英国四大会计师事务所聚焦蓝筹企业审计，逐渐减少中小型客户，行业竞争与审计质量引发关注（Bloomberg Law）；AI倦怠现象影响知识型行业，企业需重新评估AI工具使用（Forbes）；美国SGS集团收购Granite River Labs，增强数据连接测试能力（TradingView/Reuters）；加密行业合规化进展明显，机构参与门槛降低（Markets Insider）；Honor发布创新“机器人手机”，展示消费电子微创新能力（TechCrunch）；AI对美股估值结构产生重大影响，市场波动明显（Reuters、Business Insider）；长城汽车销量下滑面临多重挑战（TradingView、Marketscreener）；Tech Mahindra与Orange Business达成战略合作，推动数字化转型（scanX、Investing）；阿里巴巴面临证券欺诈调查，市场对此保持警惕（GlobeNewswire、Marketscreener）。敬请关注明天的科技播报！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">f8b75863-4624-4302-a089-933c53bfcbe9</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-02/audio.mp3" length="9721197" type="audio/mpeg"/>
+      <itunes:duration>10:07</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 15:05:51 +0800</pubDate>
     </item>
   </channel>
 </rss>
