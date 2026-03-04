@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Mar 2026 07:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 08:25:22 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 02 Mar 2026 15:05:51 +0800</pubDate>
+    <pubDate>Wed, 04 Mar 2026 16:24:50 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2236,6 +2236,29 @@ OpenAI宣布获得Amazon、Nvidia和SoftBank共计1100亿美元融资，并与Am
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-02/audio.mp3" length="9721197" type="audio/mpeg"/>
       <itunes:duration>10:07</itunes:duration>
       <pubDate>Mon, 02 Mar 2026 15:05:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI投融资热潮席卷全球风险市场</title>
+      <description><![CDATA[本期Soul Power Tech News带来2026年3月4日的全球科技动态。重点新闻包括：
+
+1. OpenAI、Anthropic和Waymo在2月主导全球风险投资，三家公司合计获得1560亿美元融资，体现出AI领域的资本集中趋势。
+2. 亚马逊在中东数据中心遭无人机袭击，云服务中断，显示云基础设施的地缘风险。
+3. 防务科技公司Anduril正在进行大规模融资，显示AI驱动的军工技术的市场潜力。
+4. Meta旗下Facebook和Instagram发生大规模宕机事件，揭示对分布式云基础设施的依赖风险。
+5. TikTok因Oracle云服务故障遭遇第二次服务中断，运营稳定性面临挑战。
+6. Paramount+与HBO Max计划合并，意在对抗流媒体市场竞争。
+7. GitLab财报显示营收增长，但预警未来增速放缓。
+8. AI投融资热潮加剧，引发行业对潜在泡沫的担忧。
+9. 美国国会将讨论未成年人在线保护法案，政策落实面临分歧。
+10. Google宣布1850亿美元的AI基础设施投资，表明其对未来市场的重视。
+
+敬请关注最新科技动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1a9dc826-d680-4830-987e-ab3391617c34</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-04/audio.mp3" length="9299565" type="audio/mpeg"/>
+      <itunes:duration>09:41</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 16:24:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
