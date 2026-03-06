@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 Mar 2026 07:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 07:02:15 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 05 Mar 2026 15:02:06 +0800</pubDate>
+    <pubDate>Fri, 06 Mar 2026 15:01:50 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2271,6 +2271,27 @@ Tecno在巴塞罗那移动通信大会上推出多款超薄概念手机，展示
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-05/audio.mp3" length="8482221" type="audio/mpeg"/>
       <itunes:duration>08:50</itunes:duration>
       <pubDate>Thu, 05 Mar 2026 15:02:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>Oracle裁员千人冲击AI扩张计划</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来重要科技动态，内容包括：
+
+- Oracle宣布裁员上千人，因AI扩张计划影响现金流。
+- 印度TCS与全球云厂商深入谈判，计划扩建AI数据中心，预计到2030年需求达10GW。
+- 美国政府拟出台严厉的AI芯片出口管制草案，将加强对出口审批的干预。
+- 荷兰支付公司Silverflow完成4000万美元融资，计划拓展东南亚与北美市场。
+- Microsoft推出AI内容溯源系统，旨在应对深度伪造和内容失真问题。
+- Google报告显示，2025年企业级系统成为黑客零日漏洞攻击重灾区。
+- 美国社交平台面临大规模未成年人社交成瘾诉讼，可能面临数十亿美元赔偿。
+- AI初创公司Narada因客户驱动策略迅速崛起，专注于解决数据孤岛等问题。
+- 欧洲独角兽Personio强调AI应赋能员工而非替代。
+- 芯片商Marvell公布财报大幅超预期，股价上涨10%。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">d0ec0640-e3f6-4a8c-a080-9ad3aa0f6f5e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-06/audio.mp3" length="6675885" type="audio/mpeg"/>
+      <itunes:duration>06:57</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 15:01:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
