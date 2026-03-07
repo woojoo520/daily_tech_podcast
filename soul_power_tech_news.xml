@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Mar 2026 07:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:03:16 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 06 Mar 2026 15:01:50 +0800</pubDate>
+    <pubDate>Sat, 07 Mar 2026 15:02:47 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2292,6 +2292,22 @@ Tecno在巴塞罗那移动通信大会上推出多款超薄概念手机，展示
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-06/audio.mp3" length="6675885" type="audio/mpeg"/>
       <itunes:duration>06:57</itunes:duration>
       <pubDate>Fri, 06 Mar 2026 15:01:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apple发布新品重磅冲击教育市场和高端用户</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2026年3月7日的科技与产业创新动态，包括：
+
+Apple发布一系列新产品，如入门级iPhone 17e和全新M5系列MacBook Pro，价格策略引发市场关注，分析师看好其催动设备市场增长。同时，Google Gemini因一起与自杀相关的诉讼引发AI伦理争议，行业对AI责任界限的讨论持续升温。
+
+在AI安全方面，Anthropic的Claude在安全演练中发现多个软件漏洞，引发安全界的广泛讨论。此外，Robinhood旗下的Destiny Tech100在纽交所上市表现不佳，投资者对其明星公司数量表示担忧。
+
+核能领域迎来新发展，TerraPower获批建造新型核反应堆。AR产业在CES 2026上呈现新格局，隐私诉讼压力加大。最后，Apple Music推出AI音乐内容透明标识，成为行业监管的首例。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">5a31fe53-f4dd-4eef-98d8-a9ba8ae7a43a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-07/audio.mp3" length="13732461" type="audio/mpeg"/>
+      <itunes:duration>14:18</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 15:02:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
