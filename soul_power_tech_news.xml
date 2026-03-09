@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Mar 2026 07:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 06:02:45 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 08 Mar 2026 15:01:52 +0800</pubDate>
+    <pubDate>Mon, 09 Mar 2026 14:02:26 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2331,6 +2331,29 @@ Apple发布一系列新产品，如入门级iPhone 17e和全新M5系列MacBook P
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-08/audio.mp3" length="8768493" type="audio/mpeg"/>
       <itunes:duration>09:07</itunes:duration>
       <pubDate>Sun, 08 Mar 2026 15:01:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apple发布全新MacBook Neo引发热议</title>
+      <description><![CDATA[本期Soul Power Tech News为你带来全球重要科技新闻摘要，涵盖：
+
+1. Apple推出全新MacBook Neo，定价599美元，搭载A18 Pro芯片，尤为注目。
+2. 创业公司Integral AI与日本工业巨头合作，力求为机器人赋能AI学习能力。
+3. VolvoSupport的Holyvolt收购Wildcat Discovery Technologies，以推动高性能电池材料的商业化。
+4. 针对Nvidia的估值讨论持续，部分分析师认为其股价被低估。
+5. PayPal因财务信息不实面临集体诉讼，市场关注其治理改革。
+6. Sequel Med Tech和Multiverse Computing强化性别多元化战略，提升企业竞争力。
+7. 澳大利亚Saviynt公司聚焦AI代理安全问题，行业呼吁应加强相关合规管理。
+8. Kalshi平台转型，旨在吸引女性用户，扩展预测市场。
+9. 参议员Bernie Sanders的财富税议案引发两极分化争议。
+10. 东大领导人强调科技与经济规划，推动高端芯片技术与创新。
+
+更多动态敬请关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">c262f5b8-a40c-4a18-9b85-14f2bf09b76e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-09/audio.mp3" length="7012269" type="audio/mpeg"/>
+      <itunes:duration>07:18</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 14:02:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
