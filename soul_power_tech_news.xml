@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Mar 2026 06:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:02:28 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 09 Mar 2026 14:02:26 +0800</pubDate>
+    <pubDate>Tue, 10 Mar 2026 14:02:04 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2354,6 +2354,16 @@ Apple发布一系列新产品，如入门级iPhone 17e和全新M5系列MacBook P
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-09/audio.mp3" length="7012269" type="audio/mpeg"/>
       <itunes:duration>07:18</itunes:duration>
       <pubDate>Mon, 09 Mar 2026 14:02:26 +0800</pubDate>
+    </item>
+    <item>
+      <title>硅谷推出AI监控畜牧机器人引领农业科技变革</title>
+      <description><![CDATA[本期Soul Power Tech News为您呈现重要商业科技动态。首先，Nuwa Agricultural Technology发布了首款“清洁+AI监控”畜牧机器人，推动农业数字化发展。其次，墨西哥政府确认遭黑客利用生成式AI模型攻击，数据泄露事件引发广泛关注。与此同时，荷兰和德国安全部门警告俄罗斯黑客在加密通信APP进行新一轮钓鱼攻击，强调用户认知的防御重要性。中国Shenzhen对开源AI Agent项目OpenClaw推出政策支持，相关上市公司股价上涨。Oracle发布财报前景和AI云业务进展引发市场分歧。此外，有关Bill Gates捐赠转基因作物的谣言被证实为误传。健康科技公司LeanTaaS展示了AI优化医护资源配置的解决方案，展现出人机协作的新趋势。最后，亚马逊讨论应对AI服务中断事件，凸显AI运维中的系统复杂性和风险。感谢收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">d555b1b9-67df-4d95-bea4-2a22064307ec</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-10/audio.mp3" length="8055405" type="audio/mpeg"/>
+      <itunes:duration>08:23</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 14:02:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
