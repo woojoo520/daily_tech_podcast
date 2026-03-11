@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Mar 2026 06:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 06:02:22 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 10 Mar 2026 14:02:04 +0800</pubDate>
+    <pubDate>Wed, 11 Mar 2026 14:02:04 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2364,6 +2364,16 @@ Apple发布一系列新产品，如入门级iPhone 17e和全新M5系列MacBook P
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-10/audio.mp3" length="8055405" type="audio/mpeg"/>
       <itunes:duration>08:23</itunes:duration>
       <pubDate>Tue, 10 Mar 2026 14:02:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>华盛顿州全面禁止非竞争协议或将激励创新</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技动态。首先，关于Elon Musk收购Twitter案进展，他的首席律师因保密原则限制证词，引发投资者对其言论可靠性的质疑。华盛顿州通过禁止“非竞争”协议的新法案，将为员工提供更大的自由选择，促进创新。网络安全方面，假冒数据泄露通知激增，媒体提醒用户要谨慎核查。Deutsche Bank看涨美国与欧洲科技板块，尤其对软件行业抱有信心。AI独角兽Anthropic因拒绝五角大楼合作提起诉讼，引发对AI伦理的广泛讨论。科技企业Google与Tesla等成立新组织，推动电网技术更新。Ford推出新AI对话机器人，标志着车企向智能化转型的加速。LogicMonitor利用AI推动“自治IT”发展。值得注意的是，年轻AI创业者正快速崛起，打破传统商业模式。最后，AI聊天机器人广告变现模式仍在探索之中，引发行业关注。感谢您的收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">a4c2b473-5a06-49dc-a1b1-7c7bdbfce7d4</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-11/audio.mp3" length="7697133" type="audio/mpeg"/>
+      <itunes:duration>08:01</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 14:02:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
