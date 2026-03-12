@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 11 Mar 2026 06:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:03:16 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 11 Mar 2026 14:02:04 +0800</pubDate>
+    <pubDate>Thu, 12 Mar 2026 14:02:47 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2374,6 +2374,18 @@ Apple发布一系列新产品，如入门级iPhone 17e和全新M5系列MacBook P
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-11/audio.mp3" length="7697133" type="audio/mpeg"/>
       <itunes:duration>08:01</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 14:02:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>Framework清仓促销低价SSD，消费者最后窗口期</title>
+      <description><![CDATA[本期Soul Power Tech News带来最新商业科技动态，包括：
+
+Framework因芯片危机清仓促销SSD，价格低于市场标准，消费者如需大容量存储需抓紧机会。FuelPositive因审计延误发布管理层停牌令，专注绿色氨技术。Gordon Rees Scully Mansukhani招募新合伙人以增强法律服务能力。ATCO获批回购计划以提高股东回报。美国法院对律师引用虚构案例发出警告，强调核查责任。南非新鲜农产品价格大幅上涨，气候因素影响供应。美国新型金属分离技术研究引发讨论，可能改变采矿产业格局。Orrick律所加强硅谷技术交易团队，显示法律与科技融合趋势。Portnoy Law Firm对Camping World提起集体诉讼，涉及信息披露问题和市场误导。Hackett发布春夏系列广告，强调男性成长理念，契合高净值消费者需求。感谢收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">472cbb82-fdea-4929-bbf9-b8e29b6ca1c5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-12/audio.mp3" length="9341037" type="audio/mpeg"/>
+      <itunes:duration>09:43</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 14:02:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
