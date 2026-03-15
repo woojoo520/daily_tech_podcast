@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Mar 2026 06:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:02:12 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 14 Mar 2026 14:03:02 +0800</pubDate>
+    <pubDate>Sun, 15 Mar 2026 14:01:47 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2421,6 +2421,16 @@ Murata Manufacturing在美股空头仓位增加，反映市场对于半导体和
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-14/audio.mp3" length="8364717" type="audio/mpeg"/>
       <itunes:duration>08:42</itunes:duration>
       <pubDate>Sat, 14 Mar 2026 14:03:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>Android漏洞威胁8.75亿手机成“60秒黑客”攻击目标</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来今日重要科技动态，内容包括：全球约8.75亿部Android手机受新的安全漏洞威胁，Google已发布补丁修复。Elon Musk的“X Money”平台将于4月上线，引发市场关注。Apple新推出的“MacBook Neo”以599美元的价格震撼预算型电脑市场，获得高度评价。OpenAI硬件负责人辞职，因对伦理审查不满引发信任危机。Meta可能进行大规模裁员，影响逾20%员工。美军与Anduril签署200亿美元军工技术合同，推动数字化战场。Apple的iPhone 17e与Google Pixel 10a竞争激烈，后者未搭载MagSafe无线充电引发质疑。此外，Uber推出女性专属服务，增强女性用户安全感。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">e108ce30-6a6f-4b94-9ff6-504421ccb219</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-15/audio.mp3" length="6702957" type="audio/mpeg"/>
+      <itunes:duration>06:58</itunes:duration>
+      <pubDate>Sun, 15 Mar 2026 14:01:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
