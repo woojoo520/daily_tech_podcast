@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Mar 2026 06:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 06:03:13 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 15 Mar 2026 14:01:47 +0800</pubDate>
+    <pubDate>Mon, 16 Mar 2026 14:02:49 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2431,6 +2431,18 @@ Murata Manufacturing在美股空头仓位增加，反映市场对于半导体和
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-15/audio.mp3" length="6702957" type="audio/mpeg"/>
       <itunes:duration>06:58</itunes:duration>
       <pubDate>Sun, 15 Mar 2026 14:01:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apple Liquid Glass设计语言稳步前行 AI功能整合是关键</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来与科技和商业密切相关的动态，您将会听到：
+
+Apple在即将发布的iOS 27中继续保留Liquid Glass设计语言，短期内不进行大改动，主攻AI功能整合。Netflix在奥斯卡颁奖典礼上获多项大奖，显示其原创影片的艺术成就，但在最佳影片竞逐中仍败给Apple的《CODA》。ByteDance的AI视频生成模型Seedance 2.0因版权问题暂停发布，反映出国际市场对AI产品监管的趋严。Meta可能进行史上最大规模的裁员，转型为AI优先公司。此外，Apple推出MacBook Neo，目标直击中低端市场，而LVMH支持的基金则在日本设立专项基金，展现对消费品牌的长期看好。Google在YouTube上测试AI生成儿童视频内容，引发伦理讨论。Nvidia即将召开全球技术大会，展示AI硬件新战略。整体科技市场正在经历深刻变革与挑战。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">438e48ef-00f1-4e7d-aaf2-cdb8dc07ce60</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-16/audio.mp3" length="10473453" type="audio/mpeg"/>
+      <itunes:duration>10:54</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 14:02:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
