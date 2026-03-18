@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Mar 2026 06:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:02:58 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 17 Mar 2026 14:02:38 +0800</pubDate>
+    <pubDate>Wed, 18 Mar 2026 14:02:41 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2455,6 +2455,36 @@ Apple在即将发布的iOS 27中继续保留Liquid Glass设计语言，短期内
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-17/audio.mp3" length="9273069" type="audio/mpeg"/>
       <itunes:duration>09:39</itunes:duration>
       <pubDate>Tue, 17 Mar 2026 14:02:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>Nvidia一年内订单预计达1万亿美元引发市场热议</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来重要的商业科技动态，内容如下：
+
+Nvidia CEO在GTC 2026大会上宣布公司预计未来一年订单金额将达到1万亿美元，凸显AI服务器市场的爆炸性增长与云计算行业的引导作用。
+
+OpenAI的全员大会上，高层表示将加大企业级业务拓展并筹备IPO进程，强调企业市场的重要性。
+
+Intel发布新一代处理器后股价大幅下跌，主要由于产品性能未达预期及供应链压力。
+
+Okta股价跌至历史低点，分析认为尽管基本面良好，短期业绩指引未达市场预期。
+
+加州新“真回收”标签法案引发行业协会起诉，涉及环保与商业自由的广泛争议。
+
+Wired杂志在新总编带领下，从“科技乐观主义”转向“深度调查”，吸引了新的读者群体。
+
+CoachHub推出AI教练平台，旨在提升企业人才发展效率。
+
+Cango公司由传统车贷转向比特币挖矿，市场对其激进转型表示关注。
+
+King & Spalding律所新聘专利诉讼律师以增强其法律服务能力。
+
+Micron股价刷新52周新高，得益于AI芯片与存储市场需求持续增长。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3669646c-aa45-4c4e-910c-18eb4d28dab6</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-18/audio.mp3" length="9261549" type="audio/mpeg"/>
+      <itunes:duration>09:38</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 14:02:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
