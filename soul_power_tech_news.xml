@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 06:04:07 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 30 Mar 2026 14:03:33 +0800</pubDate>
+    <pubDate>Tue, 31 Mar 2026 14:03:41 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2577,6 +2577,22 @@ Enphase Energy与Ramaco Resources遭遇集体诉讼，尚在初步阶段。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-30/audio.mp3" length="8830701" type="audio/mpeg"/>
       <itunes:duration>09:11</itunes:duration>
       <pubDate>Mon, 30 Mar 2026 14:03:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>新泽西最高法院辩论AI源代码披露法律事务</title>
+      <description><![CDATA[本期Soul Power Tech News带来一系列关乎科技与法律的最新动态，值得关注：
+
+新泽西州最高法院对AI源代码在法律案件中的披露展开辩论，可能为行业带来更严格的限制，科技公司应对其知识产权和安全风险表示担忧。三星Galaxy S25系列将在即将更新中推送AI智能来电筛查功能，以提升用户骚扰电话防护。加州州长签署人工智能行政命令，要求AI企业遵循新安全规定，反映出技术监管的前沿趋势。
+
+苹果AI系统在未获审批的情况下意外上线大陆，迅速关闭引发监管关注。微软因Windows 11更新失败紧急中止分发，显示出质量控制问题仍需改进。Axios包遭供应链攻击引发安全警觉，开发者需加强对开源依赖的维护。硅谷AI初创公司转向高薪现金抢夺顶尖人才，显示行业的激烈竞争。X平台起诉广告主反垄断诉讼遭驳回，影响其IPO进程。Dixon获得印度制造批文，标志着本地化供应链的加速形成。
+
+关注这些动态，纵观科技、法律与市场的交错发展！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">25fecdeb-b497-45dd-832b-00a96f7238b3</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-31/audio.mp3" length="7807149" type="audio/mpeg"/>
+      <itunes:duration>08:07</itunes:duration>
+      <pubDate>Tue, 31 Mar 2026 14:03:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
