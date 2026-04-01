@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 31 Mar 2026 06:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:02:33 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 31 Mar 2026 14:03:41 +0800</pubDate>
+    <pubDate>Wed, 01 Apr 2026 14:02:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2593,6 +2593,18 @@ Enphase Energy与Ramaco Resources遭遇集体诉讼，尚在初步阶段。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-03-31/audio.mp3" length="7807149" type="audio/mpeg"/>
       <itunes:duration>08:07</itunes:duration>
       <pubDate>Tue, 31 Mar 2026 14:03:41 +0800</pubDate>
+    </item>
+    <item>
+      <title>AWS推出自动运维AI代理引领行业变革</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来近期与科技和商业相关的重要动态，您将听到：
+
+AWS正式推出两款针对企业级AI自动运维的新产品，旨在推动全面运营转型。Google因隐私案需支付4.404亿美元赔偿，并面临高额律师费的争议，引发法律界热议。语音AI公司Speechify发布Windows原生App，实现全功能离线语音转写，推动本地计算能力进步。硅谷女创业者Claire Vo通过AI团队以低成本实现B2B软件公司自动化，激发业界对AI创业的讨论。科技行业的“极客饮食黑客”潮流逐渐兴起，但也引发了关于健康和实验风险的关注。此外，Unimech Aerospace股价下滑，行业分析认为需关注主流资产的稳定性。最后，NBA比赛和MLB赛季开打也引起了广泛关注。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">165cf567-133f-42eb-ae75-f3cd0ef25e72</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-01/audio.mp3" length="8231085" type="audio/mpeg"/>
+      <itunes:duration>08:34</itunes:duration>
+      <pubDate>Wed, 01 Apr 2026 14:02:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
