@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Apr 2026 06:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 06:02:56 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 01 Apr 2026 14:02:07 +0800</pubDate>
+    <pubDate>Thu, 02 Apr 2026 14:02:30 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2605,6 +2605,26 @@ AWS正式推出两款针对企业级AI自动运维的新产品，旨在推动全
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-01/audio.mp3" length="8231085" type="audio/mpeg"/>
       <itunes:duration>08:34</itunes:duration>
       <pubDate>Wed, 01 Apr 2026 14:02:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>亚马逊流媒体专利诉讼部分胜诉案件转移新州</title>
+      <description><![CDATA[本期Soul Power Tech News为您总结今日重要科技动态：
+
+亚马逊在一项流媒体专利诉讼中获得胜诉，案件将转移至新泽西州，集中于其云计算部门。这一判决引发行业关注，可能改变大型科技公司在专利诉讼中的策略。
+
+与此同时，百度的无人驾驶出租车在武汉发生系统故障，车辆失控引发交通混乱，此事件再次引发了对自动驾驶安全性的讨论。
+
+Genius Group则因应数字货币市场低迷，出售全部比特币头寸，反映出行业信心下降。
+
+此外，年轻人之间兴起的怀旧“模拟经济”趋势，使得他们主动减少社交媒体使用，回归线下体验，市场规模逐渐增加。
+
+最后，私募投资公司Eir Partners向健康科技企业注资，以应对医疗数据增长的需求。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">890b9524-1cf3-49fb-b9ba-0a7b47f226ba</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-02/audio.mp3" length="7854381" type="audio/mpeg"/>
+      <itunes:duration>08:10</itunes:duration>
+      <pubDate>Thu, 02 Apr 2026 14:02:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
