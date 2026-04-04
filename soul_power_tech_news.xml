@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 Apr 2026 06:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 06:02:50 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 03 Apr 2026 14:02:02 +0800</pubDate>
+    <pubDate>Sat, 04 Apr 2026 14:02:23 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2648,6 +2648,29 @@ PharmaEssentia在波多黎各投资新生产基地，增强全球供应链。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-03/audio.mp3" length="8191341" type="audio/mpeg"/>
       <itunes:duration>08:31</itunes:duration>
       <pubDate>Fri, 03 Apr 2026 14:02:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI高层调整引发行业广泛关注与分析</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来以下重点新闻：
+
+OpenAI高层调整，COO转岗新项目，市场负责人因健康辞职，分析人士关注内部变动对公司战略的影响。
+Meta在VR头显专利诉讼中未获提前终止裁决，法官认为需进一步厘定专利术语，对VR/AR专利战的影响引发讨论。
+美国CFTC首次以法律手段反击地方对预测市场的监管权，该案将影响数字衍生品生态。
+Meta开启智能眼镜预售，激发数据隐私热议，业界关注用户数据监管与隐私控制。
+全球律师事务所知识产权业务收入增长，反映法律科技融合的新格局。
+Sanofi面临药物诉讼难以免责，行业对药品安全合规关注加剧。
+美国职场化学品安全监管权引发争论，亟需完善机构协作机制。
+FBI警告用户注意境外应用的数据隐私风险，提醒下载官方应用。
+达拉斯小牛队在场馆权益争议中胜诉，影响体育商业地产纠纷。
+CFTC对预测市场监管规则的修订引发关注，反映监管与市场创新的博弈。
+
+欢迎明天继续关注我们的科技动态！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">bd7623e8-44f6-49b3-b64c-551d9f9093e3</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-04/audio.mp3" length="9807597" type="audio/mpeg"/>
+      <itunes:duration>10:12</itunes:duration>
+      <pubDate>Sat, 04 Apr 2026 14:02:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
