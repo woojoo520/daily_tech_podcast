@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Apr 2026 06:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 06:02:36 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 05 Apr 2026 14:02:03 +0800</pubDate>
+    <pubDate>Mon, 06 Apr 2026 14:02:08 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2697,6 +2697,32 @@ Lion Energy与台湾CPC签署合作协议，预计在印尼投资勘探。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-05/audio.mp3" length="9663597" type="audio/mpeg"/>
       <itunes:duration>10:03</itunes:duration>
       <pubDate>Sun, 05 Apr 2026 14:02:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>大学生主导国际行动成功阻断全球恶性僵尸网络</title>
+      <description><![CDATA[本期Soul Power Tech News将带您关注最新科技动态，包括：
+
+一位美国大学生主导的全球恶意软件僵尸网络阻断行动，显示跨国合作在打击网络犯罪的有效性。
+
+OpenAI和Anthropic计划首次公开募股，尽管其估值可观，但日益高昂的算力需求引发盈利模式担忧。
+
+Samsung Galaxy S26系列手机因更新滞后和画质问题引发用户不满，官方表示将通过补丁修复。
+
+Apple新产品动态，包括iPhone 18 Pro与首款可折叠手机，其市场策略的调整引发关注。
+
+自动驾驶技术面临安全挑战，Baidu的Robotaxi大规模故障凸显行业潜在风险。
+
+Gmail首次允许用户更改邮箱用户名，以适应不同生活阶段。
+
+NASA通过iPhone 17 Pro Max记录宇航员在太空的瞬间，标志着消费级影像技术的进步。 
+
+欢迎继续关注我们的科技新闻！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">02f84fed-7ca6-42c2-bc20-bf13e429e824</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-06/audio.mp3" length="8220141" type="audio/mpeg"/>
+      <itunes:duration>08:33</itunes:duration>
+      <pubDate>Mon, 06 Apr 2026 14:02:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
