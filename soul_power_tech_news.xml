@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Apr 2026 06:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:02:51 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 08 Apr 2026 14:02:22 +0800</pubDate>
+    <pubDate>Thu, 09 Apr 2026 14:02:25 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2749,6 +2749,16 @@ AI巨头采取公关策略，以应对公众对人工智能的担忧，并推出
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-08/audio.mp3" length="8809389" type="audio/mpeg"/>
       <itunes:duration>09:10</itunes:duration>
       <pubDate>Wed, 08 Apr 2026 14:02:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>Meta发布AI巨作Muse Spark股价飙升九成</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来全球科技领域的最新动态。Meta正式发布首个大模型AI产品Muse Spark，股价飙升9%，显示出该公司在AI领域的强劲回归。Sullivan & Cromwell律师事务所的“科技+数字基础设施”并购与融资业务年度规模已突破1万亿美元。AI法律科技公司Patlytics则获得4,000万美元B轮融资，显示出法律AI行业的新机会。美国最大雇主Littler Mendelson设立AI首席官一职，推动律所的AI转型。此外，当前科技估值已跌至低点，投资者面临新机会与潜在风险。全球金融市场情绪改善，且大宗商品与核心通胀风险依然存在。更多精彩动态，敬请关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">dfa6023b-247c-49fa-8450-89bea650cfa9</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-09/audio.mp3" length="7432173" type="audio/mpeg"/>
+      <itunes:duration>07:44</itunes:duration>
+      <pubDate>Thu, 09 Apr 2026 14:02:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
