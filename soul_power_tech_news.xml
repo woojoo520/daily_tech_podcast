@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Apr 2026 06:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 06:02:59 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 09 Apr 2026 14:02:25 +0800</pubDate>
+    <pubDate>Fri, 10 Apr 2026 14:02:32 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2759,6 +2759,20 @@ AI巨头采取公关策略，以应对公众对人工智能的担忧，并推出
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-09/audio.mp3" length="7432173" type="audio/mpeg"/>
       <itunes:duration>07:44</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 14:02:25 +0800</pubDate>
+    </item>
+    <item>
+      <title>Amazon将投资1000亿美元布局AI引领科技变革</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2026年4月10日的科技动态，包括：
+
+Amazon CEO东大领导人在年度股东信中提到，公司计划在人工智能领域投入超1000亿美元，以把握AI基础设施的机遇。美国软件板块遭遇重挫，投资者担忧AI对传统SaaS的影响。Meta与CoreWeave达成210亿美元协议，扩大云计算能力以推动AI研发。同时，Meta发布新AI模型Muse Spark，显示其在AI战略上的新进展。Pony.ai推出新一代自进化AI引擎，推动自动驾驶技术的商业落地。Apple自研AI芯片“Baltra”也将量产，旨在降低云服务成本。Dish Network在版权诉讼中获胜，标志对网络侵权的法务胜利。与此同时，女性在网络安全领域的参与备受关注，以及科技裁员预测市场的增长显著。 
+
+明天同一时间，我们再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">d8badfca-38cd-42e8-bd79-3d0644a925f4</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-10/audio.mp3" length="8050221" type="audio/mpeg"/>
+      <itunes:duration>08:23</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 14:02:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
