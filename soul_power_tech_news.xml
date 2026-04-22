@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:02:46 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 21 Apr 2026 14:02:05 +0800</pubDate>
+    <pubDate>Wed, 22 Apr 2026 14:02:19 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -2935,6 +2935,26 @@ XPENG展示其ARIDGE飞行汽车与IRON人形机器人，强调“物理AI”的
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-21/audio.mp3" length="7512813" type="audio/mpeg"/>
       <itunes:duration>07:49</itunes:duration>
       <pubDate>Tue, 21 Apr 2026 14:02:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>Google因专利侵权面临Athena诉讼引关注</title>
+      <description><![CDATA[本期Soul Power Tech News为您呈现2026年4月22日的重要新闻动态，包括：  
+美国Athena Security起诉Google侵犯多项专利，要求经济赔偿并停止相关产品使用；  
+Google与Alphabet Workers Union针对“联合雇主”裁定在不同法院上诉，围绕劳务关系与雇主责任展开法律博弈；  
+Anthropic的网络安全模型Mythos遭未授权访问，导致全球金融监管机构加强风险防控措施；  
+华尔街分析师对Apple的长期客户优先策略给予高度评价，但对价格上涨表示担忧；  
+知名律所因AI生成错误案例道歉，反映行业对AI应用的合规审查新挑战；  
+J.P. Morgan上调标普500指数目标，分析师对AI带来的市场变化看法不一；  
+Microsoft宣布下调Xbox Game Pass Ultimate价格，以应对用户反应和市场竞争；  
+Steptoe律师事务所新增合伙人，显示法律行业对合规人才的需求加速；  
+美国法院裁定USA Weightlifting获得商标胜诉，表明法律界对商标保护的重视；  
+第七巡回法院维持“性知识课堂教学禁令”，强化保守派州对教育内容的立法权力。感谢您的收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8426f29e-7c54-4df5-8cff-8b6ec4b2dc13</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-22/audio.mp3" length="8895213" type="audio/mpeg"/>
+      <itunes:duration>09:15</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 14:02:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
