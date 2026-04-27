@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Apr 2026 06:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:02:13 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 26 Apr 2026 14:02:05 +0800</pubDate>
+    <pubDate>Mon, 27 Apr 2026 14:01:48 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3009,6 +3009,16 @@ Alphabet将对AI公司Anthropic进行高达400亿美元的潜在投资，推动A
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-26/audio.mp3" length="10168749" type="audio/mpeg"/>
       <itunes:duration>10:35</itunes:duration>
       <pubDate>Sun, 26 Apr 2026 14:02:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>亚洲半导体行业迎来历史性盈利高峰</title>
+      <description><![CDATA[本期Soul Power Tech News的主要内容包括：SpeakOn公司推出的语音转写设备引发关注，但功能体验待改善。Vast Data CEO指出AI成为产业变革基础，而AI的渗透也带来了员工认知疲劳。Murata Manufacturing遭遇空头头寸激增，引发市场担忧。美国YouTuber展示中国新能源车的高性价比，提升外界对中国电动车的认知。西雅图市通过新税法案支持公共图书馆数字化转型。科技巨头将于“科技超级星期三”发布季度财报，市场预期面临重要变动。尽管出口管制对中国AI芯片行业形成压力，但其大模型技术仍显显著突破。亚洲半导体行业创历史高峰，受AIGC需求驱动，同时需警惕供应链波动。最后，媒体强调中美科技企业在推动全球投资方面的赛道格局。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">39edcb5a-3af9-4d94-9ea4-886978fa02da</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-27/audio.mp3" length="6741549" type="audio/mpeg"/>
+      <itunes:duration>07:01</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 14:01:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
