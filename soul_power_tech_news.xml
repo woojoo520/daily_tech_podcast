@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Apr 2026 06:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:02:23 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 28 Apr 2026 14:02:43 +0800</pubDate>
+    <pubDate>Wed, 29 Apr 2026 14:01:57 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3030,6 +3030,22 @@ Qualcomm股价因与OpenAI及联发科的合作大涨13%；微软与OpenAI调整
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-28/audio.mp3" length="9761517" type="audio/mpeg"/>
       <itunes:duration>10:10</itunes:duration>
       <pubDate>Tue, 28 Apr 2026 14:02:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI巨头财报季来临聚焦技术与资本开支</title>
+      <description><![CDATA[本期Soul Power Tech News聚焦于全球商业科技动态，主要新闻包括：
+
+全球投资者紧盯Big Tech财报，Microsoft、Alphabet、Meta和Amazon即将发布Q1业绩，资本开支预计高达6450亿美元。GoTo集团CFO表示金融科技是其核心增长引擎，特别是在印尼。
+
+美国地质调查局报告显示，阿巴拉契亚地区发现230万吨可开采锂矿资源，可能显著提高美国新能源供应链的独立性。与此同时，法院对Musk诉OpenAI案的审理进行警告，强调保持法庭外舆论的中立。
+
+Snap与投资者达成6500万美元和解，案例彰显平台透明度的重要性。Red Hat推出开放源代码工具提升AI安全能力，而Nvidia在AI需求推动下的表现备受关注。最后，SpaceX完成火箭发射前检查，准备发射新卫星，Snapchat推新AI互动广告，标志社交广告变革。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8f8d7fb7-989e-42ae-aa1e-a901b70e1dc4</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-29/audio.mp3" length="9093357" type="audio/mpeg"/>
+      <itunes:duration>09:28</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 14:01:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
