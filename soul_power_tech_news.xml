@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 06:02:06 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 29 Apr 2026 14:01:57 +0800</pubDate>
+    <pubDate>Thu, 30 Apr 2026 14:01:41 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3046,6 +3046,20 @@ Snap与投资者达成6500万美元和解，案例彰显平台透明度的重要
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-29/audio.mp3" length="9093357" type="audio/mpeg"/>
       <itunes:duration>09:28</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 14:01:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI战略再审视 AI创新面临重大挑战</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来与科技和商业紧密相关的最新动态，内容包括：
+
+OpenAI高层重新审视其“全安全”算力战略，担忧这一策略影响创新与资源利用。Seagate季度营收同比增长44.1%，股价上涨超过10%，AI需求推动数据存储行业繁荣。美国四大科技公司业绩亮眼，尤其是AI驱动业绩显著增长。Pershing Square成功上市，市场关注其创新结构。AI公司Anthropic正在商谈新融资，估值达9000亿美元，超越OpenAI。Meta一季度收入暴增33%，加大AI数据中心建设。Alphabet净利润跳升81%，云业务强劲增长。加州监管机构向SpaceX道歉，科技与政府关系迎转机。Pennsylvania州考虑对数字广告征税，或引发大科技公司的法律诉讼。AI行业估值竞赛加速，吸引各大科技公司的资本投入。
+
+感谢您的收听，我们明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">6373dfee-1c01-40a1-9e69-67a48762f5e8</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-04-30/audio.mp3" length="7500141" type="audio/mpeg"/>
+      <itunes:duration>07:48</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 14:01:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
