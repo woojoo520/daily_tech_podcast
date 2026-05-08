@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 07 May 2026 06:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 06:02:38 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 07 May 2026 14:03:31 +0800</pubDate>
+    <pubDate>Fri, 08 May 2026 14:02:11 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3191,6 +3191,29 @@ Legora完成三项并购，标志着法律科技行业AI平台融合的趋势。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-07/audio.mp3" length="11116269" type="audio/mpeg"/>
       <itunes:duration>11:34</itunes:duration>
       <pubDate>Thu, 07 May 2026 14:03:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>女性向AI平台Janitor AI日活跃用户达250万</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新科技动态，内容包括：
+
+1. Janitor AI成为全球最大女性向AI平台，日活跃用户达250万，因其创新的互动角色扮演吸引众多女性用户。
+2. Amazon推出性价比高的Blink Wired Doorbell 2K+智能门铃，售价仅39.99美元，冲击中高端市场。
+3. AI推动美国科技行业裁员再创新高，Meta、Microsoft等公司纷纷优化可被AI替代的岗位。
+4. 美国国会讨论加密货币监管法案“Clarity Act”，或推动加密市场法制化，尚存方案分歧。
+5. enGene的基因疗法在膀胱癌临床试验中取得良好结果，未来或推动FDA新药上市申请。
+6. M-tron Industries第一季度财报向好，显示高技术制造领域的韧性。
+7. 德国推动药品降价，可能影响全球医药创新动力，引发美国关注。
+8. 斯德哥尔摩被称为全球最热创业城市，吸引众多国际创业者和资本。
+9. Bungie新游戏“Marathon”推出争议平权模式，试图提升新手体验。
+10. 青少年企业家Justin Calabrese因成功电商业务引发关注，展现数字原住代的创业潜力。
+
+感谢您的收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">d4c3801e-4612-4cce-8f3d-a7391c02628e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-08/audio.mp3" length="10165869" type="audio/mpeg"/>
+      <itunes:duration>10:35</itunes:duration>
+      <pubDate>Fri, 08 May 2026 14:02:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
