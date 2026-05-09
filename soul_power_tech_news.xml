@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 08 May 2026 06:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 06:02:36 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 08 May 2026 14:02:11 +0800</pubDate>
+    <pubDate>Sat, 09 May 2026 14:02:09 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3214,6 +3214,30 @@ Legora完成三项并购，标志着法律科技行业AI平台融合的趋势。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-08/audio.mp3" length="10165869" type="audio/mpeg"/>
       <itunes:duration>10:35</itunes:duration>
       <pubDate>Fri, 08 May 2026 14:02:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>Intel与Apple达成芯片合作协议股价暴涨14%</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来重要的商业科技动态，包括：
+
+Intel与Apple达成芯片制造初步协议，Intel股价大涨近14%，预计将增强美国的本土半导体制造能力。
+
+共享出行公司Lime递交IPO申请，尽管营收同比增长，仍面临高负债和持续亏损的挑战。
+
+在线教育平台Canvas遭遇大规模勒索攻击，导致多所学校服务中断并造成学生数据泄露。
+
+Apple CEO正式卸任，由硬件负责人接任，未来将专注于AI和硬件转型。
+
+Nvidia与Corning宣布合作在美建造光学制造工厂，旨在促进AI基础设施。
+
+全球芯片股因美需求激增而大幅上涨，同时引发对市场泡沫的持续讨论。
+
+请继续关注我们的节目，获取最新行业分析！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">5fa5a4c8-70c5-471f-b2b3-1f66b80f538b</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-09/audio.mp3" length="8011629" type="audio/mpeg"/>
+      <itunes:duration>08:20</itunes:duration>
+      <pubDate>Sat, 09 May 2026 14:02:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
