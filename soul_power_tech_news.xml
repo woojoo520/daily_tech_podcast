@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 13 May 2026 06:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 06:02:40 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 13 May 2026 14:02:13 +0800</pubDate>
+    <pubDate>Thu, 14 May 2026 14:02:14 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3299,6 +3299,24 @@ Apple推出新广告活动，探讨压力与创造力之间的关系。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-13/audio.mp3" length="9202797" type="audio/mpeg"/>
       <itunes:duration>09:35</itunes:duration>
       <pubDate>Wed, 13 May 2026 14:02:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI芯片巨头Cerebras将闪耀纳斯达克创历史新高</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来2026年5月14日的商业科技动态，主要内容包括：
+
+Deepwater Asset Management的Gene Munster预测，AI板块将在未来几年为投资者带来可观回报，尽管部分科技股出现短暂回调，但行业基本面支撑依旧强劲。此外，美国参议院银行委员会通过Kevin Warsh担任美联储主席的提名，引发市场广泛关注。
+
+美股继续突破历史新高，AI和半导体板块表现抢眼。Cerebras即将上市，成为2026年最大科技IPO之一，面临着市场消化能力的挑战。
+
+与此同时，法院裁定AI“洗白”构成实质违规，提升了资本市场的投融资门槛。美国证监会提出新规，允许上市企业选择按半年披露财报，引发各方热议。
+
+最后，Roblox遭到用户家长起诉，关注青少年权益保护问题。Musk与OpenAI的法律案件亦在持续发酵，未来将对AI产业治理产生深远影响。欢迎明天再见！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">b9303f28-1ba7-4c04-b07d-24d5f24bcd6c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-14/audio.mp3" length="7928685" type="audio/mpeg"/>
+      <itunes:duration>08:15</itunes:duration>
+      <pubDate>Thu, 14 May 2026 14:02:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
