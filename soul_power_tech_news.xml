@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 15 May 2026 06:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 06:02:26 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 15 May 2026 14:02:23 +0800</pubDate>
+    <pubDate>Sat, 16 May 2026 14:02:01 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3331,6 +3331,16 @@ Apple与OpenAI的战略合作出现严重分歧，双方考虑法律诉讼，核
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-15/audio.mp3" length="10289709" type="audio/mpeg"/>
       <itunes:duration>10:43</itunes:duration>
       <pubDate>Fri, 15 May 2026 14:02:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>SpaceX即将上市 目标估值高达1.75万亿美元</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技商业动态。GitLab宣布将启动大规模重组并裁员高达30%，引发对远程公司的探讨。SpaceX确认将于6月12日进行IPO，目标估值1.75万亿美元，成为潜在最大规模上市。知名对冲基金经理Bill Ackman对Microsoft增持，认为其在AI新周期中前景可期。共享单车巨头Lime完成Nasdaq上市，但面临盈利挑战。安永撤回一项AI相关研究报告，暴露AI应用中的问题。AI芯片独角兽Cerebras上市表现火爆，显示资本市场对AI基础设施的高需求。全新“AI集成商”团队在国会游说，推动AI政策的制定。FOX News Digital连续刷新数字平台访问量，依然领先市场。Starbucks计划在印度设立科技中心，推动数字化转型。美股科技板块领跌，市场情绪受到多重因素影响。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">6cc905f2-633c-415c-916d-10e115ad48c5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-16/audio.mp3" length="9812205" type="audio/mpeg"/>
+      <itunes:duration>10:13</itunes:duration>
+      <pubDate>Sat, 16 May 2026 14:02:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
