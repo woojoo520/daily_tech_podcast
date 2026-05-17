@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 16 May 2026 06:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 06:02:14 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 16 May 2026 14:02:01 +0800</pubDate>
+    <pubDate>Sun, 17 May 2026 14:01:48 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3341,6 +3341,26 @@ Apple与OpenAI的战略合作出现严重分歧，双方考虑法律诉讼，核
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-16/audio.mp3" length="9812205" type="audio/mpeg"/>
       <itunes:duration>10:13</itunes:duration>
       <pubDate>Sat, 16 May 2026 14:02:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>空气制水科技突破 缓解全球水危机</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技动态，内容包括：
+
+1. 由于伊朗战争，空气制水技术受到关注，美国初创公司Atoco展示了日产4000升饮用水的机器，解决全球缺水问题。
+2. 全球企业高管利用AI重塑医疗和制造流程，普遍认为AI提升人类能力而非取代工人。
+3. 光学技术产业成为AI投资新风口，光通讯技术有望突破算力瓶颈，助力数据传输。
+4. Stripe探讨代理式电商对互联网的变革，强调品牌需优化产品数据以适应AI代理。
+5. 加拿大C-22提案引发国际科技公司与VPN厂商警告，担忧影响数字经济。
+6. 华盛顿地区科技岗位激增，AI投资显著影响就业和GDP统计。
+7. 各地新闻涵盖科技在灾难应急与社会治理中的作用，表明技术创新的重要性。
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">7ff8d5bb-3caf-4513-8f32-bcd2aca9e99e</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-17/audio.mp3" length="8495469" type="audio/mpeg"/>
+      <itunes:duration>08:50</itunes:duration>
+      <pubDate>Sun, 17 May 2026 14:01:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
