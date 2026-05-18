@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 17 May 2026 06:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 06:03:09 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 17 May 2026 14:01:48 +0800</pubDate>
+    <pubDate>Mon, 18 May 2026 14:02:45 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3361,6 +3361,34 @@ Apple与OpenAI的战略合作出现严重分歧，双方考虑法律诉讼，核
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-17/audio.mp3" length="8495469" type="audio/mpeg"/>
       <itunes:duration>08:50</itunes:duration>
       <pubDate>Sun, 17 May 2026 14:01:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>Swatch与AP联名怀表全球狂潮引发购物热潮！</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新科技动态，内容包括：
+
+Apple通过“次级”芯片的巧妙利用，成功推出了广受市场欢迎的599美元MacBook Neo，但这一策略也引发了对品牌形象的担忧。
+
+Alphabet推出的AI原生笔记本“Googlebook”以Gemini AI为核心，预示着PC硬件生态的重大变革，市场对其前景持乐观态度。
+
+美国油价高企促使民众转向公共交通，实现客流量增长，专家认为需提升服务水平以维持用户。
+
+TSMC的减持并未影响市场信心，长期前景仍被看好。
+
+Swatch与Audemars Piguet的联名怀表引发抢购热潮，展示了奢侈品牌与大众市场的融合。
+
+伦敦的出租车行业正面临AI Robotaxi的挑战，司机们对此有不同看法。
+
+旧金山某校通过AI推进教育改革，提升学习效率，但仍需注意情感和隐私问题。
+
+SpaceX计划IPO，目标估值高达1.75万亿美元，可能影响相关科技公司的估值。
+
+最后，美国科技股在AI热潮中经历波动，市场对未来表现持谨慎态度。感谢收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">d150fe41-9cd2-4d37-9695-a914d24802c7</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-18/audio.mp3" length="8387757" type="audio/mpeg"/>
+      <itunes:duration>08:44</itunes:duration>
+      <pubDate>Mon, 18 May 2026 14:02:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
