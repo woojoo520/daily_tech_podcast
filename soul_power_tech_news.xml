@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 06:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:02:50 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 26 May 2026 14:02:01 +0800</pubDate>
+    <pubDate>Wed, 27 May 2026 14:02:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3455,6 +3455,18 @@ Regencell Bioscience因信息披露问题面临集体诉讼，企业透明度受
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-26/audio.mp3" length="7871085" type="audio/mpeg"/>
       <itunes:duration>08:11</itunes:duration>
       <pubDate>Tue, 26 May 2026 14:02:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apple新iPhone或实现卫星通信重大突破</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来一系列令人振奋的商业科技新闻：  
+
+SpaceX在5月26日进行了第12次Starship火箭测试，尽管火箭在海上着陆阶段爆炸，但相关企业股价短时间上涨，显示市场信心。关于“Magnificent 7”指数，美国多家媒体呼吁将Microsoft移除，称其在AI革命中掉队。Apple计划在下一代iPhone 18 Pro中引入卫星通信功能，可能改变高端手机市场。Euronext CEO拒绝了300亿美元的收购，强调独立思考的重要性。同时，Lenovo在AI服务器领域获益明显，全球私募股权基金正在改变律师行业生态。美国电网现代化面临两党分歧。Startup Battlefield竞赛鼓励创新团队参赛，而AI发展的伦理问题依旧引发热议。最后，West Red Lake Gold Mines发布财报，业绩向好，市场前景看好。欢迎关注！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">b47717b4-8d1b-43da-9b81-31da19311462</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-05-27/audio.mp3" length="8602029" type="audio/mpeg"/>
+      <itunes:duration>08:57</itunes:duration>
+      <pubDate>Wed, 27 May 2026 14:02:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
