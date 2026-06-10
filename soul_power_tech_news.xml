@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 09 Jun 2026 06:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 06:02:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 09 Jun 2026 14:02:42 +0800</pubDate>
+    <pubDate>Wed, 10 Jun 2026 14:01:52 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3634,6 +3634,36 @@ Apple在WWDC 2026发布了Siri和Apple Intelligence的重大升级，预示其AI
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-09/audio.mp3" length="11918061" type="audio/mpeg"/>
       <itunes:duration>12:24</itunes:duration>
       <pubDate>Tue, 09 Jun 2026 14:02:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>英国高校计划2035年前将创新投资翻倍</title>
+      <description><![CDATA[本期Soul Power Tech News将为您带来最新的商业科技动态，内容包括：
+
+英国高校联盟Universities UK在科技周宣布计划到2035年前将创新领域对外投资翻倍，旨在摆脱“中等创新陷阱”。
+
+苹果公司宣布，新的Siri AI将不会在欧盟推出，此举与欧盟的《数字市场法》有关，引发隐私和监管的争议。
+
+苹果更新开发者政策，可能将未更新及用户活跃度低的应用下架，旨在提升App Store的内容质量。
+
+美股科技股遭遇抛售，尤其是芯片领域波动剧烈，分析师对此持不同看法。
+
+远程办公被指提高工作效率但加剧员工孤独感，引发对企业心理健康资源配套的讨论。
+
+“FAANG”已被“MANGOS”取代，新兴科技公司的崛起引起关注，同时也存在就业压力与集中过度的风险。
+
+医疗科技公司MiniMed在胰岛素自动输送系统领域取得进展，可能改善糖尿病患者的生活。
+
+西雅图物流公司Expeditors International裁员230名技术员工，反映行业市场变动与成本控制问题。
+
+iOS 27尚有多项隐藏功能被曝光，继续提升用户体验。
+
+Nvidia RTX 50 Super系列显卡计划如期上市，市场对其性能存疑。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">7924bf5a-73b3-4445-8a7c-293296fe26b2</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-10/audio.mp3" length="6993261" type="audio/mpeg"/>
+      <itunes:duration>07:17</itunes:duration>
+      <pubDate>Wed, 10 Jun 2026 14:01:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
