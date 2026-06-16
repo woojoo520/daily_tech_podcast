@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Jun 2026 06:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 06:02:43 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 15 Jun 2026 14:02:13 +0800</pubDate>
+    <pubDate>Tue, 16 Jun 2026 14:02:18 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3734,6 +3734,29 @@ Verra Mobility Corporation面临集体诉讼，因涉嫌证券欺诈及对业务
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-15/audio.mp3" length="8854317" type="audio/mpeg"/>
       <itunes:duration>09:13</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 14:02:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>SpaceX创全球最大IPO 马斯克成首位万亿富豪</title>
+      <description><![CDATA[本期Soul Power Tech News将为您呈现2026年6月16日的重要科技动态，具体内容包括：
+
+1. SpaceX在纳斯达克成功上市，市值突破2.1万亿美元，成为全球最大IPO，首日股价上涨超19%。
+2. 美国与伊朗达成临时和平协议，国际油价下跌，股市上涨，缓解国际通胀压力。
+3. 英国计划立法禁止16岁以下青少年使用主流社交媒体，旨在保护心理健康。
+4. 纽约和新泽西州提出对大型科技公司加强监管的法案，围绕数据隐私和反垄断形成激烈讨论。
+5. 受益于SpaceX上市和国际局势缓和，高科技和半导体类股全面上涨。
+6. 欧洲军工巨头Rheinmetall推出新型分布式燃料自给系统。
+7. Fox Corp计划以220亿美元收购流媒体公司Roku，重塑行业格局。
+8. Erasca公司遭遇证券欺诈集体诉讼，股价波动明显。
+9. Braemar Hotels股东质疑董事会利益输送，聚焦公司治理问题。
+10. AI技术在电商领域的应用提升了消费者体验，同时引发隐私和算法透明性争议。
+
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">82b34a3a-61ab-42d4-a622-782211679f2f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-16/audio.mp3" length="7594605" type="audio/mpeg"/>
+      <itunes:duration>07:54</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 14:02:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
