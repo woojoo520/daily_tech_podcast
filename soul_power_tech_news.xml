@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 16 Jun 2026 06:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:02:47 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 16 Jun 2026 14:02:18 +0800</pubDate>
+    <pubDate>Wed, 17 Jun 2026 14:02:22 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3757,6 +3757,27 @@ Verra Mobility Corporation面临集体诉讼，因涉嫌证券欺诈及对业务
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-16/audio.mp3" length="7594605" type="audio/mpeg"/>
       <itunes:duration>07:54</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 14:02:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>SpaceX收购AI平台股票大涨成市值第六大公司</title>
+      <description><![CDATA[本期Soul Power Tech News带来以下商业科技动态：
+
+1. SpaceX收购AI平台Cursor后股价涨近50%，市值达2.64万亿美元，市场对其AI业务前景看好，但分析师提出警告称公司估值可能过高。
+2. Rivian宣布裁员不到2%，聚焦于盈利与自动驾驶研发，同时与Uber达成购车协议。
+3. Allergan Aesthetics推出首款获FDA批准的颈部透明质酸注射剂，填补市场空白。
+4. “Magnificent 7”不再独占AI投资风头，研究机构推出“FAB 10”新组合，显示市场偏好变化。
+5. SoftBank与OpenAI推出AI安全解决方案，增强日本企业网络安全。
+6. Snap发布全新Specs AR智能眼镜，定价2195美元，试图在高端市场中占据一席之地。
+7. Nvidia与Coherent合作扩建新工厂，推动美国AI基建与制造业复兴。
+8. Anthropic的“危险AI”营销引发市场广泛讨论，被视为突破性的商业策略。
+9. Max Resource与Bolt Metals完成债务清算，增持股份，关注南美大宗商品市场变化。
+10. Dr Martens CEO增持公司股票，显示对业绩持续增长的信心。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1098f34b-92fd-404b-8e26-466f59ce96b9</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-17/audio.mp3" length="7959213" type="audio/mpeg"/>
+      <itunes:duration>08:17</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 14:02:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
