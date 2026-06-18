@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Jun 2026 06:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 06:02:37 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 17 Jun 2026 14:02:22 +0800</pubDate>
+    <pubDate>Thu, 18 Jun 2026 14:02:12 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3778,6 +3778,18 @@ Verra Mobility Corporation面临集体诉讼，因涉嫌证券欺诈及对业务
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-17/audio.mp3" length="7959213" type="audio/mpeg"/>
       <itunes:duration>08:17</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 14:02:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>人工智能重塑课堂教育引发激烈讨论</title>
+      <description><![CDATA[本期Soul Power Tech News为您带来最新科技与财经动态，包括：
+
+美国教育系统对人工智能在课堂应用的讨论加剧，教师和家长对其影响表示担忧，AI教育工具的使用引发了激烈辩论。德克萨斯州法院判决一加密货币挖矿公司获赔1,100万美元，显示区块链法律纠纷的复杂性。澳大利亚政府拟改革资本利得税，引发公众对资产评估的关注。东大领导人与AI公司之间的出口管制问题，揭示技术监管的矛盾。Acer试图推翻专利侵权判决却遭驳回，反映知识产权保护趋紧。美国教育专家倡导加强青少年AI素养。澳大利亚临时签证持有者数量激增，影响劳动力市场。最后，Hilton因营销合规问题面临集体诉讼。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ae4853b8-26a8-408e-8934-4cec75622142</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-18/audio.mp3" length="7197741" type="audio/mpeg"/>
+      <itunes:duration>07:29</itunes:duration>
+      <pubDate>Thu, 18 Jun 2026 14:02:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
