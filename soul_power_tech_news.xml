@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Jun 2026 06:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 06:02:54 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 18 Jun 2026 14:02:12 +0800</pubDate>
+    <pubDate>Fri, 19 Jun 2026 14:02:28 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3790,6 +3790,16 @@ Verra Mobility Corporation面临集体诉讼，因涉嫌证券欺诈及对业务
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-18/audio.mp3" length="7197741" type="audio/mpeg"/>
       <itunes:duration>07:29</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 14:02:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球关键矿产链紧张局势加剧G7与东大争锋</title>
+      <description><![CDATA[本期Soul Power Tech News关注以下关键动态：全球关键矿产链局势紧张，东大领导人敦促G7尊重市场原则，而G7正计划扩展对稀土等资源的监测。量子科技公司BTQ Technologies启动增发融资计划以增强资金灵活性，尽管近期财务表现不佳。比特币挖矿经济性恶化，新的供应压力可能导致价格波动。佛罗里达高校与企业深度对接，重塑专业课程以适应AI和网络安全需求。美国主要股指反弹，科技板块助力，尤其是与Apple合作的Intel股价大涨。微软和谷歌均发布AI相关新功能，推动产业应用发展。苹果Vision Pro及Meta Quest平台迎来重大更新，提升了设备的实用性和开发者支持。我们将持续关注这些趋势的发展。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">61a141a1-85b4-4507-91f9-12ce373a2ac7</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-19/audio.mp3" length="9493677" type="audio/mpeg"/>
+      <itunes:duration>09:53</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 14:02:28 +0800</pubDate>
     </item>
   </channel>
 </rss>
