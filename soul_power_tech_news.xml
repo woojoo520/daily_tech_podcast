@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 06:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:03:13 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 26 Jun 2026 14:02:27 +0800</pubDate>
+    <pubDate>Sat, 27 Jun 2026 14:02:08 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3888,6 +3888,16 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-26/audio.mp3" length="6808941" type="audio/mpeg"/>
       <itunes:duration>07:05</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 14:02:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国新规或致Polestar禁售未来新款</title>
+      <description><![CDATA[本期要闻摘要：Polestar受美新规影响或禁售新车，欧占比高；PACER五年提价以资安；Meta-IRS税争进入新阶段；Giannis转热火、LaMelo去森林狼等交易重塑格局；USDA诉讼判无歧视；Via IPO相关诉讼致股价下跌；WA法院认定CCA豁免合规；AI宗教豁免增多，雇主应对；SALT税基再调整；Prime Day覆盖多品类，理性比价。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">383765af-6c85-491f-b4fe-2069095aff0f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-27/audio.mp3" length="6596397" type="audio/mpeg"/>
+      <itunes:duration>06:52</itunes:duration>
+      <pubDate>Sat, 27 Jun 2026 14:02:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
