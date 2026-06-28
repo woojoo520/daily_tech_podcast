@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Jun 2026 06:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 06:03:04 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 27 Jun 2026 14:02:08 +0800</pubDate>
+    <pubDate>Sun, 28 Jun 2026 14:02:20 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3898,6 +3898,16 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-27/audio.mp3" length="6596397" type="audio/mpeg"/>
       <itunes:duration>06:52</itunes:duration>
       <pubDate>Sat, 27 Jun 2026 14:02:08 +0800</pubDate>
+    </item>
+    <item>
+      <title>科技巨头开启史无前例融资潮</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：全球科技股融资激增，AI基建加杠杆；AI驱动就业结构变化，岗位洗牌；AI芯片成本抬升，苹果提价；Micron等因AI需求强劲，股价波动；Palantir股价下跌，AI模式分歧；投资者上调AI目标价，板块分化；道指调整，Alphabet替代Verizon；AI芯片龙头目标价上调，NVIDIA/AMD受益；谷歌搜索受AI广告冲击，格局变动；BitGo遭集体诉讼，数字资产披露加强。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">f1bce745-5982-41ae-a35c-6db721a7288a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-28/audio.mp3" length="7972461" type="audio/mpeg"/>
+      <itunes:duration>08:18</itunes:duration>
+      <pubDate>Sun, 28 Jun 2026 14:02:20 +0800</pubDate>
     </item>
   </channel>
 </rss>
