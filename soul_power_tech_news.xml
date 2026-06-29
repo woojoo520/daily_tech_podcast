@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 06:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 06:03:34 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 28 Jun 2026 14:02:20 +0800</pubDate>
+    <pubDate>Mon, 29 Jun 2026 14:02:49 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3908,6 +3908,16 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-28/audio.mp3" length="7972461" type="audio/mpeg"/>
       <itunes:duration>08:18</itunes:duration>
       <pubDate>Sun, 28 Jun 2026 14:02:20 +0800</pubDate>
+    </item>
+    <item>
+      <title>死或生6再版引爆玩家怒潮</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与日常生活相关的商业科技动态：全球海员短缺与培训、NWS HeatRisk上线、住房数字化升级、农用AI信任分歧、DOA6再版争议、全球债基调仓美债、欧盟引Anthropic提升自主、智能家居缓解烟花焦虑、DOA6 DLC争议与回馈、Nexa Resources股价热点。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8aa22e99-1ea0-4543-bb87-e70e564bba77</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-29/audio.mp3" length="7766829" type="audio/mpeg"/>
+      <itunes:duration>08:05</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 14:02:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
