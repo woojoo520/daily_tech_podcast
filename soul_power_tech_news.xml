@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jun 2026 06:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:04:05 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 29 Jun 2026 14:02:49 +0800</pubDate>
+    <pubDate>Tue, 30 Jun 2026 14:03:04 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3918,6 +3918,16 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-29/audio.mp3" length="7766829" type="audio/mpeg"/>
       <itunes:duration>08:05</itunes:duration>
       <pubDate>Mon, 29 Jun 2026 14:02:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国航天局自主救援Swift望远镜</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与日常生活相关的科技商业动态，你将听到：Swift望远镜在轨救援；OpenAI/Microsoft版权诉讼波及400家出版集团；西班牙钨矿项目新任技术总监上任并推进投产；Hecla入选双Russell指数；BitGo遭集体证券诉讼；金价回落至4049美元/盎司；加州重返办公政策遭诉讼阻挠；Campbell’s劳资争议进入审理；Agnico Eagle季报在即；英国/欧洲险业整合提速。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1b60be90-69ab-48c8-a338-3ede58f1bda4</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-30/audio.mp3" length="9489069" type="audio/mpeg"/>
+      <itunes:duration>09:53</itunes:duration>
+      <pubDate>Tue, 30 Jun 2026 14:03:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
