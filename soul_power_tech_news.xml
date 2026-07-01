@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 30 Jun 2026 06:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 06:03:39 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 30 Jun 2026 14:03:04 +0800</pubDate>
+    <pubDate>Wed, 01 Jul 2026 14:02:32 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3928,6 +3928,16 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-06-30/audio.mp3" length="9489069" type="audio/mpeg"/>
       <itunes:duration>09:53</itunes:duration>
       <pubDate>Tue, 30 Jun 2026 14:03:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>微软裁员潮再起聚焦AI</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：微软裁千人，聚AI降本；大湾区智慧农具降本，无人机普及；英国BWB入围公框架；巴西推千亿农业信贷；学区家长对校园数字设备透明度；Saber宣布Turok:Origins Switch 2；AI改造建筑后台流程；以色列促女性STEM新标准；美国1071条披露新规落地；NFL流媒体转播权引发成本上升。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">6c3bdb71-0874-49a4-a7e0-2674758a57e3</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-01/audio.mp3" length="8533485" type="audio/mpeg"/>
+      <itunes:duration>08:53</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 14:02:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
