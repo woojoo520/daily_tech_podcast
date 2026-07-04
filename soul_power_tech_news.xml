@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 Jul 2026 06:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 06:03:11 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 03 Jul 2026 14:03:07 +0800</pubDate>
+    <pubDate>Sat, 04 Jul 2026 14:02:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3958,6 +3958,16 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-03/audio.mp3" length="9581805" type="audio/mpeg"/>
       <itunes:duration>09:58</itunes:duration>
       <pubDate>Fri, 03 Jul 2026 14:03:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>英国以再生铜建成电力高速公路</title>
+      <description><![CDATA[本期Soul Power Tech News聚焦英国建筑与材料市场。要点包括：政府推动循环经济与再生铜在基建中的应用，促进低碳升级；苏格兰投资回暖但信贷与成本压力依存；公共服务设施投资显著回落，审批收紧；基础设施总体放缓，短期或有反弹；材料价格上涨，房价区域分化明显；AI与数字化引领建筑转型，强调低碳与效率；监管改革简化审批并强化数字执法；全球绿色技能缺口扩大，培训与职业认证改革成为重点。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">5db17962-3734-4abe-876f-e7bc6a05baf8</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-04/audio.mp3" length="8432685" type="audio/mpeg"/>
+      <itunes:duration>08:46</itunes:duration>
+      <pubDate>Sat, 04 Jul 2026 14:02:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
