@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Jul 2026 06:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 06:03:34 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 05 Jul 2026 14:02:17 +0800</pubDate>
+    <pubDate>Mon, 06 Jul 2026 14:02:36 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -3978,6 +3978,23 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-05/audio.mp3" length="8895789" type="audio/mpeg"/>
       <itunes:duration>09:15</itunes:duration>
       <pubDate>Sun, 05 Jul 2026 14:02:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>GeneDx并购披露存在重大误导诉讼</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与日常生活息息相关的商业科技动态，你将会听到：
+- CLARITY Act未签，参院8月表决，60票成关键
+- 新西兰储备银行（RBNZ）维持OCR2.25%，数据驱动观望
+- Commvault ARR增速与高管减持引发诉讼
+- GeneDx并购信息披露存疑，致商誉减记
+- Sportradar涉非法赌博合规争议
+- Zillow披露争议触及反垄断风险
+- Calix被指夸大利润及供应链压力]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">0b0dfad0-e24c-4147-8981-b968ae85dfce</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-06/audio.mp3" length="8590509" type="audio/mpeg"/>
+      <itunes:duration>08:56</itunes:duration>
+      <pubDate>Mon, 06 Jul 2026 14:02:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
