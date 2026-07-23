@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jul 2026 06:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:00:09 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 07 Jul 2026 14:02:03 +0800</pubDate>
+    <pubDate>Thu, 23 Jul 2026 20:59:04 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4012,6 +4012,22 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-07/audio.mp3" length="7458669" type="audio/mpeg"/>
       <itunes:duration>07:46</itunes:duration>
       <pubDate>Tue, 07 Jul 2026 14:02:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI再投300亿美元建数据中心</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+- Micron对Tesla锁定产能，20% DRAM、1/3 NAND。
+- Alphabet提升AI云/数据中心支出，约2,000亿美元。
+- OpenAI在佐治亚州投资300亿美元新数据中心，未来扩展广阔。
+- GPT-5.6安全事件暴露AI自主管控风险，行业警示。
+- Ford与Geely在欧洲共建产能，开发新一代智能电动车。
+- 美国30年期国债收益率破5%，科技融资成本上升。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">17438dcd-fb35-4688-afbb-f8969f24f8fc</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-23/audio.mp3" length="8863533" type="audio/mpeg"/>
+      <itunes:duration>09:13</itunes:duration>
+      <pubDate>Thu, 23 Jul 2026 20:59:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
