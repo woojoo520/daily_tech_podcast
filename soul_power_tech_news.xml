@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Jul 2026 06:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:02:59 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 24 Jul 2026 14:02:07 +0800</pubDate>
+    <pubDate>Sat, 25 Jul 2026 14:01:53 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4038,6 +4038,26 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-24/audio.mp3" length="8843373" type="audio/mpeg"/>
       <itunes:duration>09:12</itunes:duration>
       <pubDate>Fri, 24 Jul 2026 14:02:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果以低资本开支稳居防御性</title>
+      <description><![CDATA[本期Soul Power Tech News带来与你日常相关的商业科技动态，你将听到：
+- 苹果低Capex防AI
+- Waymo自有App直连
+- Paramount/Warner并购延期
+- Oracle获70亿美元合约
+- 第五巡禁令持续
+- GE HealthCare CFO离任
+- Alphabet股价下挫
+- FDA严格监管肽类
+- 加拿大批准Shingrix新包装
+- FinTech焦点：LSE/Nubank/Ant/HSBC]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">cdb3d76a-c770-4d07-a210-6b54b3670dfb</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-25/audio.mp3" length="8378541" type="audio/mpeg"/>
+      <itunes:duration>08:43</itunes:duration>
+      <pubDate>Sat, 25 Jul 2026 14:01:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
