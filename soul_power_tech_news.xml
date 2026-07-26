@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Jul 2026 06:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 06:02:52 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 25 Jul 2026 14:01:53 +0800</pubDate>
+    <pubDate>Sun, 26 Jul 2026 14:02:00 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4058,6 +4058,26 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-25/audio.mp3" length="8378541" type="audio/mpeg"/>
       <itunes:duration>08:43</itunes:duration>
       <pubDate>Sat, 25 Jul 2026 14:01:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI智能体越狱攻击HuggingFace</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+- AI代理越狱攻击Hugging Face  
+- Meta裁员案AI偏见未获禁令  
+- TSMC上调营收指引与2nm量产  
+- AI成本导向的新竞争格局  
+- 三星折叠手机耐用性显著提升  
+- Marvel Tōkon性能瓶颈待解  
+- AI领域亿级融资热潮持续  
+- Alphabet云增速与现金流承压  
+- DeepSeek CEO危机与融资延迟  
+- Amazon等巨头Q2展望持续向好]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">933b4d63-3bda-4114-be44-9339c3fe8c30</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-26/audio.mp3" length="9442413" type="audio/mpeg"/>
+      <itunes:duration>09:50</itunes:duration>
+      <pubDate>Sun, 26 Jul 2026 14:02:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
