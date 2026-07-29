@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:03:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 28 Jul 2026 14:04:20 +0800</pubDate>
+    <pubDate>Wed, 29 Jul 2026 14:02:11 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4104,6 +4104,25 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-28/audio.mp3" length="10630125" type="audio/mpeg"/>
       <itunes:duration>11:04</itunes:duration>
       <pubDate>Tue, 28 Jul 2026 14:04:20 +0800</pubDate>
+    </item>
+    <item>
+      <title>纳斯达克100遇技术性回调AI热潮降温</title>
+      <description><![CDATA[本期Soul Power Tech News带来与你日常相关的商业科技动态，你将听到：
+- 纳斯达克100大幅回调，芯片与AI投资回报担忧并存。
+- 亚洲科技股回落，Nvidia投资传闻引发波动。
+- Meta因AI裁员遭起诉，HR决策边界再受关注。
+- SpaceX自IPO后估值剧跌，解禁期压力叠加。
+- 九州地震影响丰田日产产能，供应链需评估。
+- Equinox因AI广告争议撤广告，公关议题再起。
+- 广告业加速自研AI投放平台，第一方数据成关键。
+- Cigna隐私诉讼扩大，第三方追踪与数据合规关注。
+感谢收听，明天再见。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">5a95bf2f-d87d-4276-8a0e-6e24db993838</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-29/audio.mp3" length="8556525" type="audio/mpeg"/>
+      <itunes:duration>08:54</itunes:duration>
+      <pubDate>Wed, 29 Jul 2026 14:02:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
