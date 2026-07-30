@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:03:59 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 29 Jul 2026 14:02:11 +0800</pubDate>
+    <pubDate>Thu, 30 Jul 2026 14:02:52 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4123,6 +4123,16 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-29/audio.mp3" length="8556525" type="audio/mpeg"/>
       <itunes:duration>08:54</itunes:duration>
       <pubDate>Wed, 29 Jul 2026 14:02:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>比特币以太坊再度成风暴中心</title>
+      <description><![CDATA[本期Soul Power Tech News带来日常相关的商业科技要闻，你将听到：比特币/以太坊在美联储决议前高位震荡；SpaceX股价暴跌后仍具长期韧性；微软Q4强劲、云/AI扩张；存储芯片股回落，苹果/美光议价转向；Oracle资金压力与资本开支再评估；互联网伦理与无摩擦趋势再议；贵金属/债市波动；美股财报季聚焦Arm、Chipotle、Starbucks等；30年期按揭升至6.58%。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">256de158-df98-4724-8ef3-f6779a994ed0</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-30/audio.mp3" length="8386029" type="audio/mpeg"/>
+      <itunes:duration>08:44</itunes:duration>
+      <pubDate>Thu, 30 Jul 2026 14:02:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
