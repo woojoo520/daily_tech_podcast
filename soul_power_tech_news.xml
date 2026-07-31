@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 30 Jul 2026 06:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:03:40 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 30 Jul 2026 14:02:52 +0800</pubDate>
+    <pubDate>Fri, 31 Jul 2026 14:02:39 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4133,6 +4133,17 @@ AI股反弹，警示泡沫；美光领利，海力士ADR；雇监法案推进；
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-30/audio.mp3" length="8386029" type="audio/mpeg"/>
       <itunes:duration>08:44</itunes:duration>
       <pubDate>Thu, 30 Jul 2026 14:02:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>微软云热潮带动美股回暖</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+Nexus融资150亿美元资助Anthropic德州数据中心，Google背书；Anthropic Mythos原型泄漏引发安全担忧；美企AI/云支出或达2200亿美元，微软等扩张；DeepSeek在内蒙古建1GW中心，估值近500亿；Nscale并购Anyscale，形成全栈AI平台；AI正影响家庭与隐私；欧洲就FIFA商业化分歧加剧；美股科技回暖，MSFT提振，Meta承压；亚太扩容与投产规模持续增长。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">cc5ab54b-dd61-4866-8865-600a0942f8e5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-31/audio.mp3" length="9555309" type="audio/mpeg"/>
+      <itunes:duration>09:57</itunes:duration>
+      <pubDate>Fri, 31 Jul 2026 14:02:39 +0800</pubDate>
     </item>
   </channel>
 </rss>
