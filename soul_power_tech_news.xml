@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 31 Jul 2026 06:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:05:08 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 31 Jul 2026 14:02:39 +0800</pubDate>
+    <pubDate>Sat, 01 Aug 2026 14:04:23 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4144,6 +4144,16 @@ Nexus融资150亿美元资助Anthropic德州数据中心，Google背书；Anthro
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-07-31/audio.mp3" length="9555309" type="audio/mpeg"/>
       <itunes:duration>09:57</itunes:duration>
       <pubDate>Fri, 31 Jul 2026 14:02:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果Q3创纪录营收但股价盘后下挫</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：FTC禁止部分外国制造设备入美市场；苹果Q3再创新高，iPhone与服务拉动利润；欧盟加强AI监管，要求标识与罚则；Bitget推出Assetback，消费即投资返现；Tecno展示真全面屏概念；Tesla/SpaceX传闻升温；密歇根法院允许调查胰岛素定价；AI网红与虚拟医疗风险受关注；CMS提高2027年医保补贴并电子化；Farm Progress展出自主拖拉机与精喷等前沿。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">befd9112-0be5-4d2e-9dc8-b8f255f3d650</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-01/audio.mp3" length="9158445" type="audio/mpeg"/>
+      <itunes:duration>09:32</itunes:duration>
+      <pubDate>Sat, 01 Aug 2026 14:04:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
