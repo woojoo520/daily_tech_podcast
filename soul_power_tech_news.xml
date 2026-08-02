@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 01 Aug 2026 06:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 06:05:10 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 01 Aug 2026 14:04:23 +0800</pubDate>
+    <pubDate>Sun, 02 Aug 2026 14:04:13 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4154,6 +4154,26 @@ Nexus融资150亿美元资助Anthropic德州数据中心，Google背书；Anthro
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-01/audio.mp3" length="9158445" type="audio/mpeg"/>
       <itunes:duration>09:32</itunes:duration>
       <pubDate>Sat, 01 Aug 2026 14:04:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>赫兹流动性危机引发热议</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+- Wix：集体诉讼指控AI信息误导，股价暴跌
+- Zillow：诉讼聚焦AI/房产前景
+- Hertz：流动性危机催生融资，股价暴跌
+- Planet Fitness：营销转型致增速放缓遭诉
+- 中国：AI/芯片/机器人突破，WAICO成立
+- 2027年COLA预估3.6-4.7%
+- NFL TE新秀崛起，Top3领衔
+- 无人机战争下美军救治体系转型
+- Rocket Classic决赛轮，Riley领跑
+- Blue Jays谋求交易补强，Cardinals重建]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">5af2b6e8-e925-414f-a2d6-4f52f3b58bab</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-02/audio.mp3" length="9532845" type="audio/mpeg"/>
+      <itunes:duration>09:55</itunes:duration>
+      <pubDate>Sun, 02 Aug 2026 14:04:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
