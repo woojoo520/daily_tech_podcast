@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Aug 2026 06:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:03:01 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 02 Aug 2026 14:04:13 +0800</pubDate>
+    <pubDate>Mon, 03 Aug 2026 14:02:10 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4174,6 +4174,16 @@ Nexus融资150亿美元资助Anthropic德州数据中心，Google背书；Anthro
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-02/audio.mp3" length="9532845" type="audio/mpeg"/>
       <itunes:duration>09:55</itunes:duration>
       <pubDate>Sun, 02 Aug 2026 14:04:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>多模态新突破引热议</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与日常生活相关的商业科技动态，你将听到：NVIDIA/OpenAI推动开源与降价，云巨增收；山东推动AI一人公司生态，集聚万名创新人才；开放权重模型成全球趋势，中美治理趋共识；微软收缩Copilot入口，强调轻集成与定制化；DLSS5引发观感争议但推动未来渲染；AI算力投资爆发，国内底层创新提速；全球开源治理成焦点；GPT-5预览与SpaceX突破，量子芯片进展也有新突破；中国数字经济新业态增长，数字消费持续扩张；人形机器人产量或破十万，行业进入规模化阶段。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">d43ad216-b086-4d32-988c-b1835f00f293</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-03/audio.mp3" length="7637805" type="audio/mpeg"/>
+      <itunes:duration>07:57</itunes:duration>
+      <pubDate>Mon, 03 Aug 2026 14:02:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
