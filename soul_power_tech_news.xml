@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:04:20 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 04 Aug 2026 14:02:19 +0800</pubDate>
+    <pubDate>Wed, 05 Aug 2026 14:03:13 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4196,6 +4196,17 @@ Planet Labs股价回落但长期增长动力未变，凭借Dove卫星与AI扩展
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-04/audio.mp3" length="3018285" type="audio/mpeg"/>
       <itunes:duration>03:08</itunes:duration>
       <pubDate>Tue, 04 Aug 2026 14:02:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>EVTL遭降级并面临资金压力</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与API银行提升服务；Surf Air Mobility与Palantir深度合作推动AI调度，股价承压；Quanterix以Simoa平台推动神经疾病检测；Wolters Kluwer完成大额回购，数字化与合规服务受关注；CNH、CNA、Marriott通过AI/云/物联提升运营效率；Entera Bio推进口服递送与三期研究；Ares Commercial Real Estate应用大数据与自动化优化管理；New Horizon Aircraft、Firefly Aerospace、Voyager Technologies在空天与机器人领域持续创新；Alm. Brand回购与金融科技创新。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">a69605b4-fd20-4918-9a56-59e41305f07d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-05/audio.mp3" length="11014893" type="audio/mpeg"/>
+      <itunes:duration>11:28</itunes:duration>
+      <pubDate>Wed, 05 Aug 2026 14:03:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
