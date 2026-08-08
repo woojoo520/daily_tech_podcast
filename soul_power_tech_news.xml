@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 07 Aug 2026 06:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:03:20 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 07 Aug 2026 14:02:51 +0800</pubDate>
+    <pubDate>Sat, 08 Aug 2026 14:02:38 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4222,6 +4222,24 @@ Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-07/audio.mp3" length="10990125" type="audio/mpeg"/>
       <itunes:duration>11:26</itunes:duration>
       <pubDate>Fri, 07 Aug 2026 14:02:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI助力律所案源大幅提升</title>
+      <description><![CDATA[本期Soul Power Tech News带来与你日常相关的商业科技动态，摘要如下：
+- iOS修复与安全
+- Watts AI驱律所
+- Puma Q2亮眼
+- SmartStop增效
+- Vibrio警示
+- Disrupt聚焦AI落地
+- 霍尔航道缓解
+- Elvis Week联动]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">dd3ba938-95d7-4078-881e-e66322030320</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-08/audio.mp3" length="10949805" type="audio/mpeg"/>
+      <itunes:duration>11:24</itunes:duration>
+      <pubDate>Sat, 08 Aug 2026 14:02:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
