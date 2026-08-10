@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:04:50 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 08 Aug 2026 14:02:38 +0800</pubDate>
+    <pubDate>Mon, 10 Aug 2026 14:03:57 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4240,6 +4240,16 @@ Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-08/audio.mp3" length="10949805" type="audio/mpeg"/>
       <itunes:duration>11:24</itunes:duration>
       <pubDate>Sat, 08 Aug 2026 14:02:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>冷钱包漏洞致一万七千枚比特币被盗</title>
+      <description><![CDATA[本期Soul Power Tech News带来日常相关的商业科技动态，你将听到：比特币跌破65k、ETF流入与分叉风险并存，Coldcard漏洞致损扩大；美车险理赔降至55%、霍尔木兹局势紧张推高油价；危机下定投仍有回报、ETF风险需警惕；Giants53人名单预测、Lakers传闻、NASCAR Iowa等体育热闻。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">fd0c11ea-b7cf-47b8-81df-3230a7f75f75</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-10/audio.mp3" length="8653869" type="audio/mpeg"/>
+      <itunes:duration>09:00</itunes:duration>
+      <pubDate>Mon, 10 Aug 2026 14:03:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
