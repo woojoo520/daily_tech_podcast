@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 11 Aug 2026 06:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:04:28 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 11 Aug 2026 14:02:56 +0800</pubDate>
+    <pubDate>Wed, 12 Aug 2026 14:03:33 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4260,6 +4260,16 @@ Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-11/audio.mp3" length="8737389" type="audio/mpeg"/>
       <itunes:duration>09:06</itunes:duration>
       <pubDate>Tue, 11 Aug 2026 14:02:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球掀起反对AI数据中心潮</title>
+      <description><![CDATA[本期Soul Power Tech News将带来日常生活相关的商业科技动态，你将听到：AI数据中心扩张遭全球反弹，欧美多地限令；Intel增发200亿美元扩产；SpaceX IPO后股价回落，长期看好；Oracle再裁员以支撑AI投资；日本制造业信心上升，半导体拉动；Apple教育促销延长至9月；Aidoc组建美国大型健康系统诊断AI联盟；联邦法院维持现有设计专利标准；FDA/CDC宣布食品召回涉辣椒产品；FlightAware诉Kalshi数据侵权。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">c8367b98-4ca8-4826-9f84-252b4e806e14</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-12/audio.mp3" length="8274285" type="audio/mpeg"/>
+      <itunes:duration>08:37</itunes:duration>
+      <pubDate>Wed, 12 Aug 2026 14:03:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
