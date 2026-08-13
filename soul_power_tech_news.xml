@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Aug 2026 06:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 06:04:00 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 12 Aug 2026 14:03:33 +0800</pubDate>
+    <pubDate>Thu, 13 Aug 2026 14:02:56 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4270,6 +4270,16 @@ Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-12/audio.mp3" length="8274285" type="audio/mpeg"/>
       <itunes:duration>08:37</itunes:duration>
       <pubDate>Wed, 12 Aug 2026 14:03:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>PSPlus新阵容强势来袭引热潮</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将听到：PlayStation Plus 8月更新及新作上线；思科因AI需求推动核心网络营收增长但股价承压；欧盟PPWR正式执行，PFAS限量与回收设计推进；FlightAware诉Kalshi案短暂撤诉但数据权益争议持续；律所AI合规与金融、医疗监管趋势；美国在个人信息保护与言论自由之间寻求平衡。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">86cd5d31-5b0b-4963-97f7-e0e27a659a96</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-13/audio.mp3" length="7720749" type="audio/mpeg"/>
+      <itunes:duration>08:02</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 14:02:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
