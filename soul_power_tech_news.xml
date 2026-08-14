@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:08:57 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 13 Aug 2026 14:02:56 +0800</pubDate>
+    <pubDate>Fri, 14 Aug 2026 14:07:57 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4280,6 +4280,27 @@ Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-13/audio.mp3" length="7720749" type="audio/mpeg"/>
       <itunes:duration>08:02</itunes:duration>
       <pubDate>Thu, 13 Aug 2026 14:02:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>FDA拒药致股价暴跌七成七引发诉讼</title>
+      <description><![CDATA[本期Soul Power Tech News带来与日常生活相关的商业科技动态，你将听到：
+- Replimune遭集体诉讼致股价剧跌
+- CIBC GAM终止两基金
+- Venu上半年资产5.12亿美金，亏损扩大
+- Aflac数据泄露引发集体诉讼
+- 土地保育估值争议
+- Ashurst增聘税务合伙人
+- Koch诉讼被驳回，职场争议
+- 第三巡回驳回加班诉讼
+- 医院制服新政被判违劳工法
+- 学术多元法挑战被驳回
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">36c72efc-c4ea-45e0-9714-6dae19b93846</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-14/audio.mp3" length="6918957" type="audio/mpeg"/>
+      <itunes:duration>07:12</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 14:07:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
