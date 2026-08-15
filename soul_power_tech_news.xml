@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Aug 2026 06:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:04:55 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 14 Aug 2026 14:07:57 +0800</pubDate>
+    <pubDate>Sat, 15 Aug 2026 14:03:21 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4301,6 +4301,16 @@ Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-14/audio.mp3" length="6918957" type="audio/mpeg"/>
       <itunes:duration>07:12</itunes:duration>
       <pubDate>Fri, 14 Aug 2026 14:07:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI独角兽二季营收暴增创盈利新高</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来日常相关的商业科技动态，你将会听到：Anthropic二季度营收超115亿美元，企业应用驱动，IPO受关注；Thimbleweed Park 2获得大额私人投资，计划2028年初上市；Oracle数据中心管道延期6个月，股价走低；Gen Z进入斜杠创业与无人零售等新模式；美国7月零售下降，股市走强，消费与通胀前景并存。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">81369fd0-55d4-4334-8ab7-afe04527b5e7</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-15/audio.mp3" length="8155629" type="audio/mpeg"/>
+      <itunes:duration>08:29</itunes:duration>
+      <pubDate>Sat, 15 Aug 2026 14:03:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
