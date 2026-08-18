@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 17 Aug 2026 06:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:03:34 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 17 Aug 2026 14:02:42 +0800</pubDate>
+    <pubDate>Tue, 18 Aug 2026 14:02:46 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4341,6 +4341,23 @@ Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-17/audio.mp3" length="9619821" type="audio/mpeg"/>
       <itunes:duration>10:01</itunes:duration>
       <pubDate>Mon, 17 Aug 2026 14:02:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>任天堂宝可梦新作爆款推高股价</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与你日常生活息息相关的商业科技动态，你将会听到：
+- 龙头股剧震：MercadoLibre/Upwork/Aramark
+- Cognizant加码AI
+- Oracle云基建投入引融资担忧
+- 独立游戏热潮与主机并进
+- 数据中心/AI硬件板块走强
+- Grok4.6升级，分布式推理提速
+- Nvidia投SB Energy，推动AI基建]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1e9b0d88-a5c6-4e64-b999-cbacfc5273b5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-18/audio.mp3" length="8121645" type="audio/mpeg"/>
+      <itunes:duration>08:27</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 14:02:46 +0800</pubDate>
     </item>
   </channel>
 </rss>
