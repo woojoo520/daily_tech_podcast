@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:04:36 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 18 Aug 2026 14:02:46 +0800</pubDate>
+    <pubDate>Wed, 19 Aug 2026 14:03:35 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4358,6 +4358,29 @@ Vertical Aerospace中性评级但前景仍在；KB金融AI驱动信贷/风控与
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-18/audio.mp3" length="8121645" type="audio/mpeg"/>
       <itunes:duration>08:27</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 14:02:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>科创板迎来首家类人机器人上市</title>
+      <description><![CDATA[本期Soul Power Tech News带来与你日常相关的商业科技动态，你将听到：
+
+Anthropic IPO前信贷逾100亿美元，银行激斗。
+苹果对AI偏谨慎，股价承压。
+美股科技回调，全球股市受压。
+Nvidia被看涨，AI生态投资继续。
+Unitree在沪科创板IPO，61亿融资。
+Cramer看好TJX，担忧Meta诉讼。
+德州电网高温风弱，用电需求猛增。
+Ackman增持Meta、Amazon，称AI回撤是买点。
+Unitree上市被解读为国产+全球供应链新范式。
+快讯：Sandisk、H World、SpaceX、Intuitive Machines等要闻。
+
+本期还有关于京东、Shein、苹果、Meta 和特朗普的新动态，欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">0583a9a1-7b74-426f-9195-e0869a2c89d0</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-19/audio.mp3" length="9595053" type="audio/mpeg"/>
+      <itunes:duration>09:59</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 14:03:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
