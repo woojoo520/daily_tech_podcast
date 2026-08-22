@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:07:52 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 21 Aug 2026 14:02:30 +0800</pubDate>
+    <pubDate>Sat, 22 Aug 2026 14:06:41 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4409,6 +4409,16 @@ Unitree上市被解读为国产+全球供应链新范式。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-21/audio.mp3" length="10152045" type="audio/mpeg"/>
       <itunes:duration>10:34</itunes:duration>
       <pubDate>Fri, 21 Aug 2026 14:02:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>人工智能基建债务激增警示风险</title>
+      <description><![CDATA[本期Soul Power Tech News：纽约成美最大科技人才市场，AI岗位激增；美财政部扩债买入，黄金避险升温；PMI走强，服务业扩张；纳指期货回升、比特币上涨；AI数据中心融资风险上升；Anthropic扩算力团队；Dalio警示美债危机，建议黄金/比特币对冲；Nscale拟美IPO，最高30亿美元；恶劣天气推高农产品价，中美贸易摩擦升级；AI基建债务近3万亿美元，金融风险需警惕。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">6142ccb4-328e-4e00-acef-f989dd98c651</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-22/audio.mp3" length="11918637" type="audio/mpeg"/>
+      <itunes:duration>12:24</itunes:duration>
+      <pubDate>Sat, 22 Aug 2026 14:06:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
