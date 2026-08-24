@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:03:23 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 23 Aug 2026 14:03:09 +0800</pubDate>
+    <pubDate>Mon, 24 Aug 2026 14:02:36 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4436,6 +4436,26 @@ Unitree上市被解读为国产+全球供应链新范式。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-23/audio.mp3" length="10952109" type="audio/mpeg"/>
       <itunes:duration>11:24</itunes:duration>
       <pubDate>Sun, 23 Aug 2026 14:03:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>光速人形机器人刷新百米世界纪录</title>
+      <description><![CDATA[本期Soul Power Tech News带来日常生活相关的商业科技动态，您将听到：
+- Burry抛售Alibaba，转入JD.com。
+- 青少成瘾诉讼扩散，涉Meta等，赔偿或万亿级。
+- Hugging Face或以130亿美元以上出售。
+- AI投资致美股期货波动，前景分化。
+- Honor Lightning破百米纪录，AI落地广泛化。
+- 美债长端走高，对东大领导人协同存疑。
+- OPEC+改航线，运输成本上升。
+- 金价逼近三月新高，避险+AI交易并举。
+- OpenAI/Nvidia达1050亿美元数据中心担保合作。
+- 欧洲奢侈品与科技消费在新兴市场回暖，欧洲放缓分化。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">2eee3ff3-efa5-4728-b0d3-86cb047bc344</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-24/audio.mp3" length="9135405" type="audio/mpeg"/>
+      <itunes:duration>09:30</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 14:02:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
