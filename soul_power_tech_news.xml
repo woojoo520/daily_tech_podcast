@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:04:37 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 24 Aug 2026 14:02:36 +0800</pubDate>
+    <pubDate>Tue, 25 Aug 2026 14:03:34 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4456,6 +4456,22 @@ Unitree上市被解读为国产+全球供应链新范式。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-24/audio.mp3" length="9135405" type="audio/mpeg"/>
       <itunes:duration>09:30</itunes:duration>
       <pubDate>Mon, 24 Aug 2026 14:02:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达二季度业绩再创新高引爆人工智能热潮</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+- NvidiaQ2业绩预期强劲、AI芯片带动营收；
+- LG Prism AI再获奖，显示韩企AI治理实力；
+- Verdera成为美核论坛官方赞助，聚焦北美核能自主；
+- 德州暂停数据中心新建接入，AI基建与能源协同讨论升温；
+- 律所科技合作加速，推动统一平台与数据互通；
+本期还有关于京东、Shein、苹果、Meta 和特朗普的新动态，欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">e6dabd3c-a9cc-4600-8deb-811d9f231e59</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-25/audio.mp3" length="9493101" type="audio/mpeg"/>
+      <itunes:duration>09:53</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 14:03:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
