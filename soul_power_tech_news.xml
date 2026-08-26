@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:05:44 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 25 Aug 2026 14:03:34 +0800</pubDate>
+    <pubDate>Wed, 26 Aug 2026 14:04:39 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4472,6 +4472,16 @@ Unitree上市被解读为国产+全球供应链新范式。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-25/audio.mp3" length="9493101" type="audio/mpeg"/>
       <itunes:duration>09:53</itunes:duration>
       <pubDate>Tue, 25 Aug 2026 14:03:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球人形机器人进入量产元年</title>
+      <description><![CDATA[本期要点：全球机器人进入量产元年，宇树科技成A股人形第一股；微软AI成本透明化；美联储Jackson Hole演讲成焦点，NVIDIA业绩受关注；OpenAI发布自研芯片Jalapeno，推理性能领先；Waymo以极氪底盘推进自动驾驶；SpaceX高额AI投入与云算力合同；好莱坞AI版权与劳动规则变革；钟睒睒稳居中国首富。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">70ed5d70-7e54-4c16-8178-c79ce25d5795</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-26/audio.mp3" length="9676845" type="audio/mpeg"/>
+      <itunes:duration>10:04</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 14:04:39 +0800</pubDate>
     </item>
   </channel>
 </rss>
