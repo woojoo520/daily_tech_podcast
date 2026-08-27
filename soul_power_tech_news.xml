@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:05:38 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 26 Aug 2026 14:04:39 +0800</pubDate>
+    <pubDate>Thu, 27 Aug 2026 14:04:27 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4482,6 +4482,22 @@ Unitree上市被解读为国产+全球供应链新范式。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-26/audio.mp3" length="9676845" type="audio/mpeg"/>
       <itunes:duration>10:04</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 14:04:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达净利翻番引领AI热潮</title>
+      <description><![CDATA[本期Soul Power Tech News带来与你日常相关的科技商业动态，你将听到：
+- Meta与47州和解，十余亿美元罚款，设未成年人上限与夜禁。
+- 特朗普签紧急令，限制外国制造能源设备入美电网，强化本土安全。
+- Nvidia本季利润创新高，AI需求旺盛，增长可期。
+- Salesforce与Anthropic深化AI合作，Claude接CRM与销售工具。
+- 苹果宣布9月9日新一代iPhone发布，或有折叠屏与自研AI。
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">71b21ded-bb51-42b7-a881-a0be93864543</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-27/audio.mp3" length="7539309" type="audio/mpeg"/>
+      <itunes:duration>07:51</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 14:04:27 +0800</pubDate>
     </item>
   </channel>
 </rss>
