@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 Aug 2026 06:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 06:04:13 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 28 Aug 2026 14:02:58 +0800</pubDate>
+    <pubDate>Sat, 29 Aug 2026 14:03:18 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4518,6 +4518,23 @@ Nvidia芯片上涨]]></description>
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-28/audio.mp3" length="7465005" type="audio/mpeg"/>
       <itunes:duration>07:46</itunes:duration>
       <pubDate>Fri, 28 Aug 2026 14:02:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>a16z投资11亿美元AI硬件基金</title>
+      <description><![CDATA[本期Soul Power Tech News带来与日常相关的商业科技动态，你将听到：
+韩国AI热潮引发股市波动，警示估值风险；
+a16z宣布11亿美元基金，聚焦底层算力；
+法院裁定对Anthropic禁令违法，言论受保护；
+英特尔新架构Diamond Rapids、Crescent Island、Wildcat Lake；
+百余家公司联署倡议AI安全防护，守住核心设施；
+AI硬件竞争升级，HBM、DPU等成焦点；
+全球AI攻击增多，防御协作加速。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">23f63614-8de0-498d-9ad2-4a12295926ad</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-08-29/audio.mp3" length="9262701" type="audio/mpeg"/>
+      <itunes:duration>09:38</itunes:duration>
+      <pubDate>Sat, 29 Aug 2026 14:03:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
