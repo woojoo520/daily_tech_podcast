@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Sep 2026 06:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:04:06 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 02 Sep 2026 14:02:05 +0800</pubDate>
+    <pubDate>Thu, 03 Sep 2026 14:03:22 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4573,6 +4573,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-02/audio.mp3" length="4572333" type="audio/mpeg"/>
       <itunes:duration>04:45</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 14:02:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>人工智能热潮推高戴尔股价</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与你日常生活相关的商科科技动态，你将听到：美股因AI带动走强，Dell/Nvidia轮动；Organigram宣布数字投资人大会；韩国防晒在美走热，FDA新成分或缩小差距；Thomson Reuters C‑Track遭黑客攻击；Daupler获智慧水务大奖；Paramount–WB反垄断风波及监管更新；Lumen养老金去风险化诉讼驳回；Zentalis发放股权激励留才；两起雇佣纠纷强调过程证据。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">98c3f208-ddbb-489a-8beb-07cbc5cfc3ba</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-03/audio.mp3" length="7796205" type="audio/mpeg"/>
+      <itunes:duration>08:07</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 14:03:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
