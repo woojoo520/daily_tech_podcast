@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:05:09 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 03 Sep 2026 14:03:22 +0800</pubDate>
+    <pubDate>Fri, 04 Sep 2026 14:04:09 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4583,6 +4583,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-03/audio.mp3" length="7796205" type="audio/mpeg"/>
       <itunes:duration>08:07</itunes:duration>
       <pubDate>Thu, 03 Sep 2026 14:03:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>SION719临床失败致股价暴跌</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与你日常相关的科技商业动态，你将会听到：AI稳定性与多元工具需求；数据隐私执法升级；PFAS污染与健康担忧延展；北美金矿投资热潮；药企股市波动与并购风潮；职场平等与隐私诉讼热议。欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ec3af09b-1837-426c-be9e-a4802fe90f4c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-04/audio.mp3" length="11255085" type="audio/mpeg"/>
+      <itunes:duration>11:43</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 14:04:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
