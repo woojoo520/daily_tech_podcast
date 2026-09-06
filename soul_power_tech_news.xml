@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 05 Sep 2026 06:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 06:03:48 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 05 Sep 2026 14:05:40 +0800</pubDate>
+    <pubDate>Sun, 06 Sep 2026 14:02:32 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4603,6 +4603,23 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-05/audio.mp3" length="15989229" type="audio/mpeg"/>
       <itunes:duration>16:39</itunes:duration>
       <pubDate>Sat, 05 Sep 2026 14:05:40 +0800</pubDate>
+    </item>
+    <item>
+      <title>特斯拉二代Cybertruck全球首发</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+- 体育赌风波：Sorsby涉赌违规，治疗中。
+- Cuba能源危机：电动三轮与太阳能普及，成本挑战。
+- Vision Pro新代：空间计算，SDK开放。
+- Cybertruck 2.0：自动驾驶、太阳能盖板。
+- Meta Work AI上线：办公LLM，生态整合。
+- Android 14 Beta：AI优化、反欺诈升级。
+- TSMC 3nm量产：性能能效提升。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">b760d697-73ff-48d6-ba95-53bda00bc40f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-06/audio.mp3" length="8302509" type="audio/mpeg"/>
+      <itunes:duration>08:38</itunes:duration>
+      <pubDate>Sun, 06 Sep 2026 14:02:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
