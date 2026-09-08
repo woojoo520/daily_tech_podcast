@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:04:15 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 07 Sep 2026 14:01:50 +0800</pubDate>
+    <pubDate>Tue, 08 Sep 2026 14:03:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4630,6 +4630,22 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-07/audio.mp3" length="8008173" type="audio/mpeg"/>
       <itunes:duration>08:20</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 14:01:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果新任CEO上任首日</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+- Palantir领涨，8月股价暴涨，Q2强劲。 
+- 中国8月出口增25%，高科技与半导体成核心。 
+- 进口增28%，顺差扩大，内需信号分化。 
+- Nvidia营收大增，Apple新任CEO上任，硬件+AI转型受关注。 
+- Google引入AI模式，定价与电商分发变革。 
+欢迎收听！]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">b81498e8-aca3-4181-a600-226445651ff6</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-08/audio.mp3" length="8276589" type="audio/mpeg"/>
+      <itunes:duration>08:37</itunes:duration>
+      <pubDate>Tue, 08 Sep 2026 14:03:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
