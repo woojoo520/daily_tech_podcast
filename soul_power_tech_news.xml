@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:04:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 09 Sep 2026 14:04:06 +0800</pubDate>
+    <pubDate>Thu, 10 Sep 2026 14:03:30 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4656,6 +4656,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-09/audio.mp3" length="7941933" type="audio/mpeg"/>
       <itunes:duration>08:16</itunes:duration>
       <pubDate>Wed, 09 Sep 2026 14:04:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>MetaMuse个人AI引领日常化时代</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与你日常生活息息相关的商业科技动态，你将会听到：Meta发布Muse个人AI助手及1.3版，推进日常化AI任务与跨平台嵌入；ASE Technology在AI需求带动下实现利润暴增；Sony公布9月PS Plus阵容，强化订阅黏性；DOA6上线新DLC Minato，粉丝经济持续；美国暑期票房创新高，AI短剧对行业的影响逐步显现；英国北海油气推健康政策，减重药热度上升。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">e3acfcbb-3147-4ed9-9dd0-e0cdaf7e97c2</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-10/audio.mp3" length="10253421" type="audio/mpeg"/>
+      <itunes:duration>10:40</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 14:03:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
