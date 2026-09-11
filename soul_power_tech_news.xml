@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:05:05 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 10 Sep 2026 14:03:30 +0800</pubDate>
+    <pubDate>Fri, 11 Sep 2026 14:04:21 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4666,6 +4666,26 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-10/audio.mp3" length="10253421" type="audio/mpeg"/>
       <itunes:duration>10:40</itunes:duration>
       <pubDate>Thu, 10 Sep 2026 14:03:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>ExpediaQ2利好提振旅游股</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：
+- Astera Labs：AI基础设施芯片与云端扩张。
+- Tenax：LEVOSIMENDAN三期关键节点。
+- Proto Labs：新任COO驱动Lean制造。
+- AFP论坛：AI与人机协作新技能。
+- GSMA：马来西亚数字治理跃居前列。
+- Expedia：Q2增速与全年指引上调。
+- 东盟智慧医疗：跨境互认与应用升温。
+- 中国AI教育：产教融合标准落地。
+- 水泥/氧化铁：区域原料需求提升。
+- 泛东盟：数字经济协同与投资活跃。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">44b63904-9a3b-40d2-a2b3-01ba5fc6c306</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-11/audio.mp3" length="10340973" type="audio/mpeg"/>
+      <itunes:duration>10:46</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 14:04:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
