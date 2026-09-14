@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:04:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:04:40 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 13 Sep 2026 14:02:51 +0800</pubDate>
+    <pubDate>Mon, 14 Sep 2026 14:03:47 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4715,6 +4715,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-13/audio.mp3" length="9537453" type="audio/mpeg"/>
       <itunes:duration>09:56</itunes:duration>
       <pubDate>Sun, 13 Sep 2026 14:02:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果推出首款折叠屏新品</title>
+      <description><![CDATA[本期Soul Power Tech News，将带来关键科技与产业变动：苹果推出折叠屏iPhone Duo，售价1999美元；SpaceX发射O3b mPOWER；纳斯达克交易中断；德国对华投资上半年增至56亿欧元，对美投资下降；Tigo Energy、AEVEX Corp爆发集体诉讼；NFL焦点：Bears大胜Panthers、Lions胜Saints、Bengals逆转Buccaneers、Falcons取胜。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">20cd3279-154c-4b32-aa74-bd14c309ed48</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-14/audio.mp3" length="8914221" type="audio/mpeg"/>
+      <itunes:duration>09:17</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 14:03:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
