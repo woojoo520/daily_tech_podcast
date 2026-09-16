@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:03:42 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 15 Sep 2026 14:04:03 +0800</pubDate>
+    <pubDate>Wed, 16 Sep 2026 14:02:59 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4735,6 +4735,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-15/audio.mp3" length="10478637" type="audio/mpeg"/>
       <itunes:duration>10:54</itunes:duration>
       <pubDate>Tue, 15 Sep 2026 14:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>星际争霸新作开放世界射击定档2030发售</title>
+      <description><![CDATA[本期Soul Power Tech News将带来与日常相关的科技商业动态，你将听到：Voicemod Key Pocket发布；CSIRO新小麦品种Hurdle；FOMC议息与AI股分歧；皮尤新闻自由分歧；ExpressVPN大促；Honeycomb进军田纳西；Knight捐11亿美元建女性医院；Enveric获批非致幻药专利；欧洲天然气储备下降与加息可能；StarCraft新作立项，2030发售，初期无氪金。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">86c6abff-b76e-453d-9f02-397cb1c386bf</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-16/audio.mp3" length="9474669" type="audio/mpeg"/>
+      <itunes:duration>09:52</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 14:02:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
