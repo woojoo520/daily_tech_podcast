@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:04:39 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 16 Sep 2026 14:02:59 +0800</pubDate>
+    <pubDate>Thu, 17 Sep 2026 14:03:47 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4745,6 +4745,23 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-16/audio.mp3" length="9474669" type="audio/mpeg"/>
       <itunes:duration>09:52</itunes:duration>
       <pubDate>Wed, 16 Sep 2026 14:02:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>SteamFrame无线VR引爆市场</title>
+      <description><![CDATA[本期Soul Power Tech News带来日常科技动态，你将会听到：
+
+- Steam Frame发布，竞逐Quest 3
+- AI能耗争议升级，数据中心需求上升
+- 前Google工程师谈AI辅助画作
+- Clarity Act被否决，加密监管不确定
+- WinXP密钥泄露，暴露安全流程
+- GTA5模组走红，UGC延长寿命]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3b0940eb-13b7-48ad-aa95-599975f53d50</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-17/audio.mp3" length="9695853" type="audio/mpeg"/>
+      <itunes:duration>10:05</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 14:03:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
