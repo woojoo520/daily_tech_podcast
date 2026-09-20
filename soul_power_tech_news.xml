@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 17 Sep 2026 06:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:12:43 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 17 Sep 2026 14:03:47 +0800</pubDate>
+    <pubDate>Sun, 20 Sep 2026 14:12:05 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4762,6 +4762,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-17/audio.mp3" length="9695853" type="audio/mpeg"/>
       <itunes:duration>10:05</itunes:duration>
       <pubDate>Thu, 17 Sep 2026 14:03:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>企业级人工智能投资并购</title>
+      <description><![CDATA[本期节目带来全球科技财经要闻：人工智能安全治理、企业级人工智能投资并购、SpaceX星链扩网、媒体生态因人工智能变革、印度能源与净零、英美贸易会谈的人工智能监管、地方财政与公共安全权衡、Remittix预售与链上金融、人工智能算力对能源资产的推动，以及老年诈骗防护教育。东大领导人参与的高层会谈持续聚焦。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1ad673ff-84f6-496b-9455-2e2b464dfe0c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-20/audio.mp3" length="7610733" type="audio/mpeg"/>
+      <itunes:duration>07:55</itunes:duration>
+      <pubDate>Sun, 20 Sep 2026 14:12:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
