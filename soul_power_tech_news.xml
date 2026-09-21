@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 20 Sep 2026 06:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:03:59 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 20 Sep 2026 14:12:05 +0800</pubDate>
+    <pubDate>Mon, 21 Sep 2026 14:03:22 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4772,6 +4772,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-20/audio.mp3" length="7610733" type="audio/mpeg"/>
       <itunes:duration>07:55</itunes:duration>
       <pubDate>Sun, 20 Sep 2026 14:12:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>广州网印博览会揭示人工智能排版自动化趋势</title>
+      <description><![CDATA[本期节目速览昨日科技与商业要点：多起集体诉讼聚焦披露与成长，AEVEX、Bloom Energy、York Space等IPO争议；粤港澳大湾区印刷数智化与全球供应链布局新动能；广州网印博览会揭示AI排版与自动化趋势；美国学生贷款豁免新政及破产程序影响。明日再会。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">dec95a56-e083-4840-9373-76415852c502</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-21/audio.mp3" length="9104877" type="audio/mpeg"/>
+      <itunes:duration>09:28</itunes:duration>
+      <pubDate>Mon, 21 Sep 2026 14:03:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
