@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:06:01 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 23 Sep 2026 14:03:28 +0800</pubDate>
+    <pubDate>Wed, 23 Sep 2026 14:05:02 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4809,14 +4809,14 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <pubDate>Tue, 22 Sep 2026 14:03:45 +0800</pubDate>
     </item>
     <item>
-      <title>油价反弹触发地缘风险</title>
-      <description><![CDATA[本期节目速览全球科技财经要闻：油价反弹与地缘风险、沙特Ceer推电动车并布局多元动力、房地产诈骗警示、OSU女篮雇员化讨论、降旗纪念事件、穆迪下调波兰评级、以太坊晚星信号、德国地产因大选受压、汇率与大宗商品波动、NASDAQ振荡上扬。]]></description>
+      <title>a16z推出AI教育学院抢顶尖人才</title>
+      <description><![CDATA[本期Soul Power Tech News将为你带来与日常生活息息相关的商业科技动态，你将会听到：a16z学院、Meta Muse爆红、Chamelio融资、达特茅斯和解、AI合规优先、TIME高管榜、BYD对First Solar专利战、爱尔兰扩税抵、SpaceX星舰发射、AI投资风格转变。欢迎收听！]]></description>
       <itunes:author>woojoo</itunes:author>
       <author>name='woojoo' email='woojoo10@outlook.com'</author>
-      <guid isPermaLink="false">27f26fde-c797-42de-96fc-33c705b2e105</guid>
-      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-23/audio.mp3" length="6018669" type="audio/mpeg"/>
-      <itunes:duration>06:16</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 14:03:28 +0800</pubDate>
+      <guid isPermaLink="false">17347d49-256b-4aa1-9bd6-7fef07b0a9eb</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-23/audio.mp3" length="9485037" type="audio/mpeg"/>
+      <itunes:duration>09:52</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 14:05:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
