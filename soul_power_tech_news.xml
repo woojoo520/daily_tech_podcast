@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:03:06 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 23 Sep 2026 14:05:02 +0800</pubDate>
+    <pubDate>Thu, 24 Sep 2026 14:02:16 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4817,6 +4817,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-23/audio.mp3" length="9485037" type="audio/mpeg"/>
       <itunes:duration>09:52</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 14:05:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>中美贸易休战延至二〇二七引全球供应链波动</title>
+      <description><![CDATA[要闻摘要：Meta Muse AI热销引发全球金融波动；中美将贸易休战延至2027年，或签更大协议，影响全球供应链；AI安全议题升温，美中拒放慢步伐并拟设沟通机制；华为、阿里发布新AI芯片与模型，提升自给与全球竞争力；OECD称AI投资提振全球增长，但能源冲击仍存；亚洲市场因AI扩展与中国A股吸引力提升。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">024b234c-fcf7-450a-8bed-b0dce7e83185</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-24/audio.mp3" length="7505325" type="audio/mpeg"/>
+      <itunes:duration>07:49</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 14:02:16 +0800</pubDate>
     </item>
   </channel>
 </rss>
