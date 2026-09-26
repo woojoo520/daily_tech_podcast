@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 25 Sep 2026 06:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:03:10 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 25 Sep 2026 14:04:07 +0800</pubDate>
+    <pubDate>Sat, 26 Sep 2026 14:02:15 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4837,6 +4837,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-25/audio.mp3" length="8155053" type="audio/mpeg"/>
       <itunes:duration>08:29</itunes:duration>
       <pubDate>Fri, 25 Sep 2026 14:04:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国厂商领跑人工智能市场推动美国芯片管控</title>
+      <description><![CDATA[全球AI市场进入多极化，中国厂商领跑并推动美对AI芯片出口管控，全球创新格局分化。美中峰会聚焦AI与技术安全，强调对话但分歧显著。AI硬件格局洗牌，台湾、越南、墨西哥受益。微软Copilot大规模整合Office，提升生产力与开发生态。Oracle因AI债务推迟数据中心付款，暴露基础设施融资风险；美债收益率走高引发全球波动。Keystone India落地印度，扩大全球平台生态与人才。BRICS 2.0强调供应链韧性与南南合作，契合中国十五五规划。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">93f1ae57-514b-4358-9773-5c446247b9ec</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-26/audio.mp3" length="7998381" type="audio/mpeg"/>
+      <itunes:duration>08:19</itunes:duration>
+      <pubDate>Sat, 26 Sep 2026 14:02:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
