@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 26 Sep 2026 06:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:03:14 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 26 Sep 2026 14:02:15 +0800</pubDate>
+    <pubDate>Sun, 27 Sep 2026 14:02:19 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4847,6 +4847,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-26/audio.mp3" length="7998381" type="audio/mpeg"/>
       <itunes:duration>08:19</itunes:duration>
       <pubDate>Sat, 26 Sep 2026 14:02:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国成为全球最大人工智能人才净流入国</title>
+      <description><![CDATA[要闻速览：中美峰会同意削减关税300亿美元、设AI对话机制并延长贸易休战至2027年，推动关键领域谈判。中国五年投资2950亿美元建设AI数据中心，80%核心部件国产化。2025年中国成为全球最大AI人才净流入国。新能源竞赛格局显著变化，中国风电与光伏装机、全球电动车及动力电池出口持续扩张。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">13d96a12-453f-47b7-8767-71fbb3f52e58</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-27/audio.mp3" length="6506541" type="audio/mpeg"/>
+      <itunes:duration>06:46</itunes:duration>
+      <pubDate>Sun, 27 Sep 2026 14:02:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
