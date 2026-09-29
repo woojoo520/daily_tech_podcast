@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:04:19 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 28 Sep 2026 14:02:29 +0800</pubDate>
+    <pubDate>Tue, 29 Sep 2026 14:03:26 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4867,6 +4867,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-28/audio.mp3" length="7578477" type="audio/mpeg"/>
       <itunes:duration>07:53</itunes:duration>
       <pubDate>Mon, 28 Sep 2026 14:02:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>中美达成六十亿美元关税削减</title>
+      <description><![CDATA[要闻速览：Nvidia发布AI代理安全平台，或提升全球AI安全标准；中美达成对等关税削减600亿美元商品协议，缓解全球供应链压力；OpenAI因安全风险暂停新一代模型发布，全球治理议题再起；Anthropic提交IPO，短期亏损巨大却代表新一代AI基础设施投资趋势；美债收益率走高推动资本回流美元，对全球市场与人民币形成压力。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">c53c75df-c340-43dd-b47b-db5798789745</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-29/audio.mp3" length="7970733" type="audio/mpeg"/>
+      <itunes:duration>08:18</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 14:03:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
