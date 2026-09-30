@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:03:36 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 29 Sep 2026 14:03:26 +0800</pubDate>
+    <pubDate>Wed, 30 Sep 2026 14:02:51 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4877,6 +4877,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-29/audio.mp3" length="7970733" type="audio/mpeg"/>
       <itunes:duration>08:18</itunes:duration>
       <pubDate>Tue, 29 Sep 2026 14:03:26 +0800</pubDate>
+    </item>
+    <item>
+      <title>美拟收紧对华高端芯片出口中国加速国产替代</title>
+      <description><![CDATA[全球科技财经要闻速览：中方收紧具身智能与类人机器人上市门槛，硬科技估值再评估；中美同意600亿美元关税削减，全球贸易回暖；DeepSeek联手华为推进AI工具国产化并开源TileLang；美拟收紧对华高端芯片出口，中国加速国产替代。PMI回升驱动工业复苏，Anthropic拟上市估值或超2万亿美元，市场关注；鸿富诚芯片散热材料上市大涨，柴油价格上扬推动全球运输成本。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">0bade3b1-29ef-4bac-a690-22896165ea1f</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-30/audio.mp3" length="7550253" type="audio/mpeg"/>
+      <itunes:duration>07:51</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 14:02:51 +0800</pubDate>
     </item>
   </channel>
 </rss>
