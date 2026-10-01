@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:03:47 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 30 Sep 2026 14:02:51 +0800</pubDate>
+    <pubDate>Thu, 01 Oct 2026 14:02:38 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4887,6 +4887,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-09-30/audio.mp3" length="7550253" type="audio/mpeg"/>
       <itunes:duration>07:51</itunes:duration>
       <pubDate>Wed, 30 Sep 2026 14:02:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>中美稀土紧张升级中国调控出口供应链重塑</title>
+      <description><![CDATA[全球要闻速览：AI治理协议引全球博弈，影响中美准入与数据安全；NVIDIA对Legora投资5000万美元，推动法律AI与芯片生态；美联储加息25基点，全球资本与人民币波动；中美稀土紧张升级，中国调控出口，全球供应链再洗牌；超大数据中心投资激增，云厂商与中国厂商获益。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">2b9a9701-168c-4f4a-9faf-f3b7586cd20d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-01/audio.mp3" length="8174637" type="audio/mpeg"/>
+      <itunes:duration>08:30</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 14:02:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
