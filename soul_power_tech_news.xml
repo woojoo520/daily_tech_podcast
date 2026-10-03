@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 02 Oct 2026 06:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:03:26 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 02 Oct 2026 14:03:24 +0800</pubDate>
+    <pubDate>Sat, 03 Oct 2026 14:02:50 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4907,6 +4907,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-02/audio.mp3" length="7821549" type="audio/mpeg"/>
       <itunes:duration>08:08</itunes:duration>
       <pubDate>Fri, 02 Oct 2026 14:03:24 +0800</pubDate>
+    </item>
+    <item>
+      <title>中美半导体博弈升级涉三亿美元英伟达案</title>
+      <description><![CDATA[全球要闻速览：美方指控加州CEO涉将3亿美元Nvidia芯片出口中国，凸显中美半导体博弈；中国监管要求英美资源集团与Teck并购对华供铜承诺，显示金属供应链影响力提升；AI驱动下韩国芯片出口创历史新高，全球供应链再平衡；全球数据中心扩张引发环保与能源担忧；投资者预期五年内中美并列AI领袖概率上升；厄尔尼诺或放大能源粮食价格及通胀压力。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8710dc71-c22d-472e-8bb9-da77a358e33a</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-03/audio.mp3" length="6917229" type="audio/mpeg"/>
+      <itunes:duration>07:12</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 14:02:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
