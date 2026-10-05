@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 Oct 2026 06:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:04:17 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 04 Oct 2026 14:03:29 +0800</pubDate>
+    <pubDate>Mon, 05 Oct 2026 14:03:06 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4927,6 +4927,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-04/audio.mp3" length="8303661" type="audio/mpeg"/>
       <itunes:duration>08:38</itunes:duration>
       <pubDate>Sun, 04 Oct 2026 14:03:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>美设超级智能工作组促人工智能监管全球竞争</title>
+      <description><![CDATA[全球科技与经济要闻：英拟对华电动车征高关税以保欧盟渠道；美宣布设立“超级智能工作组”推动AI监管与全球竞争；新加坡推出极高精度原子钟，或重订时间定义；中国公布2030年固态电池应用路线图，CATL对成熟度持谨慎；俄燃料短缺致中国品牌车在俄热销，冲击当地市场；印度对华进口逆差创新高，全球供应链去华化压力增大；吉尔吉斯宣布22个关键矿产开发目标，全球矿业供应链格局或将重塑。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">2aa46c9a-6ab9-450c-b009-2eedc7c02a7b</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-05/audio.mp3" length="8948205" type="audio/mpeg"/>
+      <itunes:duration>09:19</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 14:03:06 +0800</pubDate>
     </item>
   </channel>
 </rss>
