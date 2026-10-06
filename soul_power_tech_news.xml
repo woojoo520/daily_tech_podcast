@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:05:20 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 05 Oct 2026 14:03:06 +0800</pubDate>
+    <pubDate>Tue, 06 Oct 2026 14:04:09 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4937,6 +4937,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-05/audio.mp3" length="8948205" type="audio/mpeg"/>
       <itunes:duration>09:19</itunes:duration>
       <pubDate>Mon, 05 Oct 2026 14:03:06 +0800</pubDate>
+    </item>
+    <item>
+      <title>华为高通跨授权引全球科技重塑</title>
+      <description><![CDATA[要点：1)中国670家银行关闭，信贷格局与地方经济再配置，增添全球资金担忧。2)华为-高通5G/AI专利跨授权，中美科技合作升温，全球供应链格局受关注。3)伊朗-美冲突延续，全球能源风险抬升，油价波动。4)美国设AI政策主管，强化全球AI治理与监管前景。5)Nvidia等科技股走强，AI热潮带动全球股市。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">5dbeee69-c953-4501-99fd-12a9c6bdcb87</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-06/audio.mp3" length="9145197" type="audio/mpeg"/>
+      <itunes:duration>09:31</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 14:04:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
