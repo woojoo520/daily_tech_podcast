@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:04:44 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 06 Oct 2026 14:04:09 +0800</pubDate>
+    <pubDate>Fri, 09 Oct 2026 14:03:33 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4947,6 +4947,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-06/audio.mp3" length="9145197" type="audio/mpeg"/>
       <itunes:duration>09:31</itunes:duration>
       <pubDate>Tue, 06 Oct 2026 14:04:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球人工智能投资高达二十六万亿美元</title>
+      <description><![CDATA[进博会与新开放提振全球贸易，全球资源流入中国、供应链再协同。人工智能投资达二点六万亿美元，数据中心与算力扩张成主线，芯片短缺与通胀压力并存。上海争夺六代通信标准，未来十年格局关键。腾讯等拟通过海外债筹资AI基建与自主芯片，资本与科技深度绑定。能源与材料价格走高抬升制造成本，印度崛起或成全球格局新变量。数据中心绿色低碳与AI治理成新焦点。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">c42c872f-d8ce-451e-bedb-c12f9607caae</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-09/audio.mp3" length="6358509" type="audio/mpeg"/>
+      <itunes:duration>06:37</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 14:03:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
