@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:03:25 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 10 Oct 2026 14:06:01 +0800</pubDate>
+    <pubDate>Sun, 11 Oct 2026 14:02:34 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4967,6 +4967,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-10/audio.mp3" length="7659117" type="audio/mpeg"/>
       <itunes:duration>07:58</itunes:duration>
       <pubDate>Sat, 10 Oct 2026 14:06:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球生成式人工智能治理框架落地</title>
+      <description><![CDATA[全球要闻速览：美欧发布生成式AI风险治理框架，推动全球合规统一；台积电熊本工厂提前量产，缓解全球芯片短缺；苹果Vision Pro全球上市并深化中国生态合作；比亚迪揭示固态电池并宣布三年量产，提升续航与安全；美联储或再度加息引发全球波动；华为与沙特阿美签署大规模5G与数据中心合作，推动能源数字化；OpenAI Codex 4.0发布，重塑编程生态；微软与英伟达扩大超级计算合作，推进更大模型研发。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">146a4990-182d-4ae4-bd16-31846b075bec</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-11/audio.mp3" length="7871661" type="audio/mpeg"/>
+      <itunes:duration>08:11</itunes:duration>
+      <pubDate>Sun, 11 Oct 2026 14:02:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
