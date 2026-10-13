@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 12 Oct 2026 06:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:04:50 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 12 Oct 2026 14:02:59 +0800</pubDate>
+    <pubDate>Tue, 13 Oct 2026 14:04:00 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4987,6 +4987,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-12/audio.mp3" length="7002477" type="audio/mpeg"/>
       <itunes:duration>07:17</itunes:duration>
       <pubDate>Mon, 12 Oct 2026 14:02:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>欧中混动车四年减量协议重塑全球汽车链</title>
+      <description><![CDATA[全球要闻：欧中就混动车出口达成四年减量临时协议，重塑全球汽车链与欧洲供应链，中国车企在欧布局加速。CXMT宣布新DRAM架构突破，存储市场震荡，美光等股跌。IMF警告AI浪潮将推动亚洲增长并带来就业与教育结构调整。乌兰察布崛起为全球AI算力新高地，数据中心扩建提升算力供给，同时带来能源与碳排放挑战。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ca0928a3-1659-482d-8a9b-29aa2c8504a5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-13/audio.mp3" length="7506477" type="audio/mpeg"/>
+      <itunes:duration>07:49</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 14:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
