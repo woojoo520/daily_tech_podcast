@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:04:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:04:54 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 13 Oct 2026 14:04:00 +0800</pubDate>
+    <pubDate>Wed, 14 Oct 2026 14:04:13 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -4997,6 +4997,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-13/audio.mp3" length="7506477" type="audio/mpeg"/>
       <itunes:duration>07:49</itunes:duration>
       <pubDate>Tue, 13 Oct 2026 14:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>中美AI分化中国份额提升</title>
+      <description><![CDATA[全球要闻：IMF警示AI泡沫风险；芯片股大跌，CXMT4F内存架构或重塑格局；2026年全球增速约3.1%，能源与AI驱动；中美AI分化，中国份额提升；微软发布Maia 300自研芯片，明年落地；苹果推智能家居新品，股价创新高；Anthropic就防部风险请求再审；VDMA促欧印FTA抗衡中国制造；越南展会提高全球供应链话语权。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1154c86e-58ed-45d0-bc40-4f436b7b73c2</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-14/audio.mp3" length="7541037" type="audio/mpeg"/>
+      <itunes:duration>07:51</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 14:04:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
