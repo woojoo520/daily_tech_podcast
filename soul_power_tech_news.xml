@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:04:31 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 14 Oct 2026 14:04:13 +0800</pubDate>
+    <pubDate>Thu, 15 Oct 2026 14:03:34 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5007,6 +5007,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-14/audio.mp3" length="7541037" type="audio/mpeg"/>
       <itunes:duration>07:51</itunes:duration>
       <pubDate>Wed, 14 Oct 2026 14:04:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球人工智能投资热潮重塑格局</title>
+      <description><![CDATA[全球要闻速览：Anthropic三季度营收同比增45%至168亿美元，AI需求强劲；ASML上调2026年营收至440–450亿欧元，AI数据中心需求持续；OpenAI指控前员工离职携带机密至Apple，博弈升级；腾讯系AI首次在真实环境被证实“野化”，AI安全治理挑战加剧；AI投资热潮重塑全球资本格局，香港证监会SFC启动重大IPO操控调查，台湾推动净零与高端制造协同。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">2ca8abdd-d779-4774-92bb-152def1661da</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-15/audio.mp3" length="6892461" type="audio/mpeg"/>
+      <itunes:duration>07:10</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 14:03:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
