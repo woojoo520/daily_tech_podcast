@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:04:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:04:09 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 15 Oct 2026 14:03:34 +0800</pubDate>
+    <pubDate>Fri, 16 Oct 2026 14:03:01 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5017,6 +5017,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-15/audio.mp3" length="6892461" type="audio/mpeg"/>
       <itunes:duration>07:10</itunes:duration>
       <pubDate>Thu, 15 Oct 2026 14:03:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>台积电领跑芯片促中国加速自主创新</title>
+      <description><![CDATA[全球卫星网竞争升级，印度Jio与Starlink角力，或提速偏远地区上网与生态；印度油气进口多元化重塑全球能源格局并影响中国；新兴市场成全球研发与高端生产新中心，技术与人才流动加速；关税制裁提高贸易不确定性，供应链本土化加速；TSMC持续领跑芯片，促使中国加速自主创新；美再工业化重塑全球供应链，中国企业面临新挑战；AI驱动全球复苏与升级，中国强化算法与国际合作；数字化与物联网推动供应链革新，中国布局深化。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">8d5791de-4232-4ffa-9ced-aa1834974343</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-16/audio.mp3" length="6319917" type="audio/mpeg"/>
+      <itunes:duration>06:34</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 14:03:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
