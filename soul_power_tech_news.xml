@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 16 Oct 2026 06:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:04:10 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 16 Oct 2026 14:03:01 +0800</pubDate>
+    <pubDate>Sat, 17 Oct 2026 14:03:30 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5027,6 +5027,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-16/audio.mp3" length="6319917" type="audio/mpeg"/>
       <itunes:duration>06:34</itunes:duration>
       <pubDate>Fri, 16 Oct 2026 14:03:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>美再提对华关税与技术管控扰全球供应链</title>
+      <description><![CDATA[全球科技与经济要闻：美再提高对华关税并收紧技术管控，扰动全球供应链；企业加速China+1、友岸近岸采购，成本上升但韧性增强；印美欧关系与印太格局动态变化，中印接触升级，双边贸易协定推进；IMF/世行下调全球增速，中国内需疲软忧虑；中国AI芯片崛起，国产硬件崭露头角，英伟达份额下滑；欧盟对华新能源汽车出口设配额并调查低价倾销，美欧G7强化及全球反倾销潮；中国机电出口提升高端比重，外部压力催化升级。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">a75085d3-0890-4c76-8cd2-bcd25cd9a744</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-17/audio.mp3" length="8203437" type="audio/mpeg"/>
+      <itunes:duration>08:32</itunes:duration>
+      <pubDate>Sat, 17 Oct 2026 14:03:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
