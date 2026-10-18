@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 17 Oct 2026 06:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:03:29 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 17 Oct 2026 14:03:30 +0800</pubDate>
+    <pubDate>Sun, 18 Oct 2026 14:02:43 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5037,6 +5037,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-17/audio.mp3" length="8203437" type="audio/mpeg"/>
       <itunes:duration>08:32</itunes:duration>
       <pubDate>Sat, 17 Oct 2026 14:03:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>美对华高技术出口管制升级全球供应链再配置</title>
+      <description><![CDATA[要闻速览：台积电三季度因AI芯片需求激增利润创新高，凸显全球半导体格局。GPT-5发布，企业AI应用加速。美国提升对华高科技出口管制，全球供应链再配置。欧洲央行维持利率不变，欧洲需求波动影响全球。SEC推迟比特币ETF审批，监管预期谨慎。苹果新MacBook Pro搭载M4，全球高端笔记本升级。中沙绿色能源协作扩大，新能源全球布局。Meta扩展Threads覆盖欧亚，强化全球信息流。IMF展望全球温和复苏，亚洲成为增长关键。加州自动驾驶卡车新规推进商用，推动运输与中国企业海外布局。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">0aec691c-36a7-4202-90c0-6fee611fd18d</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-18/audio.mp3" length="6440301" type="audio/mpeg"/>
+      <itunes:duration>06:42</itunes:duration>
+      <pubDate>Sun, 18 Oct 2026 14:02:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
