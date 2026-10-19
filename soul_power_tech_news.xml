@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 18 Oct 2026 06:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:03:43 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 18 Oct 2026 14:02:43 +0800</pubDate>
+    <pubDate>Mon, 19 Oct 2026 14:02:54 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5047,6 +5047,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-18/audio.mp3" length="6440301" type="audio/mpeg"/>
       <itunes:duration>06:42</itunes:duration>
       <pubDate>Sun, 18 Oct 2026 14:02:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>半导体出口新规聚焦人工智能芯片全球竞争</title>
+      <description><![CDATA[全球贸易受地缘紧张再掀波澜，出口管控上升，智能化重塑供应链。中国修订出口目录，加强光伏等关键技术监管，推动国产化与双循环。AI/自动化加速贸易与物流数字化，企业加大安全投入。半导体出口新规聚焦AI芯片等，全球标准竞争加剧。OpenAI等受监管压力，谷歌/微软推新算力产品。中国新能源与智能汽车持续全球布局，苹果在华生态深入。美方提升对华检测限制，合规成本抬升。中美就AI监管达共识，全球治理初现格局稳定。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">f80a9e2a-5b9d-40dd-a59f-3bf8a39c1ffe</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-19/audio.mp3" length="7874541" type="audio/mpeg"/>
+      <itunes:duration>08:12</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 14:02:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
