@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Oct 2026 06:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:04:22 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 19 Oct 2026 14:02:54 +0800</pubDate>
+    <pubDate>Tue, 20 Oct 2026 14:03:10 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5057,6 +5057,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-19/audio.mp3" length="7874541" type="audio/mpeg"/>
       <itunes:duration>08:12</itunes:duration>
       <pubDate>Mon, 19 Oct 2026 14:02:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国对四十项高端技术实施出口管制</title>
+      <description><![CDATA[要闻速览：中国将40项高端技术列入出口管制，全球供应链与中国科技格局受影响；欧盟升级数字主权监管，AI与大数据全球治理趋紧；全球CBDC跨境合作加速，人民币国际化推进；TSMC推进先进工艺并推动统一标准，全球半导体生态受益；比特币矿机高度依赖中国，半导体短缺叠加矿业风险；美能源价格上升与通胀压力加剧，全球资本市场波动。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">08e263f2-0a4b-45d8-9576-60fd1c961182</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-20/audio.mp3" length="8409069" type="audio/mpeg"/>
+      <itunes:duration>08:45</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 14:03:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
