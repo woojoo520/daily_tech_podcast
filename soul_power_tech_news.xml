@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:03:14 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 22 Oct 2026 14:03:28 +0800</pubDate>
+    <pubDate>Fri, 23 Oct 2026 14:02:34 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5087,6 +5087,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-22/audio.mp3" length="7561197" type="audio/mpeg"/>
       <itunes:duration>07:52</itunes:duration>
       <pubDate>Thu, 22 Oct 2026 14:03:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>美欧芯片并购潮冲击全球供应链</title>
+      <description><![CDATA[全球要闻聚焦：特斯拉Q3披露机器人出租车与AI5芯片突破，计划2027起商用，推动智能制造与芯片产业链；欧盟通过数字市场法加强平台监管；OpenAI升级GPT，企业级端到端API上线，推动全球AI应用；美欧芯片并购潮与阿美延期扩产将冲击全球能源与供应链；亚马逊升级AI供应链平台提效跨境贸易；韩国SK扩大电池产能，重塑全球新能源车供应链。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1dc0d0d8-6923-462b-a99a-07cb7262ffbc</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-23/audio.mp3" length="6905709" type="audio/mpeg"/>
+      <itunes:duration>07:11</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 14:02:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
