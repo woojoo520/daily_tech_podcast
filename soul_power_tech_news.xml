@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:03:47 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 23 Oct 2026 14:02:34 +0800</pubDate>
+    <pubDate>Sat, 24 Oct 2026 14:03:01 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5097,6 +5097,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-23/audio.mp3" length="6905709" type="audio/mpeg"/>
       <itunes:duration>07:11</itunes:duration>
       <pubDate>Fri, 23 Oct 2026 14:02:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球人工智能算力推动六代变革</title>
+      <description><![CDATA[全球要闻：AI-RAN全球首演推动6G结构变革，AI算力与通信生态深度融合；中国稳外贸、扩内需、升级智能制造与新能源；印度拟2030年新车强制AEBS、煤运刷新纪录，能源格局再变；全球半导体格局分散，中国企业跻身A股龙头；AI监管与算力创新并进，APEC在京推动区域协同，油市波动影响全球能源与贸易。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">afb6dfe8-db4f-4ca8-b90f-92fc4865b06b</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-24/audio.mp3" length="7714989" type="audio/mpeg"/>
+      <itunes:duration>08:02</itunes:duration>
+      <pubDate>Sat, 24 Oct 2026 14:03:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
