@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 25 Oct 2026 06:03:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:03:23 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 25 Oct 2026 14:03:07 +0800</pubDate>
+    <pubDate>Mon, 26 Oct 2026 14:02:48 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5117,6 +5117,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-25/audio.mp3" length="7801389" type="audio/mpeg"/>
       <itunes:duration>08:07</itunes:duration>
       <pubDate>Sun, 25 Oct 2026 14:03:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国半导体国产替代崛起全球瞩目</title>
+      <description><![CDATA[全球聚焦：美联储利率与科技巨头财报牵动市场，AI投资成牛市核心变量；美国制造业PMI创新高，全球信心回暖。韩国超日本成五大出口，台湾AI芯片制造跃居第六，中国半导体因国产替代崛起。新能源与AI带动设备、储能大幅扩张，中国车企持续出海。区域电力市场启动，推动全球能源与供应链协同]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">90e179fd-0325-48d5-b180-d48d99d94382</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-26/audio.mp3" length="6859053" type="audio/mpeg"/>
+      <itunes:duration>07:08</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 14:02:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
