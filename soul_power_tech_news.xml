@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:04:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 26 Oct 2026 14:02:48 +0800</pubDate>
+    <pubDate>Tue, 27 Oct 2026 14:03:22 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5127,6 +5127,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-26/audio.mp3" length="6859053" type="audio/mpeg"/>
       <itunes:duration>07:08</itunes:duration>
       <pubDate>Mon, 26 Oct 2026 14:02:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国发布全球首个人工智能就业冲击评估</title>
+      <description><![CDATA[全球科技要点：Anthropic递交IPO，成AI史上最大上市案，监管关注度高；中国发布全球首个AI就业冲击评估，强调就业与社保衔接；Meta宣布950亿美元股权与350亿美元新股募资，聚焦AI数据中心与生态扩张；全球AI泡沫调整，中国AI/半导体承压；Intel23亿美元并购Classiq，量子商业化迈进；高盛主导2100亿美元AI融资日，推动市场集中化；美英强化关键基础设施韧性，能源与数字供应链再受关注。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">2c1100ce-f6c0-43d8-afe9-00c964ce7f0c</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-10-27/audio.mp3" length="9649197" type="audio/mpeg"/>
+      <itunes:duration>10:03</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 14:03:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
