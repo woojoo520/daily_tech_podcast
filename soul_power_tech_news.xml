@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:02:45 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 10 Nov 2026 21:29:09 +0800</pubDate>
+    <pubDate>Wed, 11 Nov 2026 15:02:12 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5147,6 +5147,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-10/audio.mp3" length="6461037" type="audio/mpeg"/>
       <itunes:duration>06:43</itunes:duration>
       <pubDate>Tue, 10 Nov 2026 21:29:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达暴跌震动全球芯片格局与供应链</title>
+      <description><![CDATA[要闻速览：Nvidia市值暴跌震动全球AI芯片格局与中国供应链安全；中国芯片自主化与国际博弈加剧；中美关税调整扰动全球贸易；Anthropic启动IPO，刷新AI融资纪录并引领算力生态；六网协同推动算力基础设施一体化；新一代Wi‑Fi和边缘AI落地，提升全球终端与制造业水平。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">9fea5b8d-169e-4775-89db-317c900c8be9</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-11/audio.mp3" length="7157997" type="audio/mpeg"/>
+      <itunes:duration>07:27</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 15:02:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
