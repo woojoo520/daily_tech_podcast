@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:03:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Wed, 11 Nov 2026 15:02:12 +0800</pubDate>
+    <pubDate>Thu, 12 Nov 2026 15:02:26 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5157,6 +5157,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-11/audio.mp3" length="7157997" type="audio/mpeg"/>
       <itunes:duration>07:27</itunes:duration>
       <pubDate>Wed, 11 Nov 2026 15:02:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>美对算力出口管制再陷僵局</title>
+      <description><![CDATA[全球科技经济要闻：美对Nvidia出口管制再陷僵局，监管博弈加剧或致AI算力分化；西北工业大学等绕禁购算力暴露监管漏洞；CoreWeave业绩亮眼推升科技股，Anthropic拟IPO但估值下挫；中国三季度GDP增4.5%，高新制造仍为增长引擎，AI需求上升推升汽车芯片供应链新瓶颈。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">da5201ba-2817-4b8c-ac28-7f001e98a784</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-12/audio.mp3" length="8111853" type="audio/mpeg"/>
+      <itunes:duration>08:26</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 15:02:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
