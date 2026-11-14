@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Nov 2026 07:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:03:09 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 13 Nov 2026 15:03:58 +0800</pubDate>
+    <pubDate>Sat, 14 Nov 2026 15:02:47 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5177,6 +5177,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-13/audio.mp3" length="7325037" type="audio/mpeg"/>
       <itunes:duration>07:37</itunes:duration>
       <pubDate>Fri, 13 Nov 2026 15:03:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>美中贸谈再进展关税出口管制波及芯片链</title>
+      <description><![CDATA[全球要闻速览：美中贸易谈判再有进展，关税与出口管制波动影响全球制造与AI/半导体供应链；日美欧加速自主芯片研发，推动材料国产化；主要央行信号与人民币波动重塑资本流向；俄乌冲突升级致油价上扬，新能源与多源进口加速；稀土等关键矿产多元化与回收成为焦点；欧美提出AI治理框架，中国加快对接；海底光缆调整与跨境数字货币监管加强，电动车材料与物流绿色升级也在推进。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">7d8efb9d-4a13-440b-a4d0-3617c2c45bff</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-14/audio.mp3" length="5279085" type="audio/mpeg"/>
+      <itunes:duration>05:29</itunes:duration>
+      <pubDate>Sat, 14 Nov 2026 15:02:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
