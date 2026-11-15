@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Nov 2026 07:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:02:31 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sat, 14 Nov 2026 15:02:47 +0800</pubDate>
+    <pubDate>Sun, 15 Nov 2026 15:02:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5187,6 +5187,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-14/audio.mp3" length="5279085" type="audio/mpeg"/>
       <itunes:duration>05:29</itunes:duration>
       <pubDate>Sat, 14 Nov 2026 15:02:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>美再限华半导体出口促自研</title>
+      <description><![CDATA[要闻速览：美再限华半导体出口，促自研；GPT-6将面向企业落地；欧盟数据法加强本地化；LG与天齐签长期锂材合作，拓欧洲厂；通胀上行致全球股市波动与资金外流；Waymo-Uber在德州试点无人车商用；阿里巴巴合并天猫淘宝以提效；欧佩克称油需增速放缓，推动绿色转型；苹果推iOS20.1，强化端侧AI与本地化；联想AI PC带动业绩并强化全球合作。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">6ed27c4d-2dd5-4743-859e-b39f834c9a58</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-15/audio.mp3" length="5470317" type="audio/mpeg"/>
+      <itunes:duration>05:41</itunes:duration>
+      <pubDate>Sun, 15 Nov 2026 15:02:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
