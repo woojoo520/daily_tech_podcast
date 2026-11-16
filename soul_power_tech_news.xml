@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Nov 2026 07:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:03:38 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 15 Nov 2026 15:02:07 +0800</pubDate>
+    <pubDate>Mon, 16 Nov 2026 15:03:01 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5197,6 +5197,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-15/audio.mp3" length="5470317" type="audio/mpeg"/>
       <itunes:duration>05:41</itunes:duration>
       <pubDate>Sun, 15 Nov 2026 15:02:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>美等签署人工智能供应链协定分散核心环节</title>
+      <description><![CDATA[全球要闻：美等签署人工智能供应链保护协定，分散核心环节；英伟达辞任引发市场波动；国际货币基金组织警示AI带来金融系统性风险；中美贸促会谈推动对等降税与农产品互购；Anthropic拟在纳斯达克上市，估值近万亿美元；深圳APEC展示中国科技创新与全球影响力。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">72081e7f-1f89-418f-a59b-66cba57b8071</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-16/audio.mp3" length="7253037" type="audio/mpeg"/>
+      <itunes:duration>07:33</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 15:03:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
