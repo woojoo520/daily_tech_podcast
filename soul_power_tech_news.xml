@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Nov 2026 07:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:03:52 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Mon, 16 Nov 2026 15:03:01 +0800</pubDate>
+    <pubDate>Tue, 17 Nov 2026 15:03:22 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5207,6 +5207,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-16/audio.mp3" length="7253037" type="audio/mpeg"/>
       <itunes:duration>07:33</itunes:duration>
       <pubDate>Mon, 16 Nov 2026 15:03:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>美收紧人工智能芯片出口</title>
+      <description><![CDATA[全球科技经济要闻：美收紧AI芯片出口，堵住海外算力后门；Nvidia创始人因Megaspeed事件辞职，股价暴跌；IMF警告AI投资超万亿美元，全球增长易受冲击；美内部分歧再收紧管控。中国本土芯片股大涨，AI应用挑战增大，芯片-应用分化明显；AI前景仍被看好但存泡沫与能源风险。英国重返AI舞台加强美英合作；加拿大总理将访华与东大领导人就科技与能源对话。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">a89ad2ef-0a78-418d-9bad-9926e49b2dec</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-17/audio.mp3" length="6788781" type="audio/mpeg"/>
+      <itunes:duration>07:04</itunes:duration>
+      <pubDate>Tue, 17 Nov 2026 15:03:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
