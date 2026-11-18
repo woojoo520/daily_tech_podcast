@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Nov 2026 07:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:03:18 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Tue, 17 Nov 2026 15:03:22 +0800</pubDate>
+    <pubDate>Wed, 18 Nov 2026 15:02:42 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5217,6 +5217,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-17/audio.mp3" length="6788781" type="audio/mpeg"/>
       <itunes:duration>07:04</itunes:duration>
       <pubDate>Tue, 17 Nov 2026 15:03:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>美收紧人工智能芯片出口阻断中国算力路径</title>
+      <description><![CDATA[今日全球科技·经济要点：美商部收紧AI芯片出口，堵断中国通过第三国获得算力的路径，影响中国AI与东盟数据中心。Nvidia设立国家安全与出口管控专责委员会，应对地缘风险。Anthropic拟在纳斯达克上市，估值约1.4万亿美元，或重塑全球AI融资。参院提案终止中国PNTR，关税与供应链再波动。东南亚数据中心禁向中企提供算力，区域投资受压；美企在华营收与全球供应链格局面临新挑战。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">4658e960-4f20-44c8-b0d9-14f1bdeea268</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-18/audio.mp3" length="6008877" type="audio/mpeg"/>
+      <itunes:duration>06:15</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 15:02:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
