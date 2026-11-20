@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:03:35 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 19 Nov 2026 15:02:52 +0800</pubDate>
+    <pubDate>Fri, 20 Nov 2026 15:03:07 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5237,6 +5237,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-19/audio.mp3" length="7746669" type="audio/mpeg"/>
       <itunes:duration>08:04</itunes:duration>
       <pubDate>Thu, 19 Nov 2026 15:02:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国对华人工智能芯片出口受审查</title>
+      <description><![CDATA[全球科技要闻：Anthropic在美上市募资813亿美元，创纪录；美对华AI芯片出口近9万枚受审查，云端绕道被堵；Nvidia调查与出口管制冲击供应链；Meta因AI扩张致排放激增，碳中和目标受评估；APEC就AI安全达成共识，中国纳入议程；特斯拉在华增产出口以应对全球壁垒，推动供应链再平衡。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">1dc5b9b8-f595-4b35-8183-67610a7c5323</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-20/audio.mp3" length="7393005" type="audio/mpeg"/>
+      <itunes:duration>07:42</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 15:03:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
