@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Nov 2026 07:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Sun, 22 Nov 2026 15:02:13 +0800</pubDate>
+    <pubDate>Mon, 23 Nov 2026 15:03:12 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5267,6 +5267,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-22/audio.mp3" length="7164333" type="audio/mpeg"/>
       <itunes:duration>07:27</itunes:duration>
       <pubDate>Sun, 22 Nov 2026 15:02:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>中美升级高端芯片出口管制影响深远</title>
+      <description><![CDATA[全球科技财经要闻速览：美中对高端芯片出口管制升级，全球供应链趋于分裂；NVIDIA股价暴跌、AI泡沫风险上升及监管趋严；发达经济体贸易壁垒加剧、去全球化抬头；AI治理博弈与欧盟新规；日韩欧推芯片自立与欧洲芯片法案推进；能源矿产转移壁垒加剧；跨境电商与物流成本上升；全球IPO窗口收缩，创新资本与研发受压。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">3a86ddad-f6b5-4be0-8cd0-a98eb7614bc9</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-23/audio.mp3" length="7095789" type="audio/mpeg"/>
+      <itunes:duration>07:23</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 15:03:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
