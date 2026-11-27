@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 07:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:03:16 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Thu, 26 Nov 2026 15:02:42 +0800</pubDate>
+    <pubDate>Fri, 27 Nov 2026 15:02:49 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5307,6 +5307,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-26/audio.mp3" length="6600429" type="audio/mpeg"/>
       <itunes:duration>06:52</itunes:duration>
       <pubDate>Thu, 26 Nov 2026 15:02:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国重启关税冲击全球科技供应链</title>
+      <description><![CDATA[本期全球科技与经济要闻：美国重启301关税，14国受影响，半导体与制造业承压；美非洲矿产合作加速，力图削弱对华依赖并重塑新能源供应链；中美印等格局再调整，中国成本优势下降，区域低价竞争抬头；欧洲防务支出激增，北约军工扩张推动全球军民融合与高端制造需求。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">4aed2654-5077-497e-87f2-4f22ada1a281</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-27/audio.mp3" length="8501805" type="audio/mpeg"/>
+      <itunes:duration>08:51</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 15:02:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
