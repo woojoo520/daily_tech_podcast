@@ -11,10 +11,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:04:25 +0000</lastBuildDate>
     <itunes:author>woojoo</itunes:author>
     <managingEditor>woojoo10@outlook.com (woojoo)</managingEditor>
-    <pubDate>Fri, 27 Nov 2026 15:02:49 +0800</pubDate>
+    <pubDate>Sat, 28 Nov 2026 15:03:58 +0800</pubDate>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -5317,6 +5317,16 @@ Freedom Fuel诉讼涉400万美元，或影响市场规则。
       <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-27/audio.mp3" length="8501805" type="audio/mpeg"/>
       <itunes:duration>08:51</itunes:duration>
       <pubDate>Fri, 27 Nov 2026 15:02:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>美监管趋严冲击中企海外融资</title>
+      <description><![CDATA[本期全球科技与经济要闻速览：中非能源合作显现成效，吕德里茨50MW风电在纳米比亚开工，推动清洁能源与就业。美股与港美市场监管趋严影响中国新能源与AI企业海外融资。AI与半导体板块震荡，欧美防务升级推动无人化与本地芯片布局。美国通胀与GDP数据抬升12月加息概率，全球资金与人民币走势受影响。全球科技股回暖，中概股表现向好，AI驱动的个性化体验成新趋势。中亚能源展现中国企业全球布局正在加速。]]></description>
+      <itunes:author>woojoo</itunes:author>
+      <author>name='woojoo' email='woojoo10@outlook.com'</author>
+      <guid isPermaLink="false">ad2bdf6e-e77b-4745-98bf-e4803baa9de5</guid>
+      <enclosure url="https://raw.githubusercontent.com/woojoo520/daily_tech_podcast/refs/heads/main/episodes/2026-11-28/audio.mp3" length="8265069" type="audio/mpeg"/>
+      <itunes:duration>08:36</itunes:duration>
+      <pubDate>Sat, 28 Nov 2026 15:03:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
